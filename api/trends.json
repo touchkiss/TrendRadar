@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T16:18:57.569578+08:00",
-  "total_titles_processed": 1377,
+  "generated_at": "2025-11-11T17:15:50.145604+08:00",
+  "total_titles_processed": 1482,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 55,
       "titles": [
         {
           "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
@@ -70,8 +70,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时43分 ~ 16时18分]"
+          "appearance_count": 7,
+          "time_info": "[11时43分 ~ 17时15分]"
         },
         {
           "title": "白宫经济顾问哈塞特被问及50年期抵押贷款方案，称：我支持美国总统特朗普的想法。 白宫将举行一系列会议。",
@@ -83,6 +83,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "特朗普考虑降低对瑞士关税 瑞士钟表股应声大涨",
+          "url": "https://flash.jin10.com/detail/20251111164448801800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         },
         {
           "title": "特朗普的“贸易战”收到了什么结果",
@@ -109,6 +120,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时24分 ~ 07时25分]"
+        },
+        {
+          "title": "叙利亚政权领导人历史性访美，特朗普：他是非常强势的领导人",
+          "url": "https://news.ifeng.com/c/8oBpqNUPhuf",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时21分 ~ 17时15分]"
         },
         {
           "title": "BBC主席就特朗普纪录片争议道歉，特朗普称或索赔至少10亿美元",
@@ -180,18 +203,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时26分]"
-        },
-        {
-          "title": "叙利亚政权领导人历史性访美，特朗普：他是非常强势的领导人",
-          "url": "https://news.ifeng.com/c/8oBpqNUPhuf",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时21分 ~ 16时18分]"
         },
         {
           "title": "特朗普明年会重启对华贸易战吗",
@@ -395,6 +406,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
+        },
+        {
+          "title": "激怒特朗普，BBC身陷数十年来“最严重危机”",
+          "url": "https://news.ifeng.com/c/8oCBMrJmQx8",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         },
         {
           "title": "美国总统特朗普要求空中交通控制管理人员立即重返工作岗位。 特朗普在自家社交媒体平台暗示，政府关门期间，空管人员将获得1万美元（“津贴”）。",
@@ -695,8 +717,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时41分 ~ 16时18分]"
+          "appearance_count": 8,
+          "time_info": "[10时41分 ~ 17时15分]"
         },
         {
           "title": "美政府关门有望结束，科技股引领美股强劲反弹，英伟达涨超5%，金银大涨",
@@ -896,8 +918,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "软银集团CFO：我们对OpenAI的投资非常巨大，因此我们必须利用现有资产为投资提供资金。",
+          "url": "https://flash.jin10.com/detail/20251111164357600800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        },
         {
           "title": "参议员向特朗普政府询问数据中心对电价的影响，谈及OpenAI和甲骨文等",
           "url": "https://wallstreetcn.com/livenews/3002253",
@@ -917,7 +950,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         },
@@ -979,6 +1012,108 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "金价涨超2% 创本月最大涨幅",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%B6%A8%E8%B6%852%25+%E5%88%9B%E6%9C%AC%E6%9C%88%E6%9C%80%E5%A4%A7%E6%B6%A8%E5%B9%85",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时26分 ~ 06时26分]"
+        },
+        {
+          "title": "金价大涨但黄金首饰难卖了",
+          "url": "https://www.toutiao.com/trending/7571079598381731371/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            27,
+            29,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 07时25分]"
+        },
+        {
+          "title": "摩根大通私人银行：到2026年底，金价可能达到5200-5300美元",
+          "url": "https://flash.jin10.com/detail/20251111034728559800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "金十图示：2025年11月11日（周二）上海金早盘价为948.23元/克，较国际金价(947.89元/克)，高0.34元/克",
+          "url": "https://flash.jin10.com/detail/20251111110107281800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 12时18分]"
+        },
+        {
+          "title": "摩根大通私人银行：黄金价格到明年底有望突破5,000美元",
+          "url": "https://wallstreetcn.com/livenews/3002303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 05时24分]"
+        },
+        {
+          "title": "最高至1500元！国际金价重回4100美元后，多家银行今日再上调积存金起购门槛",
+          "url": "https://www.cls.cn/detail/2197016",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        },
+        {
+          "title": "非洲股市收盘播报｜南非股指收涨约2%，兰特涨超0.8%，追随金价一度涨穿4100美元的表现",
+          "url": "https://wallstreetcn.com/livenews/3002234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        },
+        {
+          "title": "最长政府停摆即将结束 金价创下近三周新高",
+          "url": "https://flash.jin10.com/detail/20251111163501589800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
       "match_count": 7,
       "titles": [
@@ -992,6 +1127,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时35分 ~ 07时25分]"
+        },
+        {
+          "title": "伊朗否认密谋暗杀以驻墨西哥大使",
+          "url": "https://news.ifeng.com/c/8oCBAFytiMm",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 17时15分]"
         },
         {
           "title": "美国官员表示，黎巴嫩必须“结束伊朗通过真主党施加的恶意影响”。",
@@ -1025,17 +1171,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
-        },
-        {
-          "title": "伊朗否认密谋暗杀以驻墨西哥大使",
-          "url": "https://news.ifeng.com/c/8oCBAFytiMm",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时18分"
         },
         {
           "title": "美国财政部：暂停（对叙利亚）制裁，但涉及俄罗斯和伊朗的某些交易除外。",
@@ -1136,82 +1271,30 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 6,
+      "keyword_group": "美债",
+      "match_count": 2,
       "titles": [
         {
-          "title": "金价涨超2% 创本月最大涨幅",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%B6%A8%E8%B6%852%25+%E5%88%9B%E6%9C%AC%E6%9C%88%E6%9C%80%E5%A4%A7%E6%B6%A8%E5%B9%85",
+          "title": "近30年全球央行黄金持有首次超美债",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%9130%E5%B9%B4%E5%85%A8%E7%90%83%E5%A4%AE%E8%A1%8C%E9%BB%84%E9%87%91%E6%8C%81%E6%9C%89%E9%A6%96%E6%AC%A1%E8%B6%85%E7%BE%8E%E5%80%BA",
           "source": "百度热搜",
           "ranks": [
-            27,
-            26,
-            23
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时26分 ~ 06时26分]"
+          "appearance_count": 3,
+          "time_info": "[03时22分 ~ 04时31分]"
         },
         {
-          "title": "金价大涨但黄金首饰难卖了",
-          "url": "https://www.toutiao.com/trending/7571079598381731371/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            27,
-            29,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 07时25分]"
-        },
-        {
-          "title": "摩根大通私人银行：到2026年底，金价可能达到5200-5300美元",
-          "url": "https://flash.jin10.com/detail/20251111034728559800",
+          "title": "梅茨勒银行：美债收益率面临政府重开、新债发行与关税合法性三重压力",
+          "url": "https://flash.jin10.com/detail/20251111163551460800",
           "source": "金十数据",
           "ranks": [
-            3
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时31分"
-        },
-        {
-          "title": "金十图示：2025年11月11日（周二）上海金早盘价为948.23元/克，较国际金价(947.89元/克)，高0.34元/克",
-          "url": "https://flash.jin10.com/detail/20251111110107281800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 12时18分]"
-        },
-        {
-          "title": "摩根大通私人银行：黄金价格到明年底有望突破5,000美元",
-          "url": "https://wallstreetcn.com/livenews/3002303",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时31分 ~ 05时24分]"
-        },
-        {
-          "title": "非洲股市收盘播报｜南非股指收涨约2%，兰特涨超0.8%，追随金价一度涨穿4100美元的表现",
-          "url": "https://wallstreetcn.com/livenews/3002234",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "time_info": "17时15分"
         }
       ]
     },
@@ -1260,23 +1343,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "近30年全球央行黄金持有首次超美债",
-          "url": "https://www.baidu.com/s?wd=%E8%BF%9130%E5%B9%B4%E5%85%A8%E7%90%83%E5%A4%AE%E8%A1%8C%E9%BB%84%E9%87%91%E6%8C%81%E6%9C%89%E9%A6%96%E6%AC%A1%E8%B6%85%E7%BE%8E%E5%80%BA",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时22分 ~ 04时31分]"
         }
       ]
     }
