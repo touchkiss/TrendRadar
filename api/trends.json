@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T04:15:47.790535+08:00",
-  "total_titles_processed": 533,
+  "generated_at": "2025-11-12T05:13:36.859022+08:00",
+  "total_titles_processed": 572,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI openai IT 科技 gpt",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "美政府关门有望结束，科技股引领纳指大反弹，英伟达涨近6%，金银大涨",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 05时13分]"
         },
         {
           "title": "“大空头”切换“战斗模式”！Burry：科技巨头“低估折旧导致利润虚高”，2028年甲骨文利润虚高26.9%，Meta虚高20.8%",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 05时13分]"
         },
         {
           "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 05时13分]"
         },
         {
           "title": "李飞飞发表长文：空间智能是AI下一个前沿",
@@ -49,8 +49,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 05时13分]"
         },
         {
           "title": "硬刚真Air标准!联想官方遭怒喷",
@@ -60,8 +60,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 05时13分]"
         },
         {
           "title": "科技股估值忧虑重燃，纳指跌幅扩大至0.85%，现货黄金一度跌破4100美元，比特币跌超1%",
@@ -72,8 +72,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时13分 ~ 04时15分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 05时13分]"
+        },
+        {
+          "title": "标普500指数初步收涨0.1%，保健板块涨约2.3%，日用消费品、能源、原材料、房地产板块至少涨约1.1%，电信板块涨0.5%，科技板块跌0.6%。 纳斯达克100指数初步收跌0.3%，成分股中，Applovin初步收跌8.7%，美光科技、拉姆研究、迈威尔科技、Arm控股、铿腾电子、英伟达至多跌5%，Strategy（MSTR）跌2.6%，霍尼韦尔则涨2.3%，吉利德科学涨3.8%，安进涨4.5%，德康医疗涨5.9%。 Merck初步收涨4.8%，安进涨4.5%，耐克、强生、麦当劳、迪士尼等涨超2%，在道指成分股中领跑，英伟达表现最差。 芯片概念股中，Onto跌5.6%，相干公司Coherent跌5.5%，纳微半导体跌5.5%，美光跌5%。",
+          "url": "https://wallstreetcn.com/livenews/3002971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.43%，报26865点。 恒生科技指数主连夜盘收涨0.29%，报5953点。",
@@ -81,11 +92,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            7
+            7,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时12分 ~ 04时15分]"
+          "appearance_count": 3,
+          "time_info": "[03时12分 ~ 05时13分]"
+        },
+        {
+          "title": "AMD(AMD.O)：数据中心的增长目标是数据中心的AI芯片。",
+          "url": "https://flash.jin10.com/detail/20251112024020124800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时12分 ~ 05时13分]"
         },
         {
           "title": "挪威：暂停主权财富基金道德准则使其免于抛售2300亿美元科技股",
@@ -113,28 +138,17 @@
           "time_info": "[02时20分 ~ 03时12分]"
         },
         {
-          "title": "AMD(AMD.O)：数据中心的增长目标是数据中心的AI芯片。",
-          "url": "https://flash.jin10.com/detail/20251112024020124800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时12分 ~ 04时15分]"
-        },
-        {
           "title": "AMD：预计2027年与数据中心相关的AI芯片业务收入将为“数百亿美元”。 服务器CPU的市场份额超过50%。 PC（个人电脑）市场的份额超过40%。 预计未来3-5年CAGR（复合年均增长率）年度收入增幅为35%。 预计整体数据中心增速将比CAGR市场多出60%。",
           "url": "https://wallstreetcn.com/livenews/3002943",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            11
+            11,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时12分 ~ 04时15分]"
+          "appearance_count": 3,
+          "time_info": "[03时12分 ~ 05时13分]"
         },
         {
           "title": "NeoCloud（新云）供应商Nebius Group NV下跌超5.6%，Meta Platforms跌1.5%。 两家公司签署人工智能（AI）基础设施协议，Nebius三季度销售同比激增355%至1.46亿美元。",
@@ -249,6 +263,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "军事",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "乌克兰最高军事指挥官瑟尔斯基表示，扎波罗热州东南部部分地区局势已“显著恶化”。",
+          "url": "https://flash.jin10.com/detail/20251112035714178800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         }
       ]
     },
