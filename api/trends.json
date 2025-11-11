@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T20:37:27.206876+08:00",
-  "total_titles_processed": 1788,
+  "generated_at": "2025-11-11T21:01:03.665526+08:00",
+  "total_titles_processed": 1825,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI openai IT 科技 gpt",
-      "match_count": 79,
+      "match_count": 81,
       "titles": [
         {
           "title": "美政府关门有望结束，科技股引领纳指大反弹，英伟达涨近6%，金银大涨",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时01分 ~ 20时37分]"
+          "appearance_count": 15,
+          "time_info": "[10时01分 ~ 21时01分]"
         },
         {
           "title": "复盘“五大泡沫指标”，高盛认为“当下更像1997而非1999，AI牛市还有下半场”",
@@ -42,6 +42,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时01分 ~ 15时14分]"
+        },
+        {
+          "title": "“大空头”切换“战斗模式”！Burry：科技巨头“低估折旧导致利润虚高”，2028年甲骨文利润虚高26.9%，Meta虚高20.8%",
+          "url": "https://wallstreetcn.com/articles/3759101",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时21分 ~ 21时01分]"
         },
         {
           "title": "12岁小孩做一张AI图吓坏整个小区",
@@ -86,8 +99,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时35分 ~ 20时37分]"
+          "appearance_count": 26,
+          "time_info": "[00时35分 ~ 21时01分]"
         },
         {
           "title": "台积电10月营收增速放缓 AI热潮可持续性再受质疑",
@@ -118,19 +131,6 @@
           "time_info": "[00时35分 ~ 07时25分]"
         },
         {
-          "title": "“大空头”切换“战斗模式”！Burry：科技巨头“低估折旧导致利润虚高”，2028年甲骨文利润虚高26.9%，Meta虚高20.8%",
-          "url": "https://wallstreetcn.com/articles/3759101",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时21分 ~ 20时37分]"
-        },
-        {
           "title": "每天一个奇吧—novelai吧",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346920&amp;topic_name=%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AA%E5%A5%87%E5%90%A7%E2%80%94novelai%E5%90%A7",
           "source": "贴吧",
@@ -157,6 +157,20 @@
           "time_info": "[12时18分 ~ 18时16分]"
         },
         {
+          "title": "2025乌镇峰会观察：AI大模型“上身”机器人 浙江本土科技力量成新焦点",
+          "url": "https://www.cls.cn/detail/2196822",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时18分 ~ 21时01分]"
+        },
+        {
           "title": "美政府关门有望结束，科技股引领美股强劲反弹，英伟达涨超5%，金银大涨",
           "url": "https://wallstreetcn.com/articles/3759018",
           "source": "华尔街见闻",
@@ -166,6 +180,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时24分 ~ 07时25分]"
+        },
+        {
+          "title": "李飞飞发表长文：空间智能是AI下一个前沿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31939684",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时15分 ~ 21时01分]"
         },
         {
           "title": "美参议员指责AI热潮推高电价 要求白宫应对数据中心用电压力",
@@ -193,17 +221,15 @@
           "time_info": "[01时26分 ~ 07时25分]"
         },
         {
-          "title": "2025乌镇峰会观察：AI大模型“上身”机器人 浙江本土科技力量成新焦点",
-          "url": "https://www.cls.cn/detail/2196822",
-          "source": "财联社热门",
+          "title": "AI基础设施需求引爆Nebius业绩 产能售罄显示市场信心",
+          "url": "https://flash.jin10.com/detail/20251111203518591800",
+          "source": "金十数据",
           "ranks": [
-            11,
-            8,
-            12
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时18分 ~ 20时37分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "CoreWeave三季度营收13.6亿美元，分析师预期12.9亿美元。 三季度净亏损1.101亿美元，分析师预期亏损2.996亿美元。 三季度调整后Ebitda为8.381亿美元，分析师预期8.217亿美元。 三季度调整后EBITDA利润率61%，分析师预期62.3%。",
@@ -250,6 +276,19 @@
           "time_info": "17时15分"
         },
         {
+          "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
+          "url": "https://wallstreetcn.com/articles/3759120",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时12分 ~ 21时01分]"
+        },
+        {
           "title": "软银集团CFO：我们对OpenAI的投资非常巨大，因此我们必须利用现有资产为投资提供资金。",
           "url": "https://flash.jin10.com/detail/20251111164357600800",
           "source": "金十数据",
@@ -270,20 +309,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
-        },
-        {
-          "title": "李飞飞发表长文：空间智能是AI下一个前沿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31939684",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时15分 ~ 20时37分]"
         },
         {
           "title": "钢琴奶奶给AI打分评歌",
@@ -375,18 +400,6 @@
           "time_info": "[10时01分 ~ 10时41分]"
         },
         {
-          "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
-          "url": "https://wallstreetcn.com/articles/3759120",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时12分 ~ 20时37分]"
-        },
-        {
           "title": "美国家庭电费上涨，左翼参议员桑德斯致信白宫：别让老百姓为科技巨头的AI梦买单",
           "url": "https://wallstreetcn.com/articles/3759084",
           "source": "华尔街见闻",
@@ -396,6 +409,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时12分 ~ 20时37分]"
+        },
+        {
+          "title": "中国-英国科技创新合作联委会第11次会议在京召开",
+          "url": "https://wallstreetcn.com/livenews/3002788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时26分 ~ 21时01分]"
         },
         {
           "title": "英伟达拉美主管Marcio Aguiar：英伟达支持创新。 在墨西哥，人工智能（AI）机会大于挑战。 英伟达的合作伙伴们现在计划在墨西哥投资。 他们将在墨西哥数据中心投资200万-400万美元。",
@@ -456,17 +481,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 07时25分]"
-        },
-        {
-          "title": "中国-英国科技创新合作联委会第11次会议在京召开",
-          "url": "https://wallstreetcn.com/livenews/3002788",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时37分]"
         },
         {
           "title": "金十图示：2025年11月11日（周二）全球主要科技与互联网公司市值变化",
@@ -584,6 +598,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
+        },
+        {
+          "title": "永贵电器：与智元创新（上海）科技股份有限公司签订战略框架协议，共同探索连接器及线束在人形机器人上的应用以及人形机器人在连接器制造领域及连接器上下游行业的创新应用。",
+          "url": "https://wallstreetcn.com/livenews/3002803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "科技股估值飙升带动软银Q3利润大涨，旗下基金清仓英伟达、追投OpenAI",
@@ -958,5 +983,5 @@
       ]
     }
   ],
-  "report_image_url": "https://touchkiss.github.io/TrendRadar/img/news.jpg"
+  "report_image_url": "https://sansan0.github.io/TrendRadar/img/news.jpg"
 }
