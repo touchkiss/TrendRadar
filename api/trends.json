@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T01:14:13.086216+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2025-11-12T02:20:11.985799+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI openai IT 科技 gpt",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "美政府关门有望结束，科技股引领纳指大反弹，英伟达涨近6%，金银大涨",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 01时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 02时20分]"
         },
         {
           "title": "“大空头”切换“战斗模式”！Burry：科技巨头“低估折旧导致利润虚高”，2028年甲骨文利润虚高26.9%，Meta虚高20.8%",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 01时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 02时20分]"
         },
         {
           "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 01时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 02时20分]"
         },
         {
           "title": "李飞飞发表长文：空间智能是AI下一个前沿",
@@ -49,8 +49,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 01时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 02时20分]"
         },
         {
           "title": "硬刚真Air标准!联想官方遭怒喷",
@@ -60,19 +60,42 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 01时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 02时20分]"
+        },
+        {
+          "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
+          "url": "https://flash.jin10.com/detail/20251112020238925800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "挪威：暂停主权财富基金道德准则使其免于抛售2300亿美元科技股",
+          "url": "https://wallstreetcn.com/livenews/3002930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时20分"
         },
         {
           "title": "科技股估值忧虑重燃，纳指跌幅扩大至0.85%，现货黄金一度跌破4100美元，比特币跌超1%",
           "url": "https://wallstreetcn.com/articles/3759125",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 01时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 02时20分]"
         },
         {
           "title": "NeoCloud（新云）供应商Nebius Group NV下跌超5.6%，Meta Platforms跌1.5%。 两家公司签署人工智能（AI）基础设施协议，Nebius三季度销售同比激增355%至1.46亿美元。",
@@ -152,6 +175,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "据Politico：特朗普政府宣布消费者金融保护局拨款非法。",
+          "url": "https://flash.jin10.com/detail/20251112010827200800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "发布会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "法国总统埃马克龙和巴勒斯坦总统阿巴斯在爱丽舍宫会谈后举行联合新闻发布会。",
+          "url": "https://flash.jin10.com/detail/20251112011635847800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时20分"
         }
       ]
     }
