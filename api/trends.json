@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T12:18:38.333019+08:00",
-  "total_titles_processed": 1077,
+  "generated_at": "2025-11-12T13:15:53.060535+08:00",
+  "total_titles_processed": 1154,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI openai IT 科技 gpt",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "美政府关门有望结束，科技股引领纳指大反弹，英伟达涨近6%，金银大涨",
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时17分 ~ 12时18分]"
+          "appearance_count": 18,
+          "time_info": "[00时17分 ~ 13时15分]"
         },
         {
           "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
@@ -52,8 +52,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时01分 ~ 12时18分]"
+          "appearance_count": 7,
+          "time_info": "[09时01分 ~ 13时15分]"
         },
         {
           "title": "李飞飞发表长文：空间智能是AI下一个前沿",
@@ -64,11 +64,12 @@
             12,
             11,
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时17分 ~ 12时18分]"
+          "appearance_count": 18,
+          "time_info": "[00时17分 ~ 13时15分]"
         },
         {
           "title": "硬刚真Air标准!联想官方遭怒喷",
@@ -103,11 +104,25 @@
           "ranks": [
             9,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时01分 ~ 12时18分]"
+          "appearance_count": 7,
+          "time_info": "[09时01分 ~ 13时15分]"
+        },
+        {
+          "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
+          "url": "https://www.cls.cn/detail/2197744",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时01分 ~ 13时15分]"
         },
         {
           "title": "OpenAI挖走英特尔印度大将",
@@ -134,17 +149,30 @@
           "time_info": "[09时01分 ~ 12时18分]"
         },
         {
-          "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
-          "url": "https://www.cls.cn/detail/2197744",
+          "title": "硅谷AI“地震”：从债券市场开始？",
+          "url": "https://www.cls.cn/detail/2197841",
           "source": "财联社热门",
           "ranks": [
-            11,
+            13,
             10,
-            9
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时01分 ~ 12时18分]"
+          "appearance_count": 5,
+          "time_info": "[10时45分 ~ 13时15分]"
+        },
+        {
+          "title": "苏姿丰：誓夺AI芯片市场“两位数”份额，预计到2030年AMD营收年增或超35%、利润增超两倍",
+          "url": "https://wallstreetcn.com/articles/3759159",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时45分 ~ 13时15分]"
         },
         {
           "title": "标普500指数初步收涨0.1%，保健板块涨约2.3%，日用消费品、能源、原材料、房地产板块至少涨约1.1%，电信板块涨0.5%，科技板块跌0.6%。 纳斯达克100指数初步收跌0.3%，成分股中，Applovin初步收跌8.7%，美光科技、拉姆研究、迈威尔科技、Arm控股、铿腾电子、英伟达至多跌5%，Strategy（MSTR）跌2.6%，霍尼韦尔则涨2.3%，吉利德科学涨3.8%，安进涨4.5%，德康医疗涨5.9%。 Merck初步收涨4.8%，安进涨4.5%，耐克、强生、麦当劳、迪士尼等涨超2%，在道指成分股中领跑，英伟达表现最差。 芯片概念股中，Onto跌5.6%，相干公司Coherent跌5.5%，纳微半导体跌5.5%，美光跌5%。",
@@ -169,18 +197,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时12分 ~ 05时13分]"
-        },
-        {
-          "title": "苏姿丰：誓夺AI芯片市场“两位数”份额，预计到2030年AMD营收年增或超35%、利润增超两倍",
-          "url": "https://wallstreetcn.com/articles/3759159",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时45分 ~ 12时18分]"
         },
         {
           "title": "AMD(AMD.O)：数据中心的增长目标是数据中心的AI芯片。",
@@ -243,19 +259,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时14分 ~ 07时13分]"
-        },
-        {
-          "title": "硅谷AI“地震”：从债券市场开始？",
-          "url": "https://www.cls.cn/detail/2197841",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时45分 ~ 12时18分]"
         },
         {
           "title": "AMD：预计2027年与数据中心相关的AI芯片业务收入将为“数百亿美元”。 服务器CPU的市场份额超过50%。 PC（个人电脑）市场的份额超过40%。 预计未来3-5年CAGR（复合年均增长率）年度收入增幅为35%。 预计整体数据中心增速将比CAGR市场多出60%。",
@@ -400,6 +403,17 @@
           "time_info": "07时13分"
         },
         {
+          "title": "巨头“变着法子”表外融资！这三笔“AI巨额融资”如此“创新”，整个华尔街都盯着",
+          "url": "https://wallstreetcn.com/articles/3759168",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
+        },
+        {
           "title": "AMD(AMD.O)CEO：公司与OpenAI的合作非常谨慎。与OpenAI的交易包含具体的部署计划。",
           "url": "https://flash.jin10.com/detail/20251112054804540800",
           "source": "金十数据",
@@ -409,6 +423,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "“AI牛市”靠不靠谱？华尔街现在找到了新的看涨动力！",
+          "url": "https://www.cls.cn/detail/2197833",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
         },
         {
           "title": "费城半导体指数跌2%。美光科技(MU.O)跌4.6%，Arm(ARM.O)跌4%，英伟达(NVDA.O)跌3.1%。",
@@ -577,7 +602,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
         },
