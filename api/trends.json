@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T14:21:53.798677+08:00",
-  "total_titles_processed": 1247,
+  "generated_at": "2025-11-12T15:15:22.880966+08:00",
+  "total_titles_processed": 1344,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI openai IT 科技 gpt",
-      "match_count": 50,
+      "match_count": 54,
       "titles": [
         {
           "title": "美政府关门有望结束，科技股引领纳指大反弹，英伟达涨近6%，金银大涨",
@@ -31,6 +31,18 @@
           "time_info": "[00时17分 ~ 09时02分]"
         },
         {
+          "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
+          "url": "https://wallstreetcn.com/articles/3759125",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时01分 ~ 15时15分]"
+        },
+        {
           "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
           "url": "https://wallstreetcn.com/articles/3759120",
           "source": "华尔街见闻",
@@ -40,20 +52,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时17分 ~ 14时21分]"
-        },
-        {
-          "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
-          "url": "https://wallstreetcn.com/articles/3759125",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 14时21分]"
+          "appearance_count": 20,
+          "time_info": "[00时17分 ~ 15时15分]"
         },
         {
           "title": "大空头伯里再度开炮：AI巨头涉嫌靠会计手法“虚增”利润",
@@ -121,8 +121,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 14时21分]"
+          "appearance_count": 9,
+          "time_info": "[09时01分 ~ 15时15分]"
         },
         {
           "title": "硅谷AI“地震”：从债券市场开始？",
@@ -132,11 +132,24 @@
             13,
             10,
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时45分 ~ 14时21分]"
+          "appearance_count": 7,
+          "time_info": "[10时45分 ~ 15时15分]"
+        },
+        {
+          "title": "苏姿丰：誓夺AI芯片市场“两位数”份额，预计到2030年AMD营收年增或超35%、利润增超两倍",
+          "url": "https://wallstreetcn.com/articles/3759159",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时45分 ~ 15时15分]"
         },
         {
           "title": "OpenAI挖走英特尔印度大将",
@@ -150,18 +163,6 @@
           "time_info": "[09时01分 ~ 09时02分]"
         },
         {
-          "title": "苏姿丰：誓夺AI芯片市场“两位数”份额，预计到2030年AMD营收年增或超35%、利润增超两倍",
-          "url": "https://wallstreetcn.com/articles/3759159",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时45分 ~ 14时21分]"
-        },
-        {
           "title": "英伟达财报前，花旗高喊：买入！AI需求远超供应，泡沫之说站不住脚",
           "url": "https://wallstreetcn.com/articles/3759111",
           "source": "华尔街见闻",
@@ -173,6 +174,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时01分 ~ 12时18分]"
+        },
+        {
+          "title": "第十八届中国-欧盟投资贸易科技合作洽谈会将在成都举办",
+          "url": "https://wallstreetcn.com/livenews/3003261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         },
         {
           "title": "标普500指数初步收涨0.1%，保健板块涨约2.3%，日用消费品、能源、原材料、房地产板块至少涨约1.1%，电信板块涨0.5%，科技板块跌0.6%。 纳斯达克100指数初步收跌0.3%，成分股中，Applovin初步收跌8.7%，美光科技、拉姆研究、迈威尔科技、Arm控股、铿腾电子、英伟达至多跌5%，Strategy（MSTR）跌2.6%，霍尼韦尔则涨2.3%，吉利德科学涨3.8%，安进涨4.5%，德康医疗涨5.9%。 Merck初步收涨4.8%，安进涨4.5%，耐克、强生、麦当劳、迪士尼等涨超2%，在道指成分股中领跑，英伟达表现最差。 芯片概念股中，Onto跌5.6%，相干公司Coherent跌5.5%，纳微半导体跌5.5%，美光跌5%。",
@@ -274,6 +286,30 @@
           "time_info": "[03时12分 ~ 05时13分]"
         },
         {
+          "title": "巨头“变着法子”表外融资！这三笔“AI巨额融资”如此“创新”，整个华尔街都盯着",
+          "url": "https://wallstreetcn.com/articles/3759168",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时15分 ~ 15时15分]"
+        },
+        {
+          "title": "“AI牛市”靠不靠谱？华尔街现在找到了新的看涨动力！",
+          "url": "https://www.cls.cn/detail/2197833",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时15分 ~ 15时15分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜周二（11月11日），美国科技股七巨头（Magnificent 7）指数跌0.21%，报210.01点。 “超级”市值科技股跌0.53%，报405.79点。",
           "url": "https://wallstreetcn.com/livenews/3002988",
           "source": "华尔街见闻-快讯",
@@ -333,17 +369,6 @@
           "time_info": "[00时17分 ~ 00时18分]"
         },
         {
-          "title": "巨头“变着法子”表外融资！这三笔“AI巨额融资”如此“创新”，整个华尔街都盯着",
-          "url": "https://wallstreetcn.com/articles/3759168",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 14时21分]"
-        },
-        {
           "title": "据消息人士透露，美国众议院规则委员会将于今日美东时间18:00-18:30（北京时间明日07:00-07:30）左右开会，推进政府拨款计划（的程序性投票），以便明天（众议院全体）投票。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3002879",
           "source": "华尔街见闻-快讯",
@@ -378,17 +403,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时14分 ~ 07时13分]"
-        },
-        {
-          "title": "“AI牛市”靠不靠谱？华尔街现在找到了新的看涨动力！",
-          "url": "https://www.cls.cn/detail/2197833",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 14时21分]"
         },
         {
           "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
@@ -431,7 +445,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -445,6 +459,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "市场消息：三菱日联金融集团与OpenAI达成战略合作。",
+          "url": "https://flash.jin10.com/detail/20251112144050948800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         },
         {
           "title": "费城半导体指数跌2%。美光科技(MU.O)跌4.6%，Arm(ARM.O)跌4%，英伟达(NVDA.O)跌3.1%。",
@@ -524,6 +549,17 @@
           "time_info": "09时02分"
         },
         {
+          "title": "拜耳第三季度调整后息税折旧及摊销前利润15.1亿欧元，市场预估12.9亿欧元。 第三季度销售额96.6亿欧元，市场预估97.9亿欧元。 第三季度经调整EBITDA利润率15.6％，市场预估13.2％。",
+          "url": "https://wallstreetcn.com/livenews/3003222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
           "title": "美股盘初，行业ETF多数走高，能源业ETF涨0.94%，银行业ETF涨0.47%，可选消费ETF与全球航空业ETF大致持平。 网络股指数ETF跌0.28%，科技行业ETF跌0.62%，半导体ETF跌0.94%",
           "url": "https://wallstreetcn.com/livenews/3002861",
           "source": "华尔街见闻-快讯",
@@ -577,6 +613,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "鸿海第三季度净利润576.7亿元台币，市场预估509.5亿元台币。 第三季度营业利润705.4亿元台币，市场预估630.1亿元台币。 第三季度营收2.06万亿元台币，市场预估2.06万亿元台币。 第三季度每股收益4.15元台币，市场预估3.69元台币。 前9个月营业利润1,736.3亿元台币，净利润1,441.4亿元台币。 前9个月营收5.50万亿元台币，每股收益10.38元台币。 预计第四季度AI服务器营收环比增长。",
+          "url": "https://wallstreetcn.com/livenews/3003214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         },
         {
           "title": "金十图示：2025年11月12日（周三）全球主要科技与互联网公司市值变化",
