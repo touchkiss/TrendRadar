@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T09:02:26.565289+08:00",
-  "total_titles_processed": 823,
+  "generated_at": "2025-11-13T10:48:02.552685+08:00",
+  "total_titles_processed": 930,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI openai IT 科技 gpt",
-      "match_count": 31,
+      "match_count": 36,
       "titles": [
         {
           "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
@@ -78,11 +78,12 @@
           "ranks": [
             11,
             10,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 09时02分]"
+          "appearance_count": 14,
+          "time_info": "[00时19分 ~ 10时48分]"
         },
         {
           "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
@@ -93,8 +94,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时14分 ~ 09时02分]"
+          "appearance_count": 4,
+          "time_info": "[07时14分 ~ 10时48分]"
         },
         {
           "title": "科技股再度下挫，道指四连涨创新高，AMD大涨9%，黄金四连涨，原油重挫",
@@ -103,9 +104,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时02分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时02分 ~ 10时48分]"
+        },
+        {
+          "title": "OpenAI发布GPT-5.1",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT-5.1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时02分 ~ 10时48分]"
         },
         {
           "title": "OpenAI：GPT-5.1将于本周向所有用户推出。GPT-5将继续向付费订阅用户开放三个月，GPT-5的停用期不会影响其他旧版模型的可用性。将很快将GPT-5 Pro升级至GPT-5.1 Pro。",
@@ -117,17 +129,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
-        },
-        {
-          "title": "OpenAI发布GPT-5.1",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT-5.1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时02分"
         },
         {
           "title": "中信证券来了18位新员工！称作“AI数字员工团队”",
@@ -204,6 +205,30 @@
           "time_info": "[05时14分 ~ 06时14分]"
         },
         {
+          "title": "七部门：以科学、技术、工程、数学为重点，加强中小学科技教育",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31947543",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时02分 ~ 10时48分]"
+        },
+        {
+          "title": "如何看待米哈游《星布谷地》的 AI NPC 技术？",
+          "url": "https://www.zhihu.com/question/1970221380470568183",
+          "source": "知乎",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时02分 ~ 10时48分]"
+        },
+        {
           "title": "巨头“变着法子”表外融资！这三笔“AI巨额融资”如此“创新”，整个华尔街都盯着",
           "url": "https://wallstreetcn.com/articles/3759168",
           "source": "华尔街见闻",
@@ -239,6 +264,17 @@
           "time_info": "[06时14分 ~ 07时14分]"
         },
         {
+          "title": "李彦宏：AI产业结构正从不健康的“正金字塔”转变为健康的“倒金字塔”",
+          "url": "https://wallstreetcn.com/livenews/3003794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
           "title": "雪佛龙选择美国得州为旗下首个人工智能（AI）数据中心电力（供应）项目（的地址）。",
           "url": "https://wallstreetcn.com/livenews/3003523",
           "source": "华尔街见闻-快讯",
@@ -248,6 +284,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "百度李彦宏回应AI泡沫争议",
+          "url": "https://wallstreetcn.com/livenews/3003791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
         },
         {
           "title": "OpenAI：GPT-5系列升级，发布GPT-5.1 INstant和GPT-5.1 Thinking。",
@@ -283,28 +330,6 @@
           "time_info": "07时14分"
         },
         {
-          "title": "七部门：以科学、技术、工程、数学为重点，加强中小学科技教育",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31947543",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "如何看待米哈游《星布谷地》的 AI NPC 技术？",
-          "url": "https://www.zhihu.com/question/1970221380470568183",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
           "title": "港股基金规模超万亿元，科技板块成聚集地",
           "url": "https://wallstreetcn.com/livenews/3003649",
           "source": "华尔街见闻-快讯",
@@ -338,6 +363,17 @@
           "time_info": "07时14分"
         },
         {
+          "title": "AI教母”李飞飞发布首款商用世界模型",
+          "url": "https://wallstreetcn.com/livenews/3003769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
           "title": "Anthropic承诺斥资500亿美元，在美国建设AI数据中心",
           "url": "https://wallstreetcn.com/livenews/3003511",
           "source": "华尔街见闻-快讯",
@@ -349,13 +385,35 @@
           "time_info": "00时22分"
         },
         {
+          "title": "上交所副总经理傅浩：科创板有望涌现一批世界级“明星”科技企业",
+          "url": "https://wallstreetcn.com/livenews/3003768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "恒生科技指数盘初跌1%，腾讯音乐跌超10%。",
+          "url": "https://wallstreetcn.com/livenews/3003760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
           "title": "英国博主：中国惊人科技不可思议",
           "url": "https://www.toutiao.com/trending/7571744650684579903/",
           "source": "今日头条",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         },
@@ -366,7 +424,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         }
