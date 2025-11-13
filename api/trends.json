@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T10:48:02.552685+08:00",
-  "total_titles_processed": 930,
+  "generated_at": "2025-11-13T11:45:25.925423+08:00",
+  "total_titles_processed": 1029,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI openai IT 科技 gpt",
-      "match_count": 36,
+      "match_count": 41,
       "titles": [
         {
           "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
@@ -79,11 +79,12 @@
             11,
             10,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时19分 ~ 10时48分]"
+          "appearance_count": 15,
+          "time_info": "[00时19分 ~ 11时45分]"
         },
         {
           "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
@@ -94,8 +95,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时14分 ~ 10时48分]"
+          "appearance_count": 5,
+          "time_info": "[07时14分 ~ 11时45分]"
         },
         {
           "title": "科技股再度下挫，道指四连涨创新高，AMD大涨9%，黄金四连涨，原油重挫",
@@ -105,19 +106,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时02分 ~ 10时48分]"
+          "appearance_count": 4,
+          "time_info": "[09时02分 ~ 11时45分]"
         },
         {
           "title": "OpenAI发布GPT-5.1",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT-5.1",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时02分 ~ 10时48分]"
+          "appearance_count": 4,
+          "time_info": "[09时02分 ~ 11时45分]"
         },
         {
           "title": "OpenAI：GPT-5.1将于本周向所有用户推出。GPT-5将继续向付费订阅用户开放三个月，GPT-5的停用期不会影响其他旧版模型的可用性。将很快将GPT-5 Pro升级至GPT-5.1 Pro。",
@@ -252,6 +254,18 @@
           "time_info": "[04时16分 ~ 05时14分]"
         },
         {
+          "title": "李彦宏：AI产业结构正从不健康的“正金字塔”转变为健康的“倒金字塔”",
+          "url": "https://wallstreetcn.com/livenews/3003794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 11时45分]"
+        },
+        {
           "title": "思科(CSCO.O)CEO：预计到2026财年下半年，思科在主权、新型云计算和企业客户领域的AI机遇将加速增长。",
           "url": "https://flash.jin10.com/detail/20251113054057376800",
           "source": "金十数据",
@@ -262,17 +276,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时14分 ~ 07时14分]"
-        },
-        {
-          "title": "李彦宏：AI产业结构正从不健康的“正金字塔”转变为健康的“倒金字塔”",
-          "url": "https://wallstreetcn.com/livenews/3003794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时48分"
         },
         {
           "title": "雪佛龙选择美国得州为旗下首个人工智能（AI）数据中心电力（供应）项目（的地址）。",
@@ -286,13 +289,24 @@
           "time_info": "00时22分"
         },
         {
+          "title": "国研中心原副主任王一鸣：增强股权市场支持科技创新功能，深化退市制度改革",
+          "url": "https://wallstreetcn.com/livenews/3003831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        },
+        {
           "title": "百度李彦宏回应AI泡沫争议",
           "url": "https://wallstreetcn.com/livenews/3003791",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -306,6 +320,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "五年五芯，百度宣布打造最硬AI云",
+          "url": "https://wallstreetcn.com/livenews/3003829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "标普500指数收涨4.31点，涨幅0.06%，报6850.92点。 道琼斯工业平均指数收涨326.86点，涨幅0.68%，报48254.82点。 纳斯达克综合指数（纳指）收跌61.844点，跌幅0.26%，报23406.457点。 纳斯达克100指数收跌16.158点，跌幅0.06%，报25517.328点。 纳斯达克科技市值加权指数收跌0.15%，报2345.5398点。 纳斯达克生物科技指数收涨0.20%，报5534.12点。 罗素2000指数收跌0.30%，报2450.797点。 费城半导体指数收涨1.47%，报7082.126点。 费城证交所KBW银行指数收涨1.18%，报154.04点。 道琼斯KBW地区银行指数收涨0.02%，报118.23点。 恐慌指数VIX收涨1.39%，报17.52。",
@@ -328,6 +353,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "OpenAI 发布 GPT-5.1 模型，主打「更温暖」「说人话」，如何看待这一升级？",
+          "url": "https://www.zhihu.com/question/1972154575545955995",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "港股基金规模超万亿元，科技板块成聚集地",
@@ -369,7 +405,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -391,7 +427,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -402,9 +438,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "金十图示：2025年11月13日（周四）全球主要科技与互联网公司市值变化",
+          "url": "https://flash.jin10.com/detail/20251113105607998800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "英国博主：中国惊人科技不可思议",
@@ -416,6 +463,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "金十图示：2025年11月13日（周四）中国科技互联网公司市值排名TOP 50一览",
+          "url": "https://flash.jin10.com/detail/20251113105249716800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "OpenAI宣布推出GPT-5.1系列模型，新版本将从本周开始向用户推送。",
