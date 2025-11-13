@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T05:15:01.541573+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2025-11-14T06:15:09.990208+08:00",
+  "total_titles_processed": 679,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI openai IT 科技 gpt",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 05时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 06时15分]"
         },
         {
           "title": "科技股再度下挫，道指四连涨创新高，AMD大涨9%，黄金四连涨，原油重挫",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 05时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 06时15分]"
         },
         {
           "title": "全面解析GPT-5.1",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 05时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 06时15分]"
         },
         {
           "title": "AI造世界的时代来了",
@@ -51,8 +51,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 05时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 06时15分]"
         },
         {
           "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
@@ -60,11 +60,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 05时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 06时15分]"
         },
         {
           "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
@@ -77,8 +78,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 05时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 06时15分]"
         },
         {
           "title": "阿里股价因AI叙事走强 现货白银冲击历史新高 | 今夜看点",
@@ -89,8 +90,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 05时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 06时15分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -98,11 +99,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 05时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 06时15分]"
         },
         {
           "title": "恒生指数主连夜盘收跌1.44%，报26701点。 恒生科技指数主连夜盘收跌2.14%，报5859点。",
@@ -145,11 +147,23 @@
           "url": "https://wallstreetcn.com/livenews/3004372",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 06时15分]"
+        },
+        {
+          "title": "13G报告显示：Jane Street Group对特朗普媒体科技集团持股3.7%。",
+          "url": "https://wallstreetcn.com/livenews/3004395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时15分"
+          "time_info": "06时15分"
         },
         {
           "title": "AI会如何改编游戏行业",
@@ -191,7 +205,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
         },
@@ -218,13 +232,24 @@
           "time_info": "00时18分"
         },
         {
+          "title": "纳斯达克金龙中国指数收die 1.59%，报7983.95点。 热门中概股里，小马智行初步收跌7.8%，文远知行跌7.6%，百度跌6.3%，B站跌4.7%，阿特斯涨0.2%，阿里涨1.3%，虎牙涨2.8%。 ETF中，中概互联网指数ETF（KWEB）收跌1.30%，中国科技指数ETF（CQQQ）收跌1.18%。 德银嘉实沪深300指数ETF（ASHR）收涨0.66%，XtrackersHarvest中证50（ASHS）收涨0.89%。",
+          "url": "https://wallstreetcn.com/livenews/3004380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
           "title": "市场消息：OpenAI前首席技术官Mira Murati的公司Thinking Machines Lab在融资谈判中估值达500亿美元。",
           "url": "https://flash.jin10.com/detail/20251114044411055800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
         },
