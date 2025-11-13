@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T22:15:39.991584+08:00",
-  "total_titles_processed": 2039,
+  "generated_at": "2025-11-13T23:17:13.788388+08:00",
+  "total_titles_processed": 2123,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI openai IT 科技 gpt",
-      "match_count": 83,
+      "match_count": 91,
       "titles": [
         {
           "title": "科技股再度下挫，道指四连涨创新高，AMD大涨9%，黄金四连涨，原油重挫",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[09时02分 ~ 22时15分]"
+          "appearance_count": 23,
+          "time_info": "[09时02分 ~ 23时17分]"
         },
         {
           "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
@@ -81,6 +81,17 @@
           "time_info": "[00时19分 ~ 07时14分]"
         },
         {
+          "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
+          "url": "https://wallstreetcn.com/articles/3759294",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时13分 ~ 23时17分]"
+        },
+        {
           "title": "智能科技为体育带来这些改变",
           "url": "https://www.toutiao.com/trending/7571991442848055334/",
           "source": "今日头条",
@@ -104,6 +115,18 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时19分 ~ 09时02分]"
+        },
+        {
+          "title": "AI造世界的时代来了",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%80%A0%E4%B8%96%E7%95%8C%E7%9A%84%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时28分 ~ 23时17分]"
         },
         {
           "title": "美石油巨头要建巨型AI供电设施 欧洲市场再迎新高时刻 | 今夜看点",
@@ -134,17 +157,6 @@
           "time_info": "[13时16分 ~ 18时16分]"
         },
         {
-          "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
-          "url": "https://wallstreetcn.com/articles/3759294",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时13分 ~ 22时15分]"
-        },
-        {
           "title": "阿里股价直线拉升！“通义千问”全面对标ChatGPT，进军C端市场",
           "url": "https://wallstreetcn.com/articles/3759294",
           "source": "华尔街见闻",
@@ -155,17 +167,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时19分 ~ 18时16分]"
-        },
-        {
-          "title": "AI造世界的时代来了",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%80%A0%E4%B8%96%E7%95%8C%E7%9A%84%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时28分 ~ 22时15分]"
         },
         {
           "title": "OpenAI发布GPT-5.1",
@@ -186,11 +187,35 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时16分 ~ 23时17分]"
+        },
+        {
+          "title": "全面解析GPT-5.1",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90GPT-5.1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时16分 ~ 23时17分]"
+        },
+        {
+          "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3759306",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[18时16分 ~ 22时15分]"
+          "time_info": "[20时28分 ~ 23时17分]"
         },
         {
           "title": "OpenAI：GPT-5.1将于本周向所有用户推出。GPT-5将继续向付费订阅用户开放三个月，GPT-5的停用期不会影响其他旧版模型的可用性。将很快将GPT-5 Pro升级至GPT-5.1 Pro。",
@@ -204,6 +229,19 @@
           "time_info": "05时14分"
         },
         {
+          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时28分 ~ 23时17分]"
+        },
+        {
           "title": "阿里巴巴准备对其旗舰AI应用进行改版，使其更像ChatGPT。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3003903",
           "source": "华尔街见闻-快讯",
@@ -213,17 +251,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
-        },
-        {
-          "title": "科创板三季度净利增75%，“硬科技”企业研发投入持续加码",
-          "url": "https://wallstreetcn.com/livenews/3004237",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时15分"
         },
         {
           "title": "中信证券来了18位新员工！称作“AI数字员工团队”",
@@ -262,17 +289,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时20分 ~ 14时22分]"
-        },
-        {
-          "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3759306",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时28分 ~ 22时15分]"
         },
         {
           "title": "佛塑科技：拟与紫金矿业下属子公司紫金锂元、厦门紫金以及广新研究院共同出资设立项目公司，在福建省龙岩市上杭工业区蛟洋新材料产业园区投资建设电池级硫化锂中试平台项目。本项目计划投资总额为1.13亿元（含增值税），建设100吨/年硫化锂生产线，主要研发、生产、经营高纯度电池级硫化锂产品。",
@@ -360,6 +376,18 @@
           "time_info": "[05时14分 ~ 06时14分]"
         },
         {
+          "title": "科创板三季度净利增75%，“硬科技”企业研发投入持续加码",
+          "url": "https://wallstreetcn.com/livenews/3004237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 23时17分]"
+        },
+        {
           "title": "大空头伯里称 AI 巨头通过延长芯片折旧年限等虚增利润，甲骨文和 Meta 利润或将被高估超 20%，如何解读？",
           "url": "https://www.zhihu.com/question/1971870297541043616",
           "source": "知乎",
@@ -384,17 +412,16 @@
           "time_info": "[11时45分 ~ 13时17分]"
         },
         {
-          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
-          "source": "澎湃新闻",
+          "title": "阿里股价因AI叙事走强 现货白银冲击历史新高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2200065",
+          "source": "财联社热门",
           "ranks": [
-            20,
-            17,
-            18
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时28分 ~ 22时15分]"
+          "appearance_count": 3,
+          "time_info": "[22时15分 ~ 23时17分]"
         },
         {
           "title": "七部门：以科学、技术、工程、数学为重点，加强中小学科技教育",
@@ -419,6 +446,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时02分 ~ 10时48分]"
+        },
+        {
+          "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
+          "url": "https://wallstreetcn.com/articles/3759330",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时16分 ~ 23时17分]"
         },
         {
           "title": "腾讯Q3净利润同比增长19%，国际游戏业务收入大增43%，AI云推动企业服务收入双位数增长 | 财报见闻",
@@ -579,7 +617,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -606,6 +644,17 @@
           "time_info": "18时16分"
         },
         {
+          "title": "马斯克旗下xAI融资150亿美元，将于12月12日完成E轮融资。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3004252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "雪佛龙选择美国得州为旗下首个人工智能（AI）数据中心电力（供应）项目（的地址）。",
           "url": "https://wallstreetcn.com/livenews/3003523",
           "source": "华尔街见闻-快讯",
@@ -626,6 +675,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
+        },
+        {
+          "title": "据CNBC：xAI本轮融资将于12月12日结束。",
+          "url": "https://flash.jin10.com/detail/20251113223736829800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "百度李彦宏回应AI泡沫争议",
@@ -650,15 +710,15 @@
           "time_info": "18时16分"
         },
         {
-          "title": "阿里股价因AI叙事走强 现货白银冲击历史新高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2200065",
-          "source": "财联社热门",
+          "title": "行业ETF美股盘初普遍下跌，半导体ETF跌1.2%，科技行业ETF跌0.7%，全球科技股指数ETF跌0.66%，能源业ETF涨0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3004250",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时15分"
+          "time_info": "23时17分"
         },
         {
           "title": "OpenAI：GPT-5系列升级，发布GPT-5.1 INstant和GPT-5.1 Thinking。",
@@ -683,13 +743,24 @@
           "time_info": "18时16分"
         },
         {
+          "title": "据CNBC援引消息人士报道，xAI在E轮融资中筹集150亿美元。",
+          "url": "https://flash.jin10.com/detail/20251113223650627800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "Core AI宣布启动一项价值50亿美元的全球人工智能数据中心计划。",
           "url": "https://flash.jin10.com/detail/20251113212900097800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -769,6 +840,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
+        },
+        {
+          "title": "美国存储芯片股下跌，西部数据(WDC.O)下跌4%，闪迪(SNDK.O)下跌7%，希捷科技(STX.O)下跌4.3%",
+          "url": "https://flash.jin10.com/detail/20251113223620674800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "港股基金规模超万亿元，科技板块成聚集地",
@@ -901,6 +983,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
+        },
+        {
+          "title": "美股开盘，道指跌0.28%，标普500指数跌0.44%，纳指跌0.67%。阿里巴巴(BABA.N)涨3.75%，据悉其正筹备大幅改版AI应用，全面对标ChatGPT。京东(JD.O)涨0.13%，Q3营收超预期。思科(CSCO.O)涨6.8%，此前上调全年利润和收入预期。",
+          "url": "https://flash.jin10.com/detail/20251113223029807800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "万华化学：Prime Partner International Limited拟减持不超过1%。",
