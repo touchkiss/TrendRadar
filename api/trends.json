@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T21:30:08.991403+08:00",
-  "total_titles_processed": 1935,
+  "generated_at": "2025-11-13T22:15:39.991584+08:00",
+  "total_titles_processed": 2039,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI openai IT 科技 gpt",
-      "match_count": 79,
+      "match_count": 83,
       "titles": [
         {
           "title": "科技股再度下挫，道指四连涨创新高，AMD大涨9%，黄金四连涨，原油重挫",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[09时02分 ~ 21时30分]"
+          "appearance_count": 21,
+          "time_info": "[09时02分 ~ 22时15分]"
         },
         {
           "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
@@ -134,6 +134,17 @@
           "time_info": "[13时16分 ~ 18时16分]"
         },
         {
+          "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
+          "url": "https://wallstreetcn.com/articles/3759294",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时13分 ~ 22时15分]"
+        },
+        {
           "title": "阿里股价直线拉升！“通义千问”全面对标ChatGPT，进军C端市场",
           "url": "https://wallstreetcn.com/articles/3759294",
           "source": "华尔街见闻",
@@ -146,15 +157,15 @@
           "time_info": "[16时19分 ~ 18时16分]"
         },
         {
-          "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
-          "url": "https://wallstreetcn.com/articles/3759294",
-          "source": "华尔街见闻",
+          "title": "AI造世界的时代来了",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%80%A0%E4%B8%96%E7%95%8C%E7%9A%84%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%BA%86",
+          "source": "bilibili 热搜",
           "ranks": [
-            2
+            4
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时13分 ~ 21时30分]"
+          "time_info": "[20时28分 ~ 22时15分]"
         },
         {
           "title": "OpenAI发布GPT-5.1",
@@ -170,15 +181,16 @@
           "time_info": "[09时02分 ~ 13时17分]"
         },
         {
-          "title": "AI造世界的时代来了",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%80%A0%E4%B8%96%E7%95%8C%E7%9A%84%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%BA%86",
-          "source": "bilibili 热搜",
+          "title": "阿里秘密启动“千问”项目 将推出国际版与ChatGPT竞争",
+          "url": "https://www.cls.cn/detail/2199601",
+          "source": "财联社热门",
           "ranks": [
-            4
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时28分 ~ 21时30分]"
+          "appearance_count": 6,
+          "time_info": "[18时16分 ~ 22时15分]"
         },
         {
           "title": "OpenAI：GPT-5.1将于本周向所有用户推出。GPT-5将继续向付费订阅用户开放三个月，GPT-5的停用期不会影响其他旧版模型的可用性。将很快将GPT-5 Pro升级至GPT-5.1 Pro。",
@@ -203,16 +215,15 @@
           "time_info": "14时22分"
         },
         {
-          "title": "阿里秘密启动“千问”项目 将推出国际版与ChatGPT竞争",
-          "url": "https://www.cls.cn/detail/2199601",
-          "source": "财联社热门",
+          "title": "科创板三季度净利增75%，“硬科技”企业研发投入持续加码",
+          "url": "https://wallstreetcn.com/livenews/3004237",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            8
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时16分 ~ 21时30分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "中信证券来了18位新员工！称作“AI数字员工团队”",
@@ -251,6 +262,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时20分 ~ 14时22分]"
+        },
+        {
+          "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3759306",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时28分 ~ 22时15分]"
         },
         {
           "title": "佛塑科技：拟与紫金矿业下属子公司紫金锂元、厦门紫金以及广新研究院共同出资设立项目公司，在福建省龙岩市上杭工业区蛟洋新材料产业园区投资建设电池级硫化锂中试平台项目。本项目计划投资总额为1.13亿元（含增值税），建设100吨/年硫化锂生产线，主要研发、生产、经营高纯度电池级硫化锂产品。",
@@ -362,15 +384,17 @@
           "time_info": "[11时45分 ~ 13时17分]"
         },
         {
-          "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3759306",
-          "source": "华尔街见闻",
+          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            20,
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时28分 ~ 21时30分]"
+          "appearance_count": 4,
+          "time_info": "[20时28分 ~ 22时15分]"
         },
         {
           "title": "七部门：以科学、技术、工程、数学为重点，加强中小学科技教育",
@@ -383,18 +407,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时02分 ~ 10时48分]"
-        },
-        {
-          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时28分 ~ 21时30分]"
         },
         {
           "title": "如何看待米哈游《星布谷地》的 AI NPC 技术？",
@@ -431,6 +443,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时28分 ~ 21时30分]"
+        },
+        {
+          "title": "腾讯刘炽平：未来微信或推出AI智能体，帮助用户在微信内部利用AI完成任务",
+          "url": "https://wallstreetcn.com/livenews/3004211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时30分 ~ 22时15分]"
         },
         {
           "title": "巨头“变着法子”表外融资！这三笔“AI巨额融资”如此“创新”，整个华尔街都盯着",
@@ -549,15 +573,15 @@
           "time_info": "16时20分"
         },
         {
-          "title": "腾讯刘炽平：未来微信或推出AI智能体，帮助用户在微信内部利用AI完成任务",
-          "url": "https://wallstreetcn.com/livenews/3004211",
-          "source": "华尔街见闻-快讯",
+          "title": "美联储戴利：倾向于相信AI不会存在像郁金香那样的泡沫。",
+          "url": "https://flash.jin10.com/detail/20251113213637819800",
+          "source": "金十数据",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时30分"
+          "time_info": "22时15分"
         },
         {
           "title": "微软打造首座“AI超级工厂”：整合数十万GPU，构建行星际规模算力网络",
@@ -599,7 +623,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
         },
@@ -626,6 +650,17 @@
           "time_info": "18时16分"
         },
         {
+          "title": "阿里股价因AI叙事走强 现货白银冲击历史新高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2200065",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "OpenAI：GPT-5系列升级，发布GPT-5.1 INstant和GPT-5.1 Thinking。",
           "url": "https://flash.jin10.com/detail/20251113031402005800",
           "source": "金十数据",
@@ -646,6 +681,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
+        },
+        {
+          "title": "Core AI宣布启动一项价值50亿美元的全球人工智能数据中心计划。",
+          "url": "https://flash.jin10.com/detail/20251113212900097800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "腾讯控股：第三季资本开支付款200亿元 主要用于支持AI相关举措",
@@ -676,7 +722,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
         },
@@ -753,7 +799,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
         },
