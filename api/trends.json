@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T22:15:11.354211+08:00",
-  "total_titles_processed": 2040,
+  "generated_at": "2025-11-14T23:14:49.669284+08:00",
+  "total_titles_processed": 2125,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI openai IT 科技 gpt",
-      "match_count": 73,
+      "match_count": 78,
       "titles": [
         {
           "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
@@ -73,6 +73,20 @@
           "time_info": "[07时13分 ~ 14时21分]"
         },
         {
+          "title": "BLAST香港Spirit vs Vitality",
+          "url": "https://search.bilibili.com/all?keyword=Spirit%20Vitality",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            12,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[19时12分 ~ 23时14分]"
+        },
+        {
           "title": "科技股、数字币被抛售，美国市场继续本月开启的“避险模式”",
           "url": "https://wallstreetcn.com/articles/3759350",
           "source": "华尔街见闻",
@@ -84,8 +98,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时42分 ~ 22时15分]"
+          "appearance_count": 19,
+          "time_info": "[11时42分 ~ 23时14分]"
         },
         {
           "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
@@ -124,20 +138,6 @@
           "time_info": "[00时18分 ~ 19时13分]"
         },
         {
-          "title": "BLAST香港Spirit vs Vitality",
-          "url": "https://search.bilibili.com/all?keyword=Spirit%20Vitality",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            12,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时12分 ~ 22时15分]"
-        },
-        {
           "title": "全面解析GPT-5.1",
           "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90GPT-5.1",
           "source": "bilibili 热搜",
@@ -172,6 +172,19 @@
           "time_info": "[00时18分 ~ 10时45分]"
         },
         {
+          "title": "【数据看盘】机构、一线游资联合买入中一科技 两家实力游资抢筹航天发展",
+          "url": "https://www.cls.cn/detail/2201018",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时16分 ~ 23时14分]"
+        },
+        {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
           "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
           "source": "澎湃新闻",
@@ -188,19 +201,6 @@
           "time_info": "[00时18分 ~ 15时15分]"
         },
         {
-          "title": "【数据看盘】机构、一线游资联合买入中一科技 两家实力游资抢筹航天发展",
-          "url": "https://www.cls.cn/detail/2201018",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时16分 ~ 22时15分]"
-        },
-        {
           "title": "AI泡沫警告声四起！继华尔街之后，相关企业高管们也承认了……",
           "url": "https://www.cls.cn/detail/2200800",
           "source": "财联社热门",
@@ -214,26 +214,16 @@
           "time_info": "[17时15分 ~ 21时27分]"
         },
         {
-          "title": "OpenAI战略布局解读",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%88%98%E7%95%A5%E5%B8%83%E5%B1%80%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时12分 ~ 19时13分]"
-        },
-        {
           "title": "除了美债、原油都在跌！美股科技股继续被砸，英伟达盘前跌超3%，币圈连崩，黄金跳水",
           "url": "https://wallstreetcn.com/articles/3759354",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时14分 ~ 22时15分]"
+          "appearance_count": 3,
+          "time_info": "[22时14分 ~ 23时14分]"
         },
         {
           "title": "【焦点复盘】创业板指低开低走跌近3%，AI硬件端全线退潮，抗寒概念股逆势爆发",
@@ -244,8 +234,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时27分 ~ 22时15分]"
+          "appearance_count": 7,
+          "time_info": "[20时27分 ~ 23时14分]"
+        },
+        {
+          "title": "OpenAI战略布局解读",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%88%98%E7%95%A5%E5%B8%83%E5%B1%80%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时12分 ~ 19时13分]"
         },
         {
           "title": "受AI数据中心热潮驱动 三星电子提高内存芯片价格",
@@ -281,6 +282,17 @@
           "time_info": "15时15分"
         },
         {
+          "title": "波兰出台4亿波兰兹罗提（折合11亿美元）计划，用于刺激本土科技行业。",
+          "url": "https://wallstreetcn.com/livenews/3004940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "港股收盘，恒生指数收跌1.85%，恒生科技指数收跌2.82%。百度集团跌超7%，京东集团跌超6%，阿里巴巴跌超4%；天齐锂业跌近5%，赣锋锂业跌超3%。",
           "url": "https://wallstreetcn.com/livenews/3004712",
           "source": "华尔街见闻-快讯",
@@ -303,6 +315,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时19分 ~ 19时13分]"
+        },
+        {
+          "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1972596571733497781",
+          "source": "知乎",
+          "ranks": [
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时26分 ~ 23时14分]"
         },
         {
           "title": "第二十七届高交会开幕，汇聚5000余项科技新成果",
@@ -354,18 +378,6 @@
           "time_info": "[18时16分 ~ 19时13分]"
         },
         {
-          "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1972596571733497781",
-          "source": "知乎",
-          "ranks": [
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时26分 ~ 22时15分]"
-        },
-        {
           "title": "小伙高铁上用AI眼镜玩游戏",
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E9%AB%98%E9%93%81%E4%B8%8A%E7%94%A8AI%E7%9C%BC%E9%95%9C%E7%8E%A9%E6%B8%B8%E6%88%8F",
           "source": "百度热搜",
@@ -377,6 +389,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时15分 ~ 19时13分]"
+        },
+        {
+          "title": "武汉造全球首台AI胶囊内镜获广泛应用",
+          "url": "https://www.toutiao.com/trending/7572001120726908978/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时14分 ~ 23时14分]"
         },
         {
           "title": "经济学家：AI正处于“理性泡沫”中 或令部分投资者蒙受损失",
@@ -532,17 +556,6 @@
           "time_info": "[16时19分 ~ 17时15分]"
         },
         {
-          "title": "武汉造全球首台AI胶囊内镜获广泛应用",
-          "url": "https://www.toutiao.com/trending/7572001120726908978/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时14分 ~ 22时15分]"
-        },
-        {
           "title": "美银调查：市场对AI驱动未来利率前景陷入分歧",
           "url": "https://flash.jin10.com/detail/20251114200741227800",
           "source": "金十数据",
@@ -552,6 +565,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时28分"
+        },
+        {
+          "title": "部分存储芯片股上涨，闪迪(SNDK.O)涨2.3%，美光科技(MU.O)涨1%。",
+          "url": "https://flash.jin10.com/detail/20251114224115722800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "金十图示：2025年11月14日（周五）全球主要科技与互联网公司市值变化",
@@ -587,6 +611,17 @@
           "time_info": "07时13分"
         },
         {
+          "title": "纳斯达克金龙中国指数美股盘初跌1.7%。 中概股世纪华联跌6.3%，小马智行跌6%，阿特斯太阳能跌5%，小鹏跌4.7%，大全新能源跌4.2%，文远知行跌3.8%，京东、蔚来跌3.3%，百度跌2.7%，腾讯音乐则涨0.8%，B站涨1.9%，雾芯科技/悦刻电子烟涨8.4%。 ETF中，CQQQ跌1.75%，KWEB跌0.57%。",
+          "url": "https://wallstreetcn.com/livenews/3004929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "金十图示：2025年11月14日（周五）中国科技互联网公司市值排名TOP 50一览",
           "url": "https://flash.jin10.com/detail/20251114105310732800",
           "source": "金十数据",
@@ -596,6 +631,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
+        },
+        {
+          "title": "行业ETF美股盘初普跌，半导体ETF跌2.8%，科技行业ETF跌1.9%，网络股指数ETF、全球科技股指数ETF跌约1.8%，能源业ETF涨约0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3004928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "Uzi用AI分析自己复出可能性",
@@ -662,6 +708,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
+        },
+        {
+          "title": "沙特王储将前往美国华盛顿，讨论人工智能（AI）芯片与核技术等议题。",
+          "url": "https://wallstreetcn.com/livenews/3004921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "广汽集团与阿里云签署全栈AI战略合作协议",
@@ -886,6 +943,111 @@
       ]
     },
     {
+      "keyword_group": "军事",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "外交部：中方对日方近期的军事安全动向感到严重关切",
+          "url": "https://www.cls.cn/detail/2200836",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时27分 ~ 20时28分]"
+        },
+        {
+          "title": "美、布两油短线波动不大，此前有报道称，美国高级官员近日向特朗普提交针对委内瑞拉的军事行动方案。",
+          "url": "https://flash.jin10.com/detail/20251114004309713800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        },
+        {
+          "title": "美国高级官员近日向特朗普提交针对委内瑞拉的军事行动方案",
+          "url": "https://flash.jin10.com/detail/20251114004202602800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        },
+        {
+          "title": "美国官员向特朗普提交了对委内瑞拉的军事选项。",
+          "url": "https://flash.jin10.com/detail/20251114003644519800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        },
+        {
+          "title": "乌克兰军事情报局副局长：与2024年相比，2025年朝鲜向俄罗斯提供的炮弹数量已下降约一半。",
+          "url": "https://flash.jin10.com/detail/20251114222543419800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
+          "title": "乌克兰军事情报局副局长：俄罗斯每天平均向乌克兰发射200至250枚各类滑翔炸弹。",
+          "url": "https://flash.jin10.com/detail/20251114222529436800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
+          "title": "乌克兰军事情报局副局长：俄罗斯计划今年生产约500枚射程为200公里的新型滑翔炸弹，并正在努力将射程延长至400公里。",
+          "url": "https://flash.jin10.com/detail/20251114222503386800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
+          "title": "乌克兰军事情报局副局长：俄罗斯将在2025年生产约7万架远程无人机，其中包括约3万架沙希德无人机。",
+          "url": "https://flash.jin10.com/detail/20251114222431038800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
+          "title": "乌克兰军事情报局副局长：俄罗斯滑翔炸弹的年产量预计在2025年将达到12万枚。",
+          "url": "https://flash.jin10.com/detail/20251114222409639800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "发布会",
       "match_count": 5,
       "titles": [
@@ -896,7 +1058,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -945,56 +1107,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "军事",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "外交部：中方对日方近期的军事安全动向感到严重关切",
-          "url": "https://www.cls.cn/detail/2200836",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时27分 ~ 20时28分]"
-        },
-        {
-          "title": "美、布两油短线波动不大，此前有报道称，美国高级官员近日向特朗普提交针对委内瑞拉的军事行动方案。",
-          "url": "https://flash.jin10.com/detail/20251114004309713800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "美国高级官员近日向特朗普提交针对委内瑞拉的军事行动方案",
-          "url": "https://flash.jin10.com/detail/20251114004202602800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "美国官员向特朗普提交了对委内瑞拉的军事选项。",
-          "url": "https://flash.jin10.com/detail/20251114003644519800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
         }
       ]
     },
