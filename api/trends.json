@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T15:15:22.155222+08:00",
-  "total_titles_processed": 1355,
+  "generated_at": "2025-11-14T16:19:29.472267+08:00",
+  "total_titles_processed": 1468,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI openai IT 科技 gpt",
-      "match_count": 45,
+      "match_count": 51,
       "titles": [
         {
           "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
@@ -43,8 +43,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时18分 ~ 15时15分]"
+          "appearance_count": 21,
+          "time_info": "[00时18分 ~ 16时19分]"
+        },
+        {
+          "title": "华尔街警告声愈发强烈！专家：AI泡沫终将带来损失，信贷“蟑螂”比比皆是！",
+          "url": "https://www.cls.cn/detail/2200326",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时45分 ~ 16时19分]"
         },
         {
           "title": "美股收盘：美联储降息预期骤降 科技股抛售加剧 纳指大跌2.3%",
@@ -60,18 +73,6 @@
           "time_info": "[07时13分 ~ 14时21分]"
         },
         {
-          "title": "华尔街警告声愈发强烈！专家：AI泡沫终将带来损失，信贷“蟑螂”比比皆是！",
-          "url": "https://www.cls.cn/detail/2200326",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时45分 ~ 15时15分]"
-        },
-        {
           "title": "AI造世界的时代来了",
           "url": "https://search.bilibili.com/all?keyword=AI%E9%80%A0%E4%B8%96%E7%95%8C%E7%9A%84%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%BA%86",
           "source": "bilibili 热搜",
@@ -83,11 +84,12 @@
             11,
             13,
             14,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时18分 ~ 15时15分]"
+          "appearance_count": 21,
+          "time_info": "[00时18分 ~ 16时19分]"
         },
         {
           "title": "全面解析GPT-5.1",
@@ -101,11 +103,12 @@
             14,
             15,
             18,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时18分 ~ 15时15分]"
+          "appearance_count": 21,
+          "time_info": "[00时18分 ~ 16时19分]"
         },
         {
           "title": "阿里股价因AI叙事走强 现货白银冲击历史新高 | 今夜看点",
@@ -131,8 +134,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时18分 ~ 15时15分]"
+          "appearance_count": 21,
+          "time_info": "[00时18分 ~ 16时19分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -159,8 +162,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时42分 ~ 15时15分]"
+          "appearance_count": 8,
+          "time_info": "[11时42分 ~ 16时19分]"
         },
         {
           "title": "解锁大国粮仓的科技密码",
@@ -180,9 +183,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
+        },
+        {
+          "title": "港股收盘，恒生指数收跌1.85%，恒生科技指数收跌2.82%。百度集团跌超7%，京东集团跌超6%，阿里巴巴跌超4%；天齐锂业跌近5%，赣锋锂业跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3004712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "第二十七届高交会开幕，汇聚5000余项科技新成果",
@@ -340,6 +354,17 @@
           "time_info": "07时13分"
         },
         {
+          "title": "英伟达季报下周揭晓！顶级科技投资人唱多：至少再繁荣两年",
+          "url": "https://www.cls.cn/detail/2200525",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
           "title": "金十图示：2025年11月14日（周五）中国科技互联网公司市值排名TOP 50一览",
           "url": "https://flash.jin10.com/detail/20251114105310732800",
           "source": "金十数据",
@@ -349,6 +374,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
+        },
+        {
+          "title": "Uzi用AI分析自己复出可能性",
+          "url": "https://search.bilibili.com/all?keyword=Uzi%E7%94%A8AI%E5%88%86%E6%9E%90%E8%87%AA%E5%B7%B1%E5%A4%8D%E5%87%BA%E5%8F%AF%E8%83%BD%E6%80%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "中信证券：AI投资机会扩散，关注算力产业链和AI应用",
@@ -379,7 +415,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -415,6 +451,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "生发没有狠活得靠科技",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%94%9F%E5%8F%91%E6%B2%A1%E6%9C%89%E7%8B%A0%E6%B4%BB%E5%BE%97%E9%9D%A0%E7%A7%91%E6%8A%80%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26filter_type%3Drealtimehot%26cate%3D5001%26c_type%3D31%26band_rank%3D20%26q%3D%2523%25E7%2594%259F%25E5%258F%2591%25E6%25B2%25A1%25E6%259C%2589%25E7%258B%25A0%25E6%25B4%25BB%25E5%25BE%2597%25E9%259D%25A0%25E7%25A7%2591%25E6%258A%2580%2523%26realpos%3D20%26dgr%3D0%26pos%3D19%26lcate%3D5001%26stream_entry_id%3D31%26display_time%3D1763108215%26pre_seqid%3D17631082157610330571459&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "AI会如何改编游戏行业",
@@ -547,6 +594,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "恒生科技指数跌幅扩大至3%，恒生指数跌近2%，小鹏汽车、百度跌超7%，京东跌超6%。",
+          "url": "https://wallstreetcn.com/livenews/3004677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "国芯科技：中高端汽车电子芯片量产销售正处于爬坡攀升阶段",
+          "url": "https://wallstreetcn.com/livenews/3004674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         }
       ]
     },
