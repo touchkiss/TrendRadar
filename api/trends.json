@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T01:11:39.758285+08:00",
-  "total_titles_processed": 348,
+  "generated_at": "2025-11-16T02:17:33.017314+08:00",
+  "total_titles_processed": 366,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 01时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时17分]"
         },
         {
           "title": "科技股逢低买盘助纳指收高，但道指下挫，比特币四连跌，金银下挫",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 01时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时17分]"
         },
         {
           "title": "大湾区国际创客峰会暨Maker Faire Shenzhen 2025在深圳开幕",
@@ -37,8 +37,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 01时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时17分]"
+        },
+        {
+          "title": "Falcons战胜Vitality",
+          "url": "https://search.bilibili.com/all?keyword=Falcons%20Vitality",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时17分]"
         },
         {
           "title": "美股收盘：科技股反弹纳指止步三连跌 焦点转向英伟达财报",
@@ -48,8 +61,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 01时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时17分]"
         },
         {
           "title": "本周最后一个交易日，美国科技股终于迎来抄底，但“关键要看下周”",
@@ -59,8 +72,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 01时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时17分]"
         },
         {
           "title": "黄金、科技股都有人抄底，只有比特币“一蹶不振”",
@@ -70,20 +83,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 01时11分]"
-        },
-        {
-          "title": "Falcons战胜Vitality",
-          "url": "https://search.bilibili.com/all?keyword=Falcons%20Vitality",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 01时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时17分]"
         },
         {
           "title": "AI爆梗王?串子罗伯特炸翻全场",
@@ -94,8 +95,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 01时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时17分]"
         },
         {
           "title": "FURIA战胜paiN晋级BLAST决赛",
@@ -106,8 +107,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 01时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时17分]"
         },
         {
           "title": "全球首款“摄像”磁共振等一批实用型科技创新成果亮相高交会",
@@ -117,8 +118,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 01时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时17分]"
         },
         {
           "title": "字节、红杉投资的AI公司接入网易《蛋仔派对》，融资数千万美元",
@@ -128,8 +129,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 01时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时17分]"
         }
       ]
     },
@@ -145,8 +146,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 01时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时17分]"
         }
       ]
     }
