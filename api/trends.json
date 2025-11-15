@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-15T08:59:35.219561+08:00",
-  "total_titles_processed": 725,
+  "generated_at": "2025-11-15T10:28:46.118691+08:00",
+  "total_titles_processed": 817,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI openai IT 科技 gpt",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
         {
           "title": "科技股、数字币被抛售，美国市场继续本月开启的“避险模式”",
@@ -85,11 +85,23 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时12分 ~ 08时59分]"
+          "appearance_count": 7,
+          "time_info": "[03时12分 ~ 10时28分]"
+        },
+        {
+          "title": "科技股逢低买盘助纳指收高，但道指下挫，比特币四连跌，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3759354",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         },
         {
           "title": "除了美债、原油都在跌！美股科技股继续被砸，英伟达跌超3%，币圈连崩，黄金跳水",
@@ -103,6 +115,28 @@
           "time_info": "00时17分"
         },
         {
+          "title": "蓝思科技：存储涨价对公司没有负面影响",
+          "url": "https://wallstreetcn.com/livenews/3005131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "AI爆梗王?串子罗伯特炸翻全场",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347153&amp;topic_name=AI%E7%88%86%E6%A2%97%E7%8E%8B%3F%E4%B8%B2%E5%AD%90%E7%BD%97%E4%BC%AF%E7%89%B9%E7%82%B8%E7%BF%BB%E5%85%A8%E5%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
           "title": "13F报告显示：Citadel Advisors LLC.三季度建仓壳牌与埃克森美孚等。 清仓iShares半导体ETF等。 增持Meta、微软、Visa、苹果、Norfolk、Southern。 减持德州仪器、亿滋国际、麦当劳、摩根大通等。 重仓微软、英伟达、Meta、苹果、Visa。",
           "url": "https://wallstreetcn.com/livenews/3005065",
           "source": "华尔街见闻-快讯",
@@ -112,6 +146,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "伯克希尔哈撒韦披露罕见科技股持仓，Q3建仓谷歌母公司Alphabet",
+          "url": "https://flash.jin10.com/detail/20251115093238774800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         },
         {
           "title": "13F报告显示：Elliott Investment Management LP.建仓百事可乐、Bill Holdings等。 清仓西部数据和Sandisk等。 增持Uniti Group。 减持美国西南航空。 重仓Triple Flag、Phillips 66、Suncor、美国西南航空、Pinterest。",
@@ -163,6 +208,18 @@
           "time_info": "[05时13分 ~ 07时13分]"
         },
         {
+          "title": "万亿美元AI投资回报被夸大？现在每个人都在问：GPU的寿命究竟有几年？",
+          "url": "https://wallstreetcn.com/articles/3759419",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 10时28分]"
+        },
+        {
           "title": "据知情人士透露，美国总统特朗普的中东问题特使Witkoff打算很快会见哈马斯首席谈判员。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3004990",
           "source": "华尔街见闻-快讯",
@@ -174,6 +231,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时20分 ~ 04时16分]"
+        },
+        {
+          "title": "美股收盘：科技股反弹纳指止步三连跌 焦点转向英伟达财报",
+          "url": "https://www.cls.cn/detail/2201442",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 10时28分]"
         },
         {
           "title": "13F数据显示，Tiger Global Management LLC.三季度建仓做多奈飞、MongoDB、Bullish、Figma、以及Accelerant等。 清仓礼来、CrowdStrike、诺和诺德、ZKH等。 增持博通、GE Vernova、Coupang、亚马逊、Block。 减持Meta、Sherwin-Williams、Zillow（C类股+A类股）、Reddit。 重仓微软、Sea Ltd.、谷歌A、亚马逊、英伟达。",
@@ -235,37 +304,26 @@
           "time_info": "07时13分"
         },
         {
-          "title": "美股收盘：科技股反弹纳指止步三连跌 焦点转向英伟达财报",
-          "url": "https://www.cls.cn/detail/2201442",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "万亿美元AI投资回报被夸大？现在每个人都在问：GPU的寿命究竟有几年？",
-          "url": "https://wallstreetcn.com/articles/3759419",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
           "title": "巴伦资本CEO：科技股回调是良机 个人特斯拉持仓“永不卖出”",
           "url": "https://www.cls.cn/detail/2201361",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        },
+        {
+          "title": "宇树科技IPO辅导完成",
+          "url": "https://wallstreetcn.com/livenews/3005117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         },
         {
           "title": "纳斯达克金龙中国指数美股盘初跌1.7%。 中概股世纪华联跌6.3%，小马智行跌6%，阿特斯太阳能跌5%，小鹏跌4.7%，大全新能源跌4.2%，文远知行跌3.8%，京东、蔚来跌3.3%，百度跌2.7%，腾讯音乐则涨0.8%，B站涨1.9%，雾芯科技/悦刻电子烟涨8.4%。 ETF中，CQQQ跌1.75%，KWEB跌0.57%。",
@@ -285,7 +343,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
         },
@@ -322,11 +380,12 @@
           "url": "https://flash.jin10.com/detail/20251115083020206800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 10时28分]"
         },
         {
           "title": "丹麦向乌克兰交付价值8.3亿欧元军事援助",
@@ -335,7 +394,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
         }
