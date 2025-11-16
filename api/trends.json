@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T21:20:48.229223+08:00",
-  "total_titles_processed": 1226,
+  "generated_at": "2025-11-16T22:12:36.330236+08:00",
+  "total_titles_processed": 1271,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时05分 ~ 21时20分]"
+          "appearance_count": 14,
+          "time_info": "[09时05分 ~ 22时12分]"
         },
         {
           "title": "宇树科技完成IPO辅导",
@@ -53,8 +53,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时14分 ~ 21时20分]"
+          "appearance_count": 13,
+          "time_info": "[11时14分 ~ 22时12分]"
         },
         {
           "title": "本周最后一个交易日，美国科技股终于迎来抄底，但“关键要看下周”",
@@ -84,6 +84,19 @@
           "time_info": "[00时14分 ~ 11时14分]"
         },
         {
+          "title": "Gemini3.0能碾压GPT-5.1吗",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E8%83%BD%E7%A2%BE%E5%8E%8BGPT-5.1%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时17分 ~ 22时12分]"
+        },
+        {
           "title": "AI驱动掀起存储芯片“超级周期”：A股玩家谁能多分一杯羹？",
           "url": "https://www.cls.cn/detail/2201554",
           "source": "财联社热门",
@@ -94,8 +107,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时20分 ~ 21时20分]"
+          "appearance_count": 12,
+          "time_info": "[12时20分 ~ 22时12分]"
         },
         {
           "title": "Falcons战胜Vitality",
@@ -128,19 +141,6 @@
           "time_info": "[00时14分 ~ 09时05分]"
         },
         {
-          "title": "Gemini3.0能碾压GPT-5.1吗",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E8%83%BD%E7%A2%BE%E5%8E%8BGPT-5.1%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时17分 ~ 21时20分]"
-        },
-        {
           "title": "美股收盘：科技股反弹纳指止步三连跌 焦点转向英伟达财报",
           "url": "https://www.cls.cn/detail/2201442",
           "source": "财联社热门",
@@ -168,8 +168,21 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时14分 ~ 21时20分]"
+          "appearance_count": 23,
+          "time_info": "[00时14分 ~ 22时12分]"
+        },
+        {
+          "title": "周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术",
+          "url": "https://www.cls.cn/detail/2201789",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时13分 ~ 22时12分]"
         },
         {
           "title": "全球首款“摄像”磁共振等一批实用型科技创新成果亮相高交会",
@@ -192,19 +205,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时14分 ~ 07时13分]"
-        },
-        {
-          "title": "周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术",
-          "url": "https://www.cls.cn/detail/2201789",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时13分 ~ 21时20分]"
         },
         {
           "title": "智谱董事长刘德兵：完全支持开源，我们已开源40多款AI模型",
@@ -235,28 +235,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时14分 ~ 15时13分]"
-        },
-        {
-          "title": "宇树科技CEO王兴兴：AI将赋能机器人“理解世界”，下一个十年注定是“生长与绽放”",
-          "url": "https://wallstreetcn.com/livenews/3005341",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时20分"
-        },
-        {
-          "title": "波音公司商务CEO：确认美国联邦航空管理局（FAA）批准777x飞机的下一阶段认证测试。 迪拜航展（11月17-19日）将不会以订单为主要目的，而将侧重于会见客户。 只需要监管批准，收购（供应大户）Spirit AeroSystems的交易就能完成。 公司的主要侧重点是将737 MAX飞机产能稳定在每个月42架，且每个月生产8架787梦想飞机。 当系统准备就绪时，将提高产量。",
-          "url": "https://wallstreetcn.com/livenews/3005338",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时20分"
         },
         {
           "title": "华为将发布AI领域突破性技术，有望解决算力资源利用效率难题",
@@ -315,16 +293,41 @@
           "time_info": "[16时17分 ~ 19时11分]"
         },
         {
+          "title": "宇树科技完成IPO辅导 此前计划年底前提交上市申请",
+          "url": "https://www.cls.cn/detail/2201557",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时13分 ~ 22时12分]"
+        },
+        {
           "title": "现代汽车集团：公司计划到2030年实现每年从韩国交付247万辆车。 集团计划同期实现每年交付176万辆EVs、PHEVs、HEVs、以及FCEVs，而当前为69万。 公司将修建一座机器人制造工厂和代工设施。 公司还考虑成立一个高功率人工智能（AI）数据中心。",
           "url": "https://wallstreetcn.com/livenews/3005332",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时23分 ~ 22时12分]"
+        },
+        {
+          "title": "宇树科技CEO王兴兴：AI将赋能机器人“理解世界”，下一个十年注定是“生长与绽放”",
+          "url": "https://wallstreetcn.com/livenews/3005341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时23分 ~ 21时20分]"
+          "time_info": "[21时20分 ~ 22时12分]"
         },
         {
           "title": "韩文秀：大力发展创业投资，推动量子科技、生物制造、氢能和核聚变能、脑机接口、具身智能、第六代移动通信等成为新的经济增长点",
@@ -353,16 +356,27 @@
           "time_info": "[16时17分 ~ 19时11分]"
         },
         {
-          "title": "宇树科技完成IPO辅导 此前计划年底前提交上市申请",
-          "url": "https://www.cls.cn/detail/2201557",
-          "source": "财联社热门",
+          "title": "波音公司商务CEO：确认美国联邦航空管理局（FAA）批准777x飞机的下一阶段认证测试。 迪拜航展（11月17-19日）将不会以订单为主要目的，而将侧重于会见客户。 只需要监管批准，收购（供应大户）Spirit AeroSystems的交易就能完成。 公司的主要侧重点是将737 MAX飞机产能稳定在每个月42架，且每个月生产8架787梦想飞机。 当系统准备就绪时，将提高产量。",
+          "url": "https://wallstreetcn.com/livenews/3005338",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            12
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时13分 ~ 21时20分]"
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 22时12分]"
+        },
+        {
+          "title": "申万宏源：科技“性价比不足”，顺周期“逻辑有断点”，“牛市2.0”条件不具备，现在是“牛市1.0”高位震荡",
+          "url": "https://wallstreetcn.com/articles/3759481",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时23分 ~ 22时12分]"
         },
         {
           "title": "FURIA战胜paiN晋级BLAST决赛",
@@ -377,6 +391,19 @@
           "time_info": "[00时14分 ~ 02时17分]"
         },
         {
+          "title": "芯联集成发布全新碳化硅G2.0技术平台 重点覆盖新能源和AI数据中心电源",
+          "url": "https://wallstreetcn.com/livenews/3005329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时23分 ~ 22时12分]"
+        },
+        {
           "title": "华为，AI突破将发布",
           "url": "https://wallstreetcn.com/articles/3759477",
           "source": "华尔街见闻",
@@ -387,17 +414,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时13分 ~ 19时11分]"
-        },
-        {
-          "title": "申万宏源：科技“性价比不足”，顺周期“逻辑有断点”，“牛市2.0”条件不具备，现在是“牛市1.0”高位震荡",
-          "url": "https://wallstreetcn.com/articles/3759481",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时23分 ~ 21时20分]"
         },
         {
           "title": "韩文秀：推动量子科技、生物制造、氢能和核聚变能、脑机接口、具身智能、第六代移动通信等成为新的经济增长点",
@@ -412,16 +428,16 @@
           "time_info": "[15时13分 ~ 16时17分]"
         },
         {
-          "title": "芯联集成发布全新碳化硅G2.0技术平台 重点覆盖新能源和AI数据中心电源",
-          "url": "https://wallstreetcn.com/livenews/3005329",
-          "source": "华尔街见闻-快讯",
+          "title": "男子称iPhone Air把始祖鸟冲锋衣划破",
+          "url": "https://www.toutiao.com/trending/7572867707574878249/",
+          "source": "今日头条",
           "ranks": [
-            17,
-            21
+            26,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时23分 ~ 21时20分]"
+          "time_info": "[20时23分 ~ 22时12分]"
         },
         {
           "title": "谁最终为AI狂潮“买单”？美国险资",
@@ -455,23 +471,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
-        },
-        {
-          "title": "男子称iPhone Air把始祖鸟冲锋衣划破",
-          "url": "https://www.toutiao.com/trending/7572867707574878249/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时23分"
         }
       ]
     },
     {
       "keyword_group": "军事",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "马杜罗：美军和特多的军事演习对地区和平构成威胁",
@@ -487,6 +492,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时14分 ~ 15时13分]"
+        },
+        {
+          "title": "央视军事深扒日本航母化之路",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E5%86%9B%E4%BA%8B%E6%B7%B1%E6%89%92%E6%97%A5%E6%9C%AC%E8%88%AA%E6%AF%8D%E5%8C%96%E4%B9%8B%E8%B7%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "伊朗外交部：美军事活动正在威胁国际和平与安全",
