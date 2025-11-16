@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T00:15:40.687538+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-17T01:12:15.864208+08:00",
+  "total_titles_processed": 335,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 01时12分]"
         },
         {
           "title": "【早报】中方已做好对日实质反制准备；宇树科技IPO辅导完成",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 01时12分]"
         },
         {
           "title": "AI驱动掀起存储芯片“超级周期”：A股玩家谁能多分一杯羹？",
@@ -37,19 +37,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 01时12分]"
         },
         {
           "title": "Gemini3.0能碾压GPT-5.1吗",
           "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E8%83%BD%E7%A2%BE%E5%8E%8BGPT-5.1%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 01时12分]"
         },
         {
           "title": "申万宏源：科技“性价比不足”，顺周期“逻辑有断点”，“牛市2.0”条件不具备，现在是“牛市1.0”高位震荡",
@@ -59,19 +60,44 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 01时12分]"
         },
         {
           "title": "宇树科技完成IPO辅导",
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%AE%8C%E6%88%90IPO%E8%BE%85%E5%AF%BC",
           "source": "bilibili 热搜",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 01时12分]"
+        },
+        {
+          "title": "“AI仿冒名人”营销，有被仿冒专家觉得不可思议：相似度超乎想象",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31979142",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 01时12分]"
+        },
+        {
+          "title": "AI爆梗王?串子罗伯特炸翻全场",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347153&amp;topic_name=AI%E7%88%86%E6%A2%97%E7%8E%8B%3F%E4%B8%B2%E5%AD%90%E7%BD%97%E4%BC%AF%E7%89%B9%E7%82%B8%E7%BF%BB%E5%85%A8%E5%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 01时12分]"
         },
         {
           "title": "宇树科技CEO王兴兴：AI将赋能机器人“理解世界”，下一个十年注定是“生长与绽放”",
@@ -81,19 +107,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "“AI仿冒名人”营销，有被仿冒专家觉得不可思议：相似度超乎想象",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31979142",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 01时12分]"
         },
         {
           "title": "波音公司商务CEO：确认美国联邦航空管理局（FAA）批准777x飞机的下一阶段认证测试。 迪拜航展（11月17-19日）将不会以订单为主要目的，而将侧重于会见客户。 只需要监管批准，收购（供应大户）Spirit AeroSystems的交易就能完成。 公司的主要侧重点是将737 MAX飞机产能稳定在每个月42架，且每个月生产8架787梦想飞机。 当系统准备就绪时，将提高产量。",
@@ -103,8 +118,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 01时12分]"
         },
         {
           "title": "现代汽车集团：公司计划到2030年实现每年从韩国交付247万辆车。 集团计划同期实现每年交付176万辆EVs、PHEVs、HEVs、以及FCEVs，而当前为69万。 公司将修建一座机器人制造工厂和代工设施。 公司还考虑成立一个高功率人工智能（AI）数据中心。",
@@ -114,19 +129,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "AI爆梗王?串子罗伯特炸翻全场",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347153&amp;topic_name=AI%E7%88%86%E6%A2%97%E7%8E%8B%3F%E4%B8%B2%E5%AD%90%E7%BD%97%E4%BC%AF%E7%89%B9%E7%82%B8%E7%BF%BB%E5%85%A8%E5%9C%BA",
-          "source": "贴吧",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 01时12分]"
         }
       ]
     },
@@ -142,8 +146,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 01时12分]"
         }
       ]
     }
