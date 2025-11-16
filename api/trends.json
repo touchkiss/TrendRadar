@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-16T20:23:45.794588+08:00",
-  "total_titles_processed": 1175,
+  "generated_at": "2025-11-16T21:20:48.229223+08:00",
+  "total_titles_processed": 1226,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI openai IT 科技 gpt",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "全运绿能 “黑科技”都有啥",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时05分 ~ 20时23分]"
+          "appearance_count": 13,
+          "time_info": "[09时05分 ~ 21时20分]"
         },
         {
           "title": "宇树科技完成IPO辅导",
@@ -53,8 +53,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时14分 ~ 20时23分]"
+          "appearance_count": 12,
+          "time_info": "[11时14分 ~ 21时20分]"
         },
         {
           "title": "本周最后一个交易日，美国科技股终于迎来抄底，但“关键要看下周”",
@@ -94,8 +94,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时20分 ~ 20时23分]"
+          "appearance_count": 11,
+          "time_info": "[12时20分 ~ 21时20分]"
         },
         {
           "title": "Falcons战胜Vitality",
@@ -128,6 +128,19 @@
           "time_info": "[00时14分 ~ 09时05分]"
         },
         {
+          "title": "Gemini3.0能碾压GPT-5.1吗",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E8%83%BD%E7%A2%BE%E5%8E%8BGPT-5.1%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时17分 ~ 21时20分]"
+        },
+        {
           "title": "美股收盘：科技股反弹纳指止步三连跌 焦点转向英伟达财报",
           "url": "https://www.cls.cn/detail/2201442",
           "source": "财联社热门",
@@ -151,24 +164,12 @@
             18,
             19,
             21,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时14分 ~ 20时23分]"
-        },
-        {
-          "title": "Gemini3.0能碾压GPT-5.1吗",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E8%83%BD%E7%A2%BE%E5%8E%8BGPT-5.1%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时17分 ~ 20时23分]"
+          "appearance_count": 22,
+          "time_info": "[00时14分 ~ 21时20分]"
         },
         {
           "title": "全球首款“摄像”磁共振等一批实用型科技创新成果亮相高交会",
@@ -202,8 +203,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时13分 ~ 20时23分]"
+          "appearance_count": 4,
+          "time_info": "[18时13分 ~ 21时20分]"
         },
         {
           "title": "智谱董事长刘德兵：完全支持开源，我们已开源40多款AI模型",
@@ -236,15 +237,26 @@
           "time_info": "[11时14分 ~ 15时13分]"
         },
         {
-          "title": "现代汽车集团：公司计划到2030年实现每年从韩国交付247万辆车。 集团计划同期实现每年交付176万辆EVs、PHEVs、HEVs、以及FCEVs，而当前为69万。 公司将修建一座机器人制造工厂和代工设施。 公司还考虑成立一个高功率人工智能（AI）数据中心。",
-          "url": "https://wallstreetcn.com/livenews/3005332",
+          "title": "宇树科技CEO王兴兴：AI将赋能机器人“理解世界”，下一个十年注定是“生长与绽放”",
+          "url": "https://wallstreetcn.com/livenews/3005341",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "21时20分"
+        },
+        {
+          "title": "波音公司商务CEO：确认美国联邦航空管理局（FAA）批准777x飞机的下一阶段认证测试。 迪拜航展（11月17-19日）将不会以订单为主要目的，而将侧重于会见客户。 只需要监管批准，收购（供应大户）Spirit AeroSystems的交易就能完成。 公司的主要侧重点是将737 MAX飞机产能稳定在每个月42架，且每个月生产8架787梦想飞机。 当系统准备就绪时，将提高产量。",
+          "url": "https://wallstreetcn.com/livenews/3005338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
         },
         {
           "title": "华为将发布AI领域突破性技术，有望解决算力资源利用效率难题",
@@ -303,6 +315,18 @@
           "time_info": "[16时17分 ~ 19时11分]"
         },
         {
+          "title": "现代汽车集团：公司计划到2030年实现每年从韩国交付247万辆车。 集团计划同期实现每年交付176万辆EVs、PHEVs、HEVs、以及FCEVs，而当前为69万。 公司将修建一座机器人制造工厂和代工设施。 公司还考虑成立一个高功率人工智能（AI）数据中心。",
+          "url": "https://wallstreetcn.com/livenews/3005332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 21时20分]"
+        },
+        {
           "title": "韩文秀：大力发展创业投资，推动量子科技、生物制造、氢能和核聚变能、脑机接口、具身智能、第六代移动通信等成为新的经济增长点",
           "url": "https://wallstreetcn.com/livenews/3005253",
           "source": "华尔街见闻-快讯",
@@ -333,11 +357,12 @@
           "url": "https://www.cls.cn/detail/2201557",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时13分 ~ 20时23分]"
+          "appearance_count": 4,
+          "time_info": "[17时13分 ~ 21时20分]"
         },
         {
           "title": "FURIA战胜paiN晋级BLAST决赛",
@@ -364,6 +389,17 @@
           "time_info": "[18时13分 ~ 19时11分]"
         },
         {
+          "title": "申万宏源：科技“性价比不足”，顺周期“逻辑有断点”，“牛市2.0”条件不具备，现在是“牛市1.0”高位震荡",
+          "url": "https://wallstreetcn.com/articles/3759481",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 21时20分]"
+        },
+        {
           "title": "韩文秀：推动量子科技、生物制造、氢能和核聚变能、脑机接口、具身智能、第六代移动通信等成为新的经济增长点",
           "url": "https://wallstreetcn.com/livenews/3005253",
           "source": "华尔街见闻-快讯",
@@ -374,6 +410,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时13分 ~ 16时17分]"
+        },
+        {
+          "title": "芯联集成发布全新碳化硅G2.0技术平台 重点覆盖新能源和AI数据中心电源",
+          "url": "https://wallstreetcn.com/livenews/3005329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 21时20分]"
         },
         {
           "title": "谁最终为AI狂潮“买单”？美国险资",
@@ -398,35 +446,13 @@
           "time_info": "18时13分"
         },
         {
-          "title": "申万宏源：科技“性价比不足”，顺周期“逻辑有断点”，“牛市2.0”条件不具备，现在是“牛市1.0”高位震荡",
-          "url": "https://wallstreetcn.com/articles/3759481",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
           "title": "央视起底AI仿冒名人营销乱象",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A4%AE%E8%A7%86%E8%B5%B7%E5%BA%95AI%E4%BB%BF%E5%86%92%E5%90%8D%E4%BA%BA%E8%90%A5%E9%94%80%E4%B9%B1%E8%B1%A1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D10%26c_type%3D31%26flag%3D1%26cate%3D5001%26realpos%3D10%26q%3D%2523%25E5%25A4%25AE%25E8%25A7%2586%25E8%25B5%25B7%25E5%25BA%2595AI%25E4%25BB%25BF%25E5%2586%2592%25E5%2590%258D%25E4%25BA%25BA%25E8%2590%25A5%25E9%2594%2580%25E4%25B9%25B1%25E8%25B1%25A1%2523%26pos%3D9%26dgr%3D0%26lcate%3D5001%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26display_time%3D1763295328%26pre_seqid%3D17632953281920330375524&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "芯联集成发布全新碳化硅G2.0技术平台 重点覆盖新能源和AI数据中心电源",
-          "url": "https://wallstreetcn.com/livenews/3005329",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -437,7 +463,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         }
