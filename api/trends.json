@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-16T12:20:45.067739+08:00",
-  "total_titles_processed": 668,
+  "generated_at": "2025-11-16T13:14:23.660910+08:00",
+  "total_titles_processed": 721,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI openai IT 科技 gpt",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "全运绿能 “黑科技”都有啥",
@@ -93,8 +93,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 12时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 13时14分]"
         },
         {
           "title": "AI爆梗王?串子罗伯特炸翻全场",
@@ -106,8 +106,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 12时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 13时14分]"
+        },
+        {
+          "title": "宇树科技完成IPO辅导",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%AE%8C%E6%88%90IPO%E8%BE%85%E5%AF%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时14分 ~ 13时14分]"
         },
         {
           "title": "全球首款“摄像”磁共振等一批实用型科技创新成果亮相高交会",
@@ -132,29 +144,6 @@
           "time_info": "[00时14分 ~ 07时13分]"
         },
         {
-          "title": "宇树科技完成IPO辅导",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%AE%8C%E6%88%90IPO%E8%BE%85%E5%AF%BC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时14分 ~ 12时20分]"
-        },
-        {
-          "title": "易点天下与阿里云达成AI漫剧出海框架合作协议，共同打造首个AI漫剧出海加速增长引擎",
-          "url": "https://wallstreetcn.com/livenews/3005243",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
           "title": "【早报】中方已做好对日实质反制准备；宇树科技IPO辅导完成",
           "url": "https://www.cls.cn/detail/2201667",
           "source": "财联社热门",
@@ -163,8 +152,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时05分 ~ 12时20分]"
+          "appearance_count": 5,
+          "time_info": "[09时05分 ~ 13时14分]"
+        },
+        {
+          "title": "韩文秀：大力发展创业投资，推动量子科技、生物制造、氢能和核聚变能、脑机接口、具身智能、第六代移动通信等成为新的经济增长点",
+          "url": "https://wallstreetcn.com/livenews/3005253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         },
         {
           "title": "佳都科技、西门子、工控国际达成合作，共同设立轨道交通信号系统合资公司",
@@ -173,11 +173,12 @@
           "ranks": [
             3,
             15,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时05分 ~ 12时20分]"
+          "appearance_count": 4,
+          "time_info": "[09时05分 ~ 13时14分]"
         },
         {
           "title": "智谱董事长刘德兵：完全支持开源，我们已开源40多款AI模型",
@@ -185,11 +186,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时14分 ~ 12时20分]"
+          "appearance_count": 3,
+          "time_info": "[11时14分 ~ 13时14分]"
         },
         {
           "title": "宇树科技王兴兴：全世界拧成一股绳，机器人技术才能更快突破临界点",
@@ -197,11 +199,36 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            10
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时14分 ~ 13时14分]"
+        },
+        {
+          "title": "易点天下与阿里云达成AI漫剧出海框架合作协议，共同打造首个AI漫剧出海加速增长引擎",
+          "url": "https://wallstreetcn.com/livenews/3005243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时14分 ~ 12时20分]"
+          "time_info": "[12时20分 ~ 13时14分]"
+        },
+        {
+          "title": "AI驱动掀起存储芯片“超级周期”：A股玩家谁能多分一杯羹？",
+          "url": "https://www.cls.cn/detail/2201554",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时20分 ~ 13时14分]"
         },
         {
           "title": "FURIA战胜paiN晋级BLAST决赛",
@@ -222,18 +249,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
-          "title": "AI驱动掀起存储芯片“超级周期”：A股玩家谁能多分一杯羹？",
-          "url": "https://www.cls.cn/detail/2201554",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         }
@@ -241,7 +257,7 @@
     },
     {
       "keyword_group": "军事",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "马杜罗：美军和特多的军事演习对地区和平构成威胁",
@@ -249,11 +265,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时14分 ~ 12时20分]"
+          "appearance_count": 3,
+          "time_info": "[11时14分 ~ 13时14分]"
         },
         {
           "title": "伊朗外交部：美军事活动正在威胁国际和平与安全",
@@ -262,11 +279,12 @@
           "ranks": [
             8,
             17,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时05分 ~ 12时20分]"
+          "appearance_count": 4,
+          "time_info": "[09时05分 ~ 13时14分]"
         },
         {
           "title": "伊朗外交部：美军事活动正在威胁国际和平与安全",
@@ -282,6 +300,19 @@
           "time_info": "[09时05分 ~ 12时20分]"
         },
         {
+          "title": "美白宫前民众抗议 反对美政府在加勒比地区军事行动",
+          "url": "https://wallstreetcn.com/livenews/3005227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时14分 ~ 13时14分]"
+        },
+        {
           "title": "马杜罗：美军和特多的军事演习对地区和平构成威胁",
           "url": "https://wallstreetcn.com/livenews/3005203",
           "source": "华尔街见闻-快讯",
@@ -295,16 +326,15 @@
           "time_info": "[09时05分 ~ 12时20分]"
         },
         {
-          "title": "美白宫前民众抗议 反对美政府在加勒比地区军事行动",
-          "url": "https://wallstreetcn.com/livenews/3005227",
-          "source": "华尔街见闻-快讯",
+          "title": "军事专家称中国综合实力碾压日本",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%86%9B%E4%BA%8B%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%B8%AD%E5%9B%BD%E7%BB%BC%E5%90%88%E5%AE%9E%E5%8A%9B%E7%A2%BE%E5%8E%8B%E6%97%A5%E6%9C%AC%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26dgr%3D0%26realpos%3D26%26cate%3D5001%26q%3D%2523%25E5%2586%259B%25E4%25BA%258B%25E4%25B8%2593%25E5%25AE%25B6%25E7%25A7%25B0%25E4%25B8%25AD%25E5%259B%25BD%25E7%25BB%25BC%25E5%2590%2588%25E5%25AE%259E%25E5%258A%259B%25E7%25A2%25BE%25E5%258E%258B%25E6%2597%25A5%25E6%259C%25AC%2523%26flag%3D1%26band_rank%3D26%26stream_entry_id%3D31%26pos%3D26%26display_time%3D1763269474%26pre_seqid%3D17632694743030330553223&launchid=10000360-page_H5",
+          "source": "微博",
           "ranks": [
-            11,
-            17
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时14分 ~ 12时20分]"
+          "time_info": "[13时13分 ~ 13时14分]"
         }
       ]
     },
@@ -317,11 +347,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%88%9B%E5%8F%91%E5%B8%83%E4%BC%9A%E5%85%A8%E7%A8%8B%E5%9B%9E%E9%A1%BE",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 11时14分]"
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 13时14分]"
         }
       ]
     }
