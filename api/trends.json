@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T09:02:31.186551+08:00",
-  "total_titles_processed": 604,
+  "generated_at": "2025-11-17T11:12:00.674075+08:00",
+  "total_titles_processed": 776,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI openai IT 科技 gpt",
-      "match_count": 20,
+      "match_count": 30,
       "titles": [
         {
           "title": "周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时15分 ~ 09时02分]"
+          "appearance_count": 15,
+          "time_info": "[00时15分 ~ 11时12分]"
         },
         {
           "title": "【早报】中方已做好对日实质反制准备；宇树科技IPO辅导完成",
@@ -49,11 +49,12 @@
             8,
             5,
             7,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时15分 ~ 09时02分]"
+          "appearance_count": 15,
+          "time_info": "[00时15分 ~ 11时12分]"
         },
         {
           "title": "如何看待巴菲特「退休」前 Q3 加速抛苹果，首次建仓谷歌？向来对科技股谨慎的股神为何突然出手？",
@@ -74,11 +75,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时15分 ~ 09时02分]"
+          "appearance_count": 15,
+          "time_info": "[00时15分 ~ 11时12分]"
         },
         {
           "title": "宇树科技完成IPO辅导",
@@ -106,8 +108,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时15分 ~ 09时02分]"
+          "appearance_count": 15,
+          "time_info": "[00时15分 ~ 11时12分]"
         },
         {
           "title": "AI爆梗王?串子罗伯特炸翻全场",
@@ -115,11 +117,23 @@
           "source": "贴吧",
           "ranks": [
             24,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时15分 ~ 09时02分]"
+          "appearance_count": 15,
+          "time_info": "[00时15分 ~ 11时12分]"
+        },
+        {
+          "title": "【早报】多部门提醒！近期避免前往日本；华为将发布AI突破性技术，对标英伟达",
+          "url": "https://www.cls.cn/detail/2201935",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时02分 ~ 11时12分]"
         },
         {
           "title": "宇树科技CEO王兴兴：AI将赋能机器人“理解世界”，下一个十年注定是“生长与绽放”",
@@ -194,17 +208,6 @@
           "time_info": "[04时14分 ~ 07时13分]"
         },
         {
-          "title": "【早报】多部门提醒！近期避免前往日本；华为将发布AI突破性技术，对标英伟达",
-          "url": "https://www.cls.cn/detail/2201935",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
           "title": "据知情人士透露，空中客车有望在迪拜航展宣布在打飞机采购中获得重大份额。 空客接近出售大约100架A321NEO飞机给FlyDubai，可能会获得更多订单。 波音公司洽谈向FlyDubai供相对偏小的订单，预计会出售几十架737 MAX飞机给对方。 FlyDubai飞机订单的最终结果将取决于眼下正在推进的谈判。（路透）",
           "url": "https://wallstreetcn.com/livenews/3005373",
           "source": "华尔街见闻-快讯",
@@ -231,11 +234,45 @@
           "url": "https://www.cls.cn/detail/2201883",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时02分 ~ 11时12分]"
+        },
+        {
+          "title": "华为，AI突破将发布",
+          "url": "https://wallstreetcn.com/articles/3759477",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时11分 ~ 11时12分]"
+        },
+        {
+          "title": "金十图示：2025年11月17日（周一）全球主要科技与互联网公司市值变化",
+          "url": "https://flash.jin10.com/detail/20251117105703844800",
+          "source": "金十数据",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时02分"
+          "time_info": "11时12分"
+        },
+        {
+          "title": "金十图示：2025年11月17日（周一）中国科技互联网公司市值排名TOP 50一览",
+          "url": "https://flash.jin10.com/detail/20251117105031876800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
         },
         {
           "title": "科技板块获逆势加仓，“哑铃策略”重回视野",
@@ -249,21 +286,98 @@
           "time_info": "07时13分"
         },
         {
+          "title": "阿里巴巴涨幅扩大至1.3%。恒生科技指数跌幅收窄至0.25%。",
+          "url": "https://wallstreetcn.com/livenews/3005506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
+        },
+        {
+          "title": "阿里巴巴(BABA.N)美股夜盘一度上涨5%。此前阿里巴巴宣布千问APP公测版上线，与ChatGPT展开正面竞争。",
+          "url": "https://flash.jin10.com/detail/20251117103913637800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
+        },
+        {
+          "title": "前美联储副主席Lael Brainard（布雷纳德）：美联储应该为了防止劳动力市场进一步疲软而谨慎行事，下个月应再次降息。",
+          "url": "https://wallstreetcn.com/livenews/3005491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
+        },
+        {
+          "title": "A股半导体设备板块短线拉升，微导纳米涨超10%，矽电股份、中科飞测、至正股份、联动科技、富创精密等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3005486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
+        },
+        {
+          "title": "A股锂电池板块延续强势，容百科技、天华新能涨超10%，丰元股份触及涨停，大中矿业、盛新锂能、融捷股份等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3005478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
+        },
+        {
+          "title": "A股军工板块大幅高开，长城军工涨停，江龙船艇涨超10%，北方长龙、晟楠科技、天海防务、捷强装备、晨曦航空跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3005477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
+        },
+        {
           "title": "华为将发布AI领域突破性技术",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%8D%8E%E4%B8%BA%E5%B0%86%E5%8F%91%E5%B8%83AI%E9%A2%86%E5%9F%9F%E7%AA%81%E7%A0%B4%E6%80%A7%E6%8A%80%E6%9C%AF&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26c_type%3D31%26cate%3D5001%26dgr%3D0%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26lcate%3D5001%26band_rank%3D28%26q%3D%25E5%258D%258E%25E4%25B8%25BA%25E5%25B0%2586%25E5%258F%2591%25E5%25B8%2583AI%25E9%25A2%2586%25E5%259F%259F%25E7%25AA%2581%25E7%25A0%25B4%25E6%2580%25A7%25E6%258A%2580%25E6%259C%25AF%26realpos%3D28%26pos%3D28%26display_time%3D1763341199%26pre_seqid%3D17633411995030329706384&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "A股水产养殖板块开盘大涨，大湖股份、中水渔业、开创国际、天马科技、东方海洋、好当家等多股竞价涨停。",
+          "url": "https://wallstreetcn.com/livenews/3005471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
         }
       ]
     },
     {
       "keyword_group": "军事",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "央视军事深扒日本航母化之路",
@@ -272,11 +386,12 @@
           "ranks": [
             1,
             2,
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时15分 ~ 09时02分]"
+          "appearance_count": 15,
+          "time_info": "[00时15分 ~ 11时12分]"
         },
         {
           "title": "加拿大总理卡尼的政府即将在周一面临决定性的时刻。 加拿大下议院将投票表决（卡尼政府）已经给出的预算方案，该预算案将从军事和基础设施方面扩大开支。 如果预算案没能通过，可能会面临提前大选。",
@@ -292,6 +407,34 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时18分 ~ 07时13分]"
+        },
+        {
+          "title": "厄瓜多尔公投反对设立外国军事基地",
+          "url": "https://flash.jin10.com/detail/20251117102537484800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "发布会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "余承东官宣华为Mate80发布会",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BD%99%E6%89%BF%E4%B8%9C%E5%AE%98%E5%AE%A3%E5%8D%8E%E4%B8%BAMate80%E5%8F%91%E5%B8%83%E4%BC%9A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D5%26filter_type%3Drealtimehot%26realpos%3D5%26c_type%3D31%26cate%3D5001%26band_rank%3D5%26stream_entry_id%3D31%26flag%3D0%26lcate%3D5001%26q%3D%2523%25E4%25BD%2599%25E6%2589%25BF%25E4%25B8%259C%25E5%25AE%2598%25E5%25AE%25A3%25E5%258D%258E%25E4%25B8%25BAMate80%25E5%258F%2591%25E5%25B8%2583%25E4%25BC%259A%2523%26dgr%3D0%26display_time%3D1763348938%26pre_seqid%3D17633489386520330588265&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时11分 ~ 11时12分]"
         }
       ]
     }
