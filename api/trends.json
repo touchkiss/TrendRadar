@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-18T06:14:03.194938+08:00",
-  "total_titles_processed": 636,
+  "generated_at": "2025-11-18T07:13:45.811260+08:00",
+  "total_titles_processed": 682,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI openai IT 科技 gpt",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "千问APP正式上线，阿里要打造AI超级入口！",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 06时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 07时13分]"
         },
         {
           "title": "清仓英伟达！“白宫背后的科技大佬”Peter Thiel三季度大幅降仓，新买入微软和苹果",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 06时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 07时13分]"
         },
         {
           "title": "网传江苏科技大学首席科学家仅高中学历，伪造履历拼凑成果堆叠头衔欺诈科研经费，已被带走调查，是真的吗？",
@@ -35,11 +35,24 @@
           "source": "知乎",
           "ranks": [
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时11分 ~ 06时14分]"
+          "appearance_count": 6,
+          "time_info": "[03时11分 ~ 07时13分]"
+        },
+        {
+          "title": "成龙去世照片系AI生成",
+          "url": "https://www.douyin.com/hot/2309157",
+          "source": "抖音",
+          "ranks": [
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 07时13分]"
         },
         {
           "title": "抄自家私募作业，核心IT老鼠仓获利近9000万",
@@ -55,18 +68,6 @@
           "time_info": "[00时19分 ~ 06时14分]"
         },
         {
-          "title": "成龙去世照片系AI生成",
-          "url": "https://www.douyin.com/hot/2309157",
-          "source": "抖音",
-          "ranks": [
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 06时14分]"
-        },
-        {
           "title": "为什么现在画师几乎要被 ai 替代，而程序员行业不仅没被替代，反而看起来更繁荣了？",
           "url": "https://www.zhihu.com/question/1972861967086666313",
           "source": "知乎",
@@ -74,11 +75,12 @@
             19,
             17,
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时14分 ~ 06时14分]"
+          "appearance_count": 8,
+          "time_info": "[01时14分 ~ 07时13分]"
         },
         {
           "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
@@ -154,6 +156,50 @@
           "time_info": "05时13分"
         },
         {
+          "title": "据Politico：特朗普考虑将美国联邦紧急事务管理局（FEMA）总部迁移到得州。",
+          "url": "https://flash.jin10.com/detail/20251118061632356800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        },
+        {
+          "title": "白宫经济顾问哈塞特：AI提升生产率或致就业市场“平静期”，美联储是时候真正“以数据为驱动”",
+          "url": "https://wallstreetcn.com/articles/3759559",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        },
+        {
+          "title": "英伟达：与Riken利用AI和量子计算的新超算来推进日本的科学发展。 两套新的超算将于2026年春季投入运营，Fugakunext计划到2030年投入应用。 Riken的AI和量子系统将配置2140块英伟达Blackwell GPUs。",
+          "url": "https://wallstreetcn.com/livenews/3006092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        },
+        {
+          "title": "美国总统特朗普考虑将联邦应急管理局（FEMA）总部迁移到得州。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3006089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        },
+        {
           "title": "消息人士：SABA资本管理公司已向寻求对冲科技行业敞口风险的贷款机构出售了信用衍生品。该公司出售了关于甲骨文、微软、Meta、亚马逊和Alphabet的信贷违约掉期（CDS），",
           "url": "https://flash.jin10.com/detail/20251118002603594800",
           "source": "金十数据",
@@ -226,7 +272,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
         },
@@ -256,7 +302,7 @@
     },
     {
       "keyword_group": "军事",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "韩国提议举行朝韩军事会谈",
@@ -266,8 +312,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 06时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 07时13分]"
+        },
+        {
+          "title": "特朗普暗示采取军事打击行动 施压墨西哥等拉美国家",
+          "url": "https://flash.jin10.com/detail/20251118062849390800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
         },
         {
           "title": "特朗普释放可能军事打击墨西哥的信息，墨西哥比索跌幅扩大",
