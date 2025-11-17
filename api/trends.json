@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T17:19:09.928223+08:00",
-  "total_titles_processed": 1353,
+  "generated_at": "2025-11-17T18:17:19.036087+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI openai IT 科技 gpt",
-      "match_count": 55,
+      "match_count": 58,
       "titles": [
         {
           "title": "周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术",
@@ -152,11 +152,12 @@
             18,
             14,
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时15分 ~ 17时19分]"
+          "appearance_count": 26,
+          "time_info": "[00时15分 ~ 18时17分]"
         },
         {
           "title": "AI爆梗王?串子罗伯特炸翻全场",
@@ -175,6 +176,20 @@
           "time_info": "[00时15分 ~ 14时22分]"
         },
         {
+          "title": "千问APP正式上线，阿里要打造AI超级入口！",
+          "url": "https://wallstreetcn.com/articles/3759516",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时22分 ~ 18时17分]"
+        },
+        {
           "title": "清仓英伟达！“白宫背后的科技大佬”Peter Thiel三季度大幅降仓，新买入微软和苹果",
           "url": "https://wallstreetcn.com/articles/3759501",
           "source": "华尔街见闻",
@@ -184,8 +199,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时15分 ~ 17时19分]"
+          "appearance_count": 9,
+          "time_info": "[13时15分 ~ 18时17分]"
         },
         {
           "title": "宇树科技CEO王兴兴：AI将赋能机器人“理解世界”，下一个十年注定是“生长与绽放”",
@@ -247,19 +262,6 @@
           "time_info": "[04时15分 ~ 07时13分]"
         },
         {
-          "title": "千问APP正式上线，阿里要打造AI超级入口！",
-          "url": "https://wallstreetcn.com/articles/3759516",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时22分 ~ 17时19分]"
-        },
-        {
           "title": "华为，AI突破将发布",
           "url": "https://wallstreetcn.com/articles/3759477",
           "source": "华尔街见闻",
@@ -314,9 +316,31 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
+        },
+        {
+          "title": "美股加密货币概念股票盘前走高，Coinbase上涨1%，Bitfarms上涨2.3%，Strategy上涨1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3005785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
+          "title": "成龙去世照片系AI生成",
+          "url": "https://www.douyin.com/hot/2309157",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时21分 ~ 18时17分]"
         },
         {
           "title": "成龙去世谣言系AI生成",
@@ -370,17 +394,6 @@
           "time_info": "[13时15分 ~ 15时16分]"
         },
         {
-          "title": "成龙去世照片系AI生成",
-          "url": "https://www.douyin.com/hot/2309157",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时21分 ~ 17时19分]"
-        },
-        {
           "title": "阿里 Qwen 同名个人 AI 助理「千问」App 开始公测，该产品体验效果如何？",
           "url": "https://www.zhihu.com/question/1973700569139995365",
           "source": "知乎",
@@ -393,6 +406,17 @@
           "time_info": "[16时21分 ~ 17时19分]"
         },
         {
+          "title": "抄自家私募作业，核心IT老鼠仓获利近9000万",
+          "url": "https://www.cls.cn/detail/2202648",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 18时17分]"
+        },
+        {
           "title": "科创50指数跌超1%，九号公司、拓荆科技跌超5%，寒武纪跌超3%。",
           "url": "https://wallstreetcn.com/livenews/3005623",
           "source": "华尔街见闻-快讯",
@@ -403,6 +427,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时22分 ~ 15时16分]"
+        },
+        {
+          "title": "美股盘前，部分明星科技股走强，谷歌涨超5%，此前巴菲特首次建仓谷歌。特斯拉涨超1%、美光科技涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3005762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 18时17分]"
+        },
+        {
+          "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
+          "url": "https://www.cls.cn/detail/2202608",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 18时17分]"
         },
         {
           "title": "钠电池赛道迎重磅合作：容百科技锁单宁德时代60%钠电正极材料采购量｜速读公告",
@@ -438,6 +485,30 @@
           "time_info": "[15时15分 ~ 15时16分]"
         },
         {
+          "title": "谷歌：承诺投入225万美元支持非洲的AI相关数据产业。",
+          "url": "https://wallstreetcn.com/livenews/3005746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 18时17分]"
+        },
+        {
+          "title": "英联股份：子公司江苏英联复合集流体有限公司与某新能源科技有限公司签署了准固态半固态电池用的《复合铝箔战略采购合同》，某新能源科技公司根据其准固态半固态电池的应用需求，计划2026年-2027年向江苏英联合计采购5000万㎡以上的准固态半固态电池专用复合铝箔材料（锂离子电池正极电极集流体），其中2026年向江苏英联采购2000万㎡复合铝箔，2027年采购数量为3000万㎡以上。",
+          "url": "https://wallstreetcn.com/livenews/3005745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 18时17分]"
+        },
+        {
           "title": "港股收盘，恒生指数收跌0.71%，恒生科技指数收跌0.96%。地平线机器人跌超4%，康师傅控股涨超2%。",
           "url": "https://wallstreetcn.com/livenews/3005723",
           "source": "华尔街见闻-快讯",
@@ -458,17 +529,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
-        },
-        {
-          "title": "美股盘前，部分明星科技股走强，谷歌涨超5%，此前巴菲特首次建仓谷歌。特斯拉涨超1%、美光科技涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3005762",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
         },
         {
           "title": "金十图示：2025年11月17日（周一）中国科技互联网公司市值排名TOP 50一览",
@@ -554,7 +614,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -568,28 +628,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
-        },
-        {
-          "title": "谷歌：承诺投入225万美元支持非洲的AI相关数据产业。",
-          "url": "https://wallstreetcn.com/livenews/3005746",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        },
-        {
-          "title": "英联股份：子公司江苏英联复合集流体有限公司与某新能源科技有限公司签署了准固态半固态电池用的《复合铝箔战略采购合同》，某新能源科技公司根据其准固态半固态电池的应用需求，计划2026年-2027年向江苏英联合计采购5000万㎡以上的准固态半固态电池专用复合铝箔材料（锂离子电池正极电极集流体），其中2026年向江苏英联采购2000万㎡复合铝箔，2027年采购数量为3000万㎡以上。",
-          "url": "https://wallstreetcn.com/livenews/3005745",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
         },
         {
           "title": "前美联储副主席Lael Brainard（布雷纳德）：美联储应该为了防止劳动力市场进一步疲软而谨慎行事，下个月应再次降息。",
@@ -697,11 +735,12 @@
             16,
             14,
             15,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时15分 ~ 17时19分]"
+          "appearance_count": 26,
+          "time_info": "[00时15分 ~ 18时17分]"
         },
         {
           "title": "加拿大总理卡尼的政府即将在周一面临决定性的时刻。 加拿大下议院将投票表决（卡尼政府）已经给出的预算方案，该预算案将从军事和基础设施方面扩大开支。 如果预算案没能通过，可能会面临提前大选。",
@@ -737,8 +776,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时21分 ~ 17时19分]"
+          "appearance_count": 5,
+          "time_info": "[16时21分 ~ 18时17分]"
         },
         {
           "title": "韩国提议举行朝韩军事会谈",
@@ -748,8 +787,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 17时19分]"
+          "appearance_count": 4,
+          "time_info": "[17时18分 ~ 18时17分]"
         },
         {
           "title": "韩国提议举行朝韩军事会谈",
