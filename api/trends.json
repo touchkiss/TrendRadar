@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T13:15:57.000385+08:00",
-  "total_titles_processed": 961,
+  "generated_at": "2025-11-17T14:22:25.014102+08:00",
+  "total_titles_processed": 1050,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI openai IT 科技 gpt",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
         {
           "title": "周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术",
@@ -50,8 +50,23 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时02分 ~ 13时15分]"
+          "appearance_count": 7,
+          "time_info": "[09时02分 ~ 14时22分]"
+        },
+        {
+          "title": "申万宏源：科技“性价比不足”，顺周期“逻辑有断点”，“牛市2.0”条件不具备，现在是“牛市1.0”高位震荡",
+          "url": "https://wallstreetcn.com/articles/3759481",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时15分 ~ 14时22分]"
         },
         {
           "title": "Gemini3.0能碾压GPT-5.1吗",
@@ -66,22 +81,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时15分 ~ 13时15分]"
-        },
-        {
-          "title": "申万宏源：科技“性价比不足”，顺周期“逻辑有断点”，“牛市2.0”条件不具备，现在是“牛市1.0”高位震荡",
-          "url": "https://wallstreetcn.com/articles/3759481",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时15分 ~ 13时15分]"
+          "appearance_count": 19,
+          "time_info": "[00时15分 ~ 14时22分]"
         },
         {
           "title": "如何看待巴菲特「退休」前 Q3 加速抛苹果，首次建仓谷歌？向来对科技股谨慎的股神为何突然出手？",
@@ -119,11 +120,12 @@
             15,
             17,
             16,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时15分 ~ 13时15分]"
+          "appearance_count": 19,
+          "time_info": "[00时15分 ~ 14时22分]"
         },
         {
           "title": "AI爆梗王?串子罗伯特炸翻全场",
@@ -134,11 +136,12 @@
             25,
             27,
             29,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时15分 ~ 13时15分]"
+          "appearance_count": 19,
+          "time_info": "[00时15分 ~ 14时22分]"
         },
         {
           "title": "A股科技风格何时回归？十大券商策略来了",
@@ -151,8 +154,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时02分 ~ 13时15分]"
+          "appearance_count": 7,
+          "time_info": "[09时02分 ~ 14时22分]"
         },
         {
           "title": "宇树科技CEO王兴兴：AI将赋能机器人“理解世界”，下一个十年注定是“生长与绽放”",
@@ -214,6 +217,19 @@
           "time_info": "[04时15分 ~ 07时13分]"
         },
         {
+          "title": "华为，AI突破将发布",
+          "url": "https://wallstreetcn.com/articles/3759477",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时11分 ~ 14时22分]"
+        },
+        {
           "title": "如何看待「80% 的 AI 创业公司都在用中国开源模型」的现象？",
           "url": "https://www.zhihu.com/question/1971154128169301668",
           "source": "知乎",
@@ -249,27 +265,16 @@
           "time_info": "07时13分"
         },
         {
-          "title": "A股有机硅板块午后拉升，东岳硅材涨近10%，晨光新材、硅宝科技、晨化股份、宏柏新材、合盛硅业等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3005594",
-          "source": "华尔街见闻-快讯",
+          "title": "无须担心AI泡沫和科技股抛售？华尔街给出了这样的解释……",
+          "url": "https://www.cls.cn/detail/2201993",
+          "source": "财联社热门",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时15分"
-        },
-        {
-          "title": "华为，AI突破将发布",
-          "url": "https://wallstreetcn.com/articles/3759477",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时11分 ~ 13时15分]"
+          "appearance_count": 4,
+          "time_info": "[12时20分 ~ 14时22分]"
         },
         {
           "title": "2025量子科技和产业大会将于11月20日至22日在合肥举办",
@@ -284,15 +289,40 @@
           "time_info": "[12时21分 ~ 13时15分]"
         },
         {
-          "title": "无须担心AI泡沫和科技股抛售？华尔街给出了这样的解释……",
-          "url": "https://www.cls.cn/detail/2201993",
-          "source": "财联社热门",
+          "title": "A股有机硅板块午后拉升，东岳硅材涨近10%，晨光新材、硅宝科技、晨化股份、宏柏新材、合盛硅业等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3005594",
+          "source": "华尔街见闻-快讯",
           "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 14时22分]"
+        },
+        {
+          "title": "清仓英伟达！“白宫背后的科技大佬”Peter Thiel三季度大幅降仓，新买入微软和苹果",
+          "url": "https://wallstreetcn.com/articles/3759501",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时20分 ~ 13时15分]"
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 14时22分]"
+        },
+        {
+          "title": "成龙去世谣言系AI生成",
+          "url": "https://www.toutiao.com/trending/7573506510103691273/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 14时22分]"
         },
         {
           "title": "钠电池赛道迎重磅合作：容百科技锁单宁德时代60%钠电正极材料采购量｜速读公告",
@@ -306,6 +336,29 @@
           "time_info": "[12时20分 ~ 12时21分]"
         },
         {
+          "title": "成龙去世谣言系AI生成",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%88%90%E9%BE%99%E5%8E%BB%E4%B8%96%E8%B0%A3%E8%A8%80%E7%B3%BBAI%E7%94%9F%E6%88%90%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26c_type%3D31%26cate%3D5001%26dgr%3D0%26band_rank%3D18%26stream_entry_id%3D31%26pos%3D19%26realpos%3D18%26flag%3D1%26q%3D%2523%25E6%2588%2590%25E9%25BE%2599%25E5%258E%25BB%25E4%25B8%2596%25E8%25B0%25A3%25E8%25A8%2580%25E7%25B3%25BBAI%25E7%2594%259F%25E6%2588%2590%2523%26filter_type%3Drealtimehot%26display_time%3D1763356498%26pre_seqid%3D17633564985320329729489&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 14时22分]"
+        },
+        {
+          "title": "科创50指数跌超1%，九号公司、拓荆科技跌超5%，寒武纪跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3005623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
           "title": "金十图示：2025年11月17日（周一）全球主要科技与互联网公司市值变化",
           "url": "https://flash.jin10.com/detail/20251117105703844800",
           "source": "金十数据",
@@ -317,15 +370,15 @@
           "time_info": "11时12分"
         },
         {
-          "title": "清仓英伟达！“白宫背后的科技大佬”Peter Thiel三季度大幅降仓，新买入微软和苹果",
-          "url": "https://wallstreetcn.com/articles/3759501",
+          "title": "千问APP正式上线，阿里要打造AI超级入口！",
+          "url": "https://wallstreetcn.com/articles/3759516",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时15分"
+          "time_info": "14时22分"
         },
         {
           "title": "金十图示：2025年11月17日（周一）中国科技互联网公司市值排名TOP 50一览",
@@ -372,6 +425,17 @@
           "time_info": "11时12分"
         },
         {
+          "title": "香港恒生指数午后跌幅扩大至1%，恒生科技指数跌1.25%。地平线机器人跌超6%，携程集团跌近5%。",
+          "url": "https://wallstreetcn.com/livenews/3005608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
           "title": "阿里国际站推出AI Mode",
           "url": "https://wallstreetcn.com/livenews/3005547",
           "source": "华尔街见闻-快讯",
@@ -381,28 +445,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
-        },
-        {
-          "title": "成龙去世谣言系AI生成",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%88%90%E9%BE%99%E5%8E%BB%E4%B8%96%E8%B0%A3%E8%A8%80%E7%B3%BBAI%E7%94%9F%E6%88%90%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26c_type%3D31%26cate%3D5001%26dgr%3D0%26band_rank%3D18%26stream_entry_id%3D31%26pos%3D19%26realpos%3D18%26flag%3D1%26q%3D%2523%25E6%2588%2590%25E9%25BE%2599%25E5%258E%25BB%25E4%25B8%2596%25E8%25B0%25A3%25E8%25A8%2580%25E7%25B3%25BBAI%25E7%2594%259F%25E6%2588%2590%2523%26filter_type%3Drealtimehot%26display_time%3D1763356498%26pre_seqid%3D17633564985320329729489&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时15分"
-        },
-        {
-          "title": "成龙去世谣言系AI生成",
-          "url": "https://www.toutiao.com/trending/7573506510103691273/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时15分"
         },
         {
           "title": "前美联储副主席Lael Brainard（布雷纳德）：美联储应该为了防止劳动力市场进一步疲软而谨慎行事，下个月应再次降息。",
@@ -506,11 +548,12 @@
             1,
             2,
             5,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时15分 ~ 13时15分]"
+          "appearance_count": 19,
+          "time_info": "[00时15分 ~ 14时22分]"
         },
         {
           "title": "加拿大总理卡尼的政府即将在周一面临决定性的时刻。 加拿大下议院将投票表决（卡尼政府）已经给出的预算方案，该预算案将从军事和基础设施方面扩大开支。 如果预算案没能通过，可能会面临提前大选。",
