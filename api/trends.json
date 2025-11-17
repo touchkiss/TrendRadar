@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T19:13:43.922221+08:00",
-  "total_titles_processed": 1501,
+  "generated_at": "2025-11-17T20:27:40.578854+08:00",
+  "total_titles_processed": 1575,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI openai IT 科技 gpt",
-      "match_count": 58,
+      "match_count": 60,
       "titles": [
         {
           "title": "周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术",
@@ -54,6 +54,22 @@
           "time_info": "[00时15分 ~ 09时02分]"
         },
         {
+          "title": "千问APP正式上线，阿里要打造AI超级入口！",
+          "url": "https://wallstreetcn.com/articles/3759516",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时22分 ~ 20时27分]"
+        },
+        {
           "title": "申万宏源：科技“性价比不足”，顺周期“逻辑有断点”，“牛市2.0”条件不具备，现在是“牛市1.0”高位震荡",
           "url": "https://wallstreetcn.com/articles/3759481",
           "source": "华尔街见闻",
@@ -98,21 +114,6 @@
           "time_info": "[09时02分 ~ 15时16分]"
         },
         {
-          "title": "千问APP正式上线，阿里要打造AI超级入口！",
-          "url": "https://wallstreetcn.com/articles/3759516",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时22分 ~ 19时13分]"
-        },
-        {
           "title": "Gemini3.0能碾压GPT-5.1吗",
           "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E8%83%BD%E7%A2%BE%E5%8E%8BGPT-5.1%E5%90%97",
           "source": "bilibili 热搜",
@@ -129,6 +130,20 @@
           "time_info": "[00时15分 ~ 15时16分]"
         },
         {
+          "title": "清仓英伟达！“白宫背后的科技大佬”Peter Thiel三季度大幅降仓，新买入微软和苹果",
+          "url": "https://wallstreetcn.com/articles/3759501",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时15分 ~ 20时27分]"
+        },
+        {
           "title": "如何看待巴菲特「退休」前 Q3 加速抛苹果，首次建仓谷歌？向来对科技股谨慎的股神为何突然出手？",
           "url": "https://www.zhihu.com/question/1973043161929577003",
           "source": "知乎",
@@ -140,19 +155,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[02时17分 ~ 09时02分]"
-        },
-        {
-          "title": "清仓英伟达！“白宫背后的科技大佬”Peter Thiel三季度大幅降仓，新买入微软和苹果",
-          "url": "https://wallstreetcn.com/articles/3759501",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时15分 ~ 19时13分]"
         },
         {
           "title": "宇树科技完成IPO辅导",
@@ -203,6 +205,19 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时15分 ~ 14时22分]"
+        },
+        {
+          "title": "成龙去世照片系AI生成",
+          "url": "https://www.douyin.com/hot/2309157",
+          "source": "抖音",
+          "ranks": [
+            9,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时21分 ~ 20时27分]"
         },
         {
           "title": "宇树科技CEO王兴兴：AI将赋能机器人“理解世界”，下一个十年注定是“生长与绽放”",
@@ -277,18 +292,6 @@
           "time_info": "[11时11分 ~ 14时22分]"
         },
         {
-          "title": "成龙去世照片系AI生成",
-          "url": "https://www.douyin.com/hot/2309157",
-          "source": "抖音",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时21分 ~ 19时13分]"
-        },
-        {
           "title": "如何看待「80% 的 AI 创业公司都在用中国开源模型」的现象？",
           "url": "https://www.zhihu.com/question/1971154128169301668",
           "source": "知乎",
@@ -322,6 +325,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "CARBON3.AI将投资10亿英镑用于英国主权AI基础设施网络。",
+          "url": "https://wallstreetcn.com/livenews/3005849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         },
         {
           "title": "美股盘前，部分明星科技股走强，谷歌A(GOOGL.O)涨5.4%，此前巴菲特首次建仓谷歌。特斯拉(TSLA.O)涨1.2%、美光科技(MU.O)涨2.3%。热门中概股方面，阿里巴巴(BABA.N)涨3.3%。",
@@ -360,6 +374,19 @@
           "time_info": "[12时21分 ~ 13时15分]"
         },
         {
+          "title": "抄自家私募作业，核心IT老鼠仓获利近9000万",
+          "url": "https://www.cls.cn/detail/2202648",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时16分 ~ 20时27分]"
+        },
+        {
           "title": "A股有机硅板块午后拉升，东岳硅材涨近10%，晨光新材、硅宝科技、晨化股份、宏柏新材、合盛硅业等跟涨。",
           "url": "https://wallstreetcn.com/livenews/3005594",
           "source": "华尔街见闻-快讯",
@@ -384,6 +411,17 @@
           "time_info": "[18时17分 ~ 19时13分]"
         },
         {
+          "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
+          "url": "https://www.cls.cn/detail/2202608",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时16分 ~ 20时27分]"
+        },
+        {
           "title": "成龙去世谣言系AI生成",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%88%90%E9%BE%99%E5%8E%BB%E4%B8%96%E8%B0%A3%E8%A8%80%E7%B3%BBAI%E7%94%9F%E6%88%90%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26c_type%3D31%26cate%3D5001%26dgr%3D0%26band_rank%3D18%26stream_entry_id%3D31%26pos%3D19%26realpos%3D18%26flag%3D1%26q%3D%2523%25E6%2588%2590%25E9%25BE%2599%25E5%258E%25BB%25E4%25B8%2596%25E8%25B0%25A3%25E8%25A8%2580%25E7%25B3%25BBAI%25E7%2594%259F%25E6%2588%2590%2523%26filter_type%3Drealtimehot%26display_time%3D1763356498%26pre_seqid%3D17633564985320329729489&launchid=10000360-page_H5",
           "source": "微博",
@@ -396,29 +434,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时15分 ~ 15时16分]"
-        },
-        {
-          "title": "抄自家私募作业，核心IT老鼠仓获利近9000万",
-          "url": "https://www.cls.cn/detail/2202648",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时16分 ~ 19时13分]"
-        },
-        {
-          "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
-          "url": "https://www.cls.cn/detail/2202608",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时16分 ~ 19时13分]"
         },
         {
           "title": "阿里 Qwen 同名个人 AI 助理「千问」App 开始公测，该产品体验效果如何？",
@@ -534,6 +549,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
+        },
+        {
+          "title": "CARBON3.AI将投资10亿英镑用于英国主权人工智能基础设施网络。",
+          "url": "https://flash.jin10.com/detail/20251117195327094800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         },
         {
           "title": "金十图示：2025年11月17日（周一）中国科技互联网公司市值排名TOP 50一览",
@@ -726,7 +752,7 @@
     },
     {
       "keyword_group": "军事",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "央视军事深扒日本航母化之路",
@@ -768,11 +794,23 @@
           "url": "https://www.douyin.com/hot/2309256",
           "source": "抖音",
           "ranks": [
-            20
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时21分 ~ 20时27分]"
+        },
+        {
+          "title": "韩国提议举行朝韩军事会谈",
+          "url": "https://news.ifeng.com/c/8oMC0qsvVwU",
+          "source": "凤凰网",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[16时21分 ~ 19时13分]"
+          "time_info": "[17时18分 ~ 20时27分]"
         },
         {
           "title": "韩国提议举行朝韩军事会谈",
@@ -787,17 +825,6 @@
         },
         {
           "title": "韩国提议举行朝韩军事会谈",
-          "url": "https://news.ifeng.com/c/8oMC0qsvVwU",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时18分 ~ 19时13分]"
-        },
-        {
-          "title": "韩国提议举行朝韩军事会谈",
           "url": "https://wallstreetcn.com/livenews/3005716",
           "source": "华尔街见闻-快讯",
           "ranks": [
@@ -806,6 +833,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：与法国总统马克龙一起签署了一份关于合作购买乌克兰国防装备的意向声明。该文件使我国有机会从法国国防工业和技术基地购买军事装备，包括到2035年为乌克兰购买100架阵风F4飞机，SAMP-T防空系统，防空系统雷达，空对空导弹和航空炸弹。",
+          "url": "https://flash.jin10.com/detail/20251117194732938800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         },
         {
           "title": "厄瓜多尔公投反对设立外国军事基地",
