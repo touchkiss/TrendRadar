@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-18T16:19:47.756730+08:00",
-  "total_titles_processed": 1468,
+  "generated_at": "2025-11-18T17:16:39.627381+08:00",
+  "total_titles_processed": 1553,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI openai IT 科技 gpt",
-      "match_count": 50,
+      "match_count": 57,
       "titles": [
         {
           "title": "网传江苏科技大学首席科学家仅高中学历，伪造履历欺诈科研经费，知情人称其已被带走调查，暴露了哪些问题？",
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时44分 ~ 16时19分]"
+          "appearance_count": 11,
+          "time_info": "[10时44分 ~ 17时16分]"
         },
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
           "url": "https://wallstreetcn.com/articles/3759576",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时44分 ~ 16时19分]"
+          "appearance_count": 11,
+          "time_info": "[10时44分 ~ 17时16分]"
         },
         {
           "title": "千问APP正式上线，阿里要打造AI超级入口！",
@@ -60,8 +61,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时18分 ~ 16时19分]"
+          "appearance_count": 8,
+          "time_info": "[12时18分 ~ 17时16分]"
         },
         {
           "title": "美债务危机愈演愈烈？马斯克：不想破产，就只能发展AI和机器人！",
@@ -75,8 +76,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时44分 ~ 16时19分]"
+          "appearance_count": 11,
+          "time_info": "[10时44分 ~ 17时16分]"
         },
         {
           "title": "网传江苏科技大学首席科学家仅高中学历，伪造履历拼凑成果堆叠头衔欺诈科研经费，已被带走调查，是真的吗？",
@@ -118,8 +119,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时13分 ~ 16时19分]"
+          "appearance_count": 14,
+          "time_info": "[07时13分 ~ 17时16分]"
         },
         {
           "title": "新质观察｜谁来喂饱中国的AI？公共数据开放的关键一跃",
@@ -129,11 +130,12 @@
             16,
             14,
             12,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时44分 ~ 16时19分]"
+          "appearance_count": 11,
+          "time_info": "[10时44分 ~ 17时16分]"
         },
         {
           "title": "成龙去世照片系AI生成",
@@ -176,6 +178,20 @@
           "time_info": "[10时44分 ~ 14时21分]"
         },
         {
+          "title": "英伟达周四清晨再临“大考”：面对AI泡沫担忧情绪 黄仁勋能否交出满分答卷？",
+          "url": "https://www.cls.cn/detail/2203555",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时21分 ~ 17时16分]"
+        },
+        {
           "title": "网传江苏科技大学首席科学家仅高中学历，伪造履历欺诈科研经费，学校称其已被警方带走调查，暴露了哪些问题？",
           "url": "https://www.zhihu.com/question/1973879336030463533",
           "source": "知乎",
@@ -211,17 +227,26 @@
           "time_info": "15时15分"
         },
         {
-          "title": "英伟达周四清晨再临“大考”：面对AI泡沫担忧情绪 黄仁勋能否交出满分答卷？",
-          "url": "https://www.cls.cn/detail/2203555",
-          "source": "财联社热门",
+          "title": "百度发布Q3财报：AI业务收入增速超50%，AI云同比增33%",
+          "url": "https://wallstreetcn.com/livenews/3006401",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            6,
-            5
+            2
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时21分 ~ 16时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
+          "title": "百度集团第三季度营收311.7亿元人民币，同比下降7.1%，预估308.7亿元人民币。 第三季度百度核心收入247亿元人民币，同比下降6.9%，预估242.9亿元人民币。 第三季度爱奇艺收入67亿元人民币，预估67.2亿元人民币。 第三季度调整后EBITDA 44.3亿元人民币，同比下降49%，预估41.6亿元人民币。 第三季度调整后营业利润22.1亿元人民币，同比下降69%，预估21.2亿元人民币。 百度盘前涨超2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3006398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         },
         {
           "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
@@ -283,6 +308,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时16分 ~ 05时13分]"
+        },
+        {
+          "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
+          "url": "https://www.zhihu.com/question/1971246965376389265",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 17时16分]"
         },
         {
           "title": "11月18日午间收评：北证50指数半日跌超2%，AI应用方向逆势大涨",
@@ -366,17 +402,6 @@
           "time_info": "15时15分"
         },
         {
-          "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
-          "url": "https://www.zhihu.com/question/1971246965376389265",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
           "title": "据Politico：特朗普考虑将美国联邦紧急事务管理局（FEMA）总部迁移到得州。",
           "url": "https://flash.jin10.com/detail/20251118061632356800",
           "source": "金十数据",
@@ -410,6 +435,17 @@
           "time_info": "07时13分"
         },
         {
+          "title": "洁美科技：控股子公司柔震科技与宁德新能源科技有限公司签署《合作开发框架协议》，双方就“锂电池复合集流体”的联合设计开发、技术成果交付及后续产能保障等事宜达成合作，柔震科技将依据ATL需求完成定制化开发、样品交付及量产供应，双方共同推进复合集流体在锂电池领域的产业化应用。",
+          "url": "https://wallstreetcn.com/livenews/3006388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
           "title": "金十图示：2025年11月18日（周二）中国科技互联网公司市值排名TOP 50一览",
           "url": "https://flash.jin10.com/detail/20251118105113591800",
           "source": "金十数据",
@@ -430,6 +466,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "教育部党组书记怀进鹏：加快推进拔尖创新人才自主培养，推动科技创新与产业创新深度融合发展",
+          "url": "https://wallstreetcn.com/livenews/3006385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         },
         {
           "title": "美国总统特朗普考虑将联邦应急管理局（FEMA）总部迁移到得州。（Politico）",
@@ -498,6 +545,17 @@
           "time_info": "01时14分"
         },
         {
+          "title": "宁波方正：与宁波华翔启源科技有限公司签署了《战略合作协议》，双方就华翔启源机器人产品需求的精密结构件、关节模组等产品开展相关的开发和量产方面的合作。",
+          "url": "https://wallstreetcn.com/livenews/3006376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
           "title": "美股存储芯片股美光科技涨超5％，再创历史新高；西部数据涨近4％，闪迪涨近8％。",
           "url": "https://wallstreetcn.com/livenews/3005939",
           "source": "华尔街见闻-快讯",
@@ -507,6 +565,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "港股收盘：恒生指数收跌1.72%，恒生科技指数收跌1.93%，科技股、汽车股均走低，小鹏汽车跌超10%，百度跌近2%，小米跌超2.8%。",
+          "url": "https://wallstreetcn.com/livenews/3006370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         },
         {
           "title": "戴尔科技跌7.7%，惠普（HPQ）跌4.2%，摩根士丹利下调评级。",
@@ -529,6 +598,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
+        },
+        {
+          "title": "北京：到2027年成功转化一批服务国家战略需求、满足北京经济社会发展需要的重大科技成果",
+          "url": "https://wallstreetcn.com/livenews/3006369",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         },
         {
           "title": "欧盟评估将云服务纳入监管 AWS、Azure、谷歌云等科技巨头受关注",
@@ -581,7 +661,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -600,7 +680,7 @@
     },
     {
       "keyword_group": "军事",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "韩国提议举行朝韩军事会谈",
@@ -612,6 +692,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时19分 ~ 07时13分]"
+        },
+        {
+          "title": "央视军事直击2025迪拜航展",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E5%86%9B%E4%BA%8B%E7%9B%B4%E5%87%BB2025%E8%BF%AA%E6%8B%9C%E8%88%AA%E5%B1%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         },
         {
           "title": "特朗普暗示采取军事打击行动 施压墨西哥等拉美国家",
@@ -662,11 +753,12 @@
           "ranks": [
             10,
             14,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时14分 ~ 16时19分]"
+          "appearance_count": 7,
+          "time_info": "[13时14分 ~ 17时16分]"
         }
       ]
     }
