@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T03:12:29.208425+08:00",
-  "total_titles_processed": 493,
+  "generated_at": "2025-11-19T04:17:25.200504+08:00",
+  "total_titles_processed": 534,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI openai IT 科技 gpt",
-      "match_count": 32,
+      "match_count": 37,
       "titles": [
         {
           "title": "一图看懂 | AI产业迎密集事件催化 应用概念股全景图来了",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 03时12分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时17分]"
         },
         {
           "title": "新质观察｜谁来喂饱中国的AI？公共数据开放的关键一跃",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 03时12分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时17分]"
         },
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -39,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 03时12分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时17分]"
         },
         {
           "title": "外资密集唱多！小摩：中国是亚洲市场最大驱动力 科技股涨势才刚起步",
@@ -51,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 03时12分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时17分]"
         },
         {
           "title": "【数据看盘】机构连续两日减持锂电产业链 多路资金激烈博弈AI应用股",
@@ -62,8 +62,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 03时12分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时17分]"
         },
         {
           "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
@@ -71,11 +71,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 03时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 04时17分]"
         },
         {
           "title": "美股三大期指盘前集体走低 AI怀疑论打压风险偏好 | 今夜看点",
@@ -85,8 +86,57 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 03时12分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时17分]"
+        },
+        {
+          "title": "【每日收评】创业板指震荡走低跌超1%，锂电股全线退潮，AI应用方向逆势活跃",
+          "url": "https://www.cls.cn/detail/2203836",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时17分]"
+        },
+        {
+          "title": "白宫经济顾问哈塞特：AI提升生产率或致就业市场“平静期”，美联储是时候真正“以数据为驱动”",
+          "url": "https://wallstreetcn.com/articles/3759559",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时17分]"
+        },
+        {
+          "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
+          "url": "https://www.cls.cn/detail/2204017",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时17分]"
+        },
+        {
+          "title": "Plain Jane Remix编舞跳起来",
+          "url": "https://www.douyin.com/hot/2310465",
+          "source": "抖音",
+          "ranks": [
+            21,
+            26,
+            19,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时17分]"
         },
         {
           "title": "你认为该图片是真实拍摄的还是由AI生成的？",
@@ -100,63 +150,49 @@
           "time_info": "[02时20分 ~ 02时21分]"
         },
         {
-          "title": "【每日收评】创业板指震荡走低跌超1%，锂电股全线退潮，AI应用方向逆势活跃",
-          "url": "https://www.cls.cn/detail/2203836",
-          "source": "财联社热门",
+          "title": "英伟达(NVDA.O)：通过在微软(MSFT.O)全新Fairwater人工智能超级工厂中采用英伟达Spectrum-X以太网交换机，扩大与微软的合作范围。",
+          "url": "https://flash.jin10.com/detail/20251119040743481800",
+          "source": "金十数据",
           "ranks": [
-            9
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 03时12分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
         },
         {
-          "title": "白宫经济顾问哈塞特：AI提升生产率或致就业市场“平静期”，美联储是时候真正“以数据为驱动”",
-          "url": "https://wallstreetcn.com/articles/3759559",
-          "source": "华尔街见闻",
+          "title": "知情人士：沙特获准采购大量美国AI芯片",
+          "url": "https://flash.jin10.com/detail/20251119040550958800",
+          "source": "金十数据",
           "ranks": [
-            10
+            4
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 03时12分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
         },
         {
-          "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
-          "url": "https://www.cls.cn/detail/2204017",
-          "source": "财联社热门",
+          "title": "恒生指数主连夜盘收涨0.46%，报26033点。 恒生科技指数主连夜盘收涨0.89%，报5689点。",
+          "url": "https://wallstreetcn.com/livenews/3006699",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            11
+            5
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 03时12分]"
-        },
-        {
-          "title": "Plain Jane Remix编舞跳起来",
-          "url": "https://www.douyin.com/hot/2310465",
-          "source": "抖音",
-          "ranks": [
-            21,
-            26,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 03时12分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
         },
         {
           "title": "美国上诉法院驳回矿商Gold Reserve要求中止Citgo母公司拍卖的动议",
           "url": "https://wallstreetcn.com/livenews/3006693",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时12分 ~ 04时17分]"
         },
         {
           "title": "伦铜期货连跌三天，科技股估值恐慌情绪蔓延",
@@ -164,11 +200,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[02时21分 ~ 04时17分]"
+        },
+        {
+          "title": "Meta旗下Vibes AI至11月9日的日活用户数Wie200万。（Business Insider）",
+          "url": "https://wallstreetcn.com/livenews/3006673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时21分 ~ 04时17分]"
         },
         {
           "title": "百度美股短线拉升涨超2%，盘初一度跌近5%。 百度CFO何海建在Q3财报电话会上披露，自2023年3月发布文心一言以来，百度在AI领域的投入已超过1000亿元。未来，百度将持续加大AI投入。",
@@ -183,16 +233,15 @@
           "time_info": "[00时18分 ~ 01时15分]"
         },
         {
-          "title": "Meta旗下Vibes AI至11月9日的日活用户数Wie200万。（Business Insider）",
-          "url": "https://wallstreetcn.com/livenews/3006673",
+          "title": "美国金融监管部门FDIC反诉Capital One，指控其少付近1亿美元银行救助金",
+          "url": "https://wallstreetcn.com/livenews/3006698",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15,
-            18
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 03时12分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
         },
         {
           "title": "Meta领导层大洗牌 首席营收官与商业AI部门高管离职",
@@ -226,6 +275,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "市场消息：美国计划批准向沙特阿拉伯人工智能企业Humain出售芯片。",
+          "url": "https://flash.jin10.com/detail/20251119034535713800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
         },
         {
           "title": "瑞典AI编程初创公司Lovable接近按60亿美元估值完成最新一轮融资，年化持续收入达到2亿美元。（彭博）",
@@ -433,11 +493,12 @@
           "ranks": [
             16,
             10,
-            28
+            28,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 03时12分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时17分]"
         },
         {
           "title": "扇耳光比赛是暴力娱乐吗",
@@ -446,11 +507,12 @@
           "ranks": [
             28,
             27,
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 03时12分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时17分]"
         },
         {
           "title": "华纳兄弟探索公司(WBD.O)涨5.4%，此前派拉蒙天空舞娱乐公司正与三家阿拉伯主权财富基金联手，准备以710亿美元竞购该公司。",
