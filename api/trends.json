@@ -1,25 +1,11 @@
 {
-  "generated_at": "2025-11-18T22:20:51.069949+08:00",
-  "total_titles_processed": 1820,
-  "failed_sources": [
-    "toutiao",
-    "baidu",
-    "wallstreetcn-hot",
-    "thepaper",
-    "bilibili-hot-search",
-    "cls-hot",
-    "ifeng",
-    "jin10",
-    "wallstreetcn-quick",
-    "tieba",
-    "weibo",
-    "douyin",
-    "zhihu"
-  ],
+  "generated_at": "2025-11-18T23:17:01.721014+08:00",
+  "total_titles_processed": 1955,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI openai IT 科技 gpt",
-      "match_count": 68,
+      "match_count": 75,
       "titles": [
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -31,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时44分 ~ 20时31分]"
+          "appearance_count": 16,
+          "time_info": "[10时44分 ~ 23时17分]"
         },
         {
           "title": "网传江苏科技大学首席科学家仅高中学历，伪造履历欺诈科研经费，知情人称其已被带走调查，暴露了哪些问题？",
@@ -96,6 +82,23 @@
           "time_info": "[10时44分 ~ 17时16分]"
         },
         {
+          "title": "新质观察｜谁来喂饱中国的AI？公共数据开放的关键一跃",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31984369",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            12,
+            9,
+            8,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[10时44分 ~ 23时17分]"
+        },
+        {
           "title": "网传江苏科技大学首席科学家仅高中学历，伪造履历拼凑成果堆叠头衔欺诈科研经费，已被带走调查，是真的吗？",
           "url": "https://www.zhihu.com/question/1973879336030463533",
           "source": "知乎",
@@ -146,27 +149,25 @@
           "ranks": [
             10,
             7,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时13分 ~ 20时31分]"
+          "appearance_count": 19,
+          "time_info": "[07时13分 ~ 23时17分]"
         },
         {
-          "title": "新质观察｜谁来喂饱中国的AI？公共数据开放的关键一跃",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31984369",
-          "source": "澎湃新闻",
+          "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
+          "url": "https://www.zhihu.com/question/1971246965376389265",
+          "source": "知乎",
           "ranks": [
-            16,
-            14,
-            12,
-            9,
-            8,
-            7
+            6,
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时44分 ~ 20时31分]"
+          "appearance_count": 7,
+          "time_info": "[16时19分 ~ 23时17分]"
         },
         {
           "title": "成龙去世照片系AI生成",
@@ -181,17 +182,17 @@
           "time_info": "[00时19分 ~ 07时13分]"
         },
         {
-          "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
-          "url": "https://www.zhihu.com/question/1971246965376389265",
-          "source": "知乎",
+          "title": "一图看懂 | AI产业迎密集事件催化 应用概念股全景图来了",
+          "url": "https://www.cls.cn/detail/2203967",
+          "source": "财联社热门",
           "ranks": [
-            6,
             5,
-            3
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时19分 ~ 20时31分]"
+          "appearance_count": 4,
+          "time_info": "[19时13分 ~ 23时17分]"
         },
         {
           "title": "抄自家私募作业，核心IT老鼠仓获利近9000万",
@@ -222,6 +223,19 @@
           "time_info": "[10时44分 ~ 14时21分]"
         },
         {
+          "title": "外资密集唱多！小摩：中国是亚洲市场最大驱动力 科技股涨势才刚起步",
+          "url": "https://www.cls.cn/detail/2203806",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时13分 ~ 23时17分]"
+        },
+        {
           "title": "网传江苏科技大学首席科学家仅高中学历，伪造履历欺诈科研经费，学校称其已被警方带走调查，暴露了哪些问题？",
           "url": "https://www.zhihu.com/question/1973879336030463533",
           "source": "知乎",
@@ -246,18 +260,6 @@
           "time_info": "[11时42分 ~ 15时15分]"
         },
         {
-          "title": "一图看懂 | AI产业迎密集事件催化 应用概念股全景图来了",
-          "url": "https://www.cls.cn/detail/2203967",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 20时31分]"
-        },
-        {
           "title": "【沪指跌0.81%录得3连阴，AI应用方向逆势爆发】市场全天低开低走，三大指数午后均跌超1%。AI应用方向逆势大涨，宣亚国际、光云科技等多股涨停。半导体芯片股冲高回落，龙迅股份、大为股份涨停。下跌方面，煤炭板块走低，云能源能跌停；电池板块下挫，天际股份等跌停。个股跌多涨少，沪深京三市超4100股飘绿，今日成交1.94万亿。截止收盘沪指跌0.81%，深成指跌0.92%，创业板指跌1.16%。",
           "url": "https://wallstreetcn.com/livenews/3006322",
           "source": "华尔街见闻-快讯",
@@ -278,6 +280,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
+        },
+        {
+          "title": "【数据看盘】机构连续两日减持锂电产业链 多路资金激烈博弈AI应用股",
+          "url": "https://www.cls.cn/detail/2203937",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时13分 ~ 23时17分]"
         },
         {
           "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
@@ -301,18 +316,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时00分 ~ 16时19分]"
-        },
-        {
-          "title": "外资密集唱多！小摩：中国是亚洲市场最大驱动力 科技股涨势才刚起步",
-          "url": "https://www.cls.cn/detail/2203806",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 20时31分]"
         },
         {
           "title": "比特币下跌0.83%，报92668.86美元，创2024年4月份以来新低。 加密货币概念股走低，Coinbase跌7%，Bitfarms跌0.5%，Strategy跌2.9%，Riot Platforms跌1.2%，MARA Holdings跌4.1%。 ProShares比特币策略ETF跌1.6%，iShares比特币信托跌1.7%。",
@@ -377,6 +380,41 @@
           "time_info": "[17时16分 ~ 18时17分]"
         },
         {
+          "title": "【每日收评】创业板指震荡走低跌超1%，锂电股全线退潮，AI应用方向逆势活跃",
+          "url": "https://www.cls.cn/detail/2203836",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时17分 ~ 23时17分]"
+        },
+        {
+          "title": "Plain Jane Remix编舞跳起来",
+          "url": "https://www.douyin.com/hot/2310465",
+          "source": "抖音",
+          "ranks": [
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时31分 ~ 23时17分]"
+        },
+        {
+          "title": "美股三大期指盘前集体走低 AI怀疑论打压风险偏好 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2204220",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时16分 ~ 23时17分]"
+        },
+        {
           "title": "11月18日午间收评：北证50指数半日跌超2%，AI应用方向逆势大涨",
           "url": "https://wallstreetcn.com/livenews/3006232",
           "source": "华尔街见闻-快讯",
@@ -413,6 +451,17 @@
           "time_info": "[04时16分 ~ 05时13分]"
         },
         {
+          "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3759633",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时16分 ~ 23时17分]"
+        },
+        {
           "title": "洁美科技：控股子公司柔震科技与宁德新能源科技有限公司签署《合作开发框架协议》，双方就“锂电池复合集流体”的联合设计开发、技术成果交付及后续产能保障等事宜达成合作，柔震科技将依据ATL需求完成定制化开发、样品交付及量产供应，双方共同推进复合集流体在锂电池领域的产业化应用。",
           "url": "https://wallstreetcn.com/livenews/3006388",
           "source": "华尔街见闻-快讯",
@@ -423,18 +472,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时16分 ~ 18时17分]"
-        },
-        {
-          "title": "【数据看盘】机构连续两日减持锂电产业链 多路资金激烈博弈AI应用股",
-          "url": "https://www.cls.cn/detail/2203937",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 20时31分]"
         },
         {
           "title": "恒生科技指数跌2%，恒生指数跌1.72%。小鹏汽车跌约10%，赣锋锂业跌约8%，天齐锂业跌约7%。",
@@ -473,15 +510,15 @@
           "time_info": "[17时16分 ~ 18时17分]"
         },
         {
-          "title": "【每日收评】创业板指震荡走低跌超1%，锂电股全线退潮，AI应用方向逆势活跃",
-          "url": "https://www.cls.cn/detail/2203836",
-          "source": "财联社热门",
+          "title": "AI 时代，提出好问题更重要还是知道真答案更重要？",
+          "url": "https://www.zhihu.com/question/1966326160255344700",
+          "source": "知乎",
           "ranks": [
-            13
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时17分 ~ 20时31分]"
+          "time_info": "[23时16分 ~ 23时17分]"
         },
         {
           "title": "美股收跌 英伟达及科技股普跌",
@@ -616,6 +653,17 @@
           "time_info": "09时01分"
         },
         {
+          "title": "行业ETF美股盘初普跌，半导体ETF跌超1.4%，全球科技股指数ETF跌超1.2%，可选消费ETF跌超1.1%，科技行业ETF跌超0.9%，网络股指数ETF跌超0.7%。 在标普500指数的11个板块中，可选消费板块盘初跌0.95%，科技板块跌0.56%，能源板块跌0.38%，电信板块目前涨0.17%。",
+          "url": "https://wallstreetcn.com/livenews/3006592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "美国总统特朗普考虑将联邦应急管理局（FEMA）总部迁移到得州。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3006089",
           "source": "华尔街见闻-快讯",
@@ -671,6 +719,17 @@
           "time_info": "15时15分"
         },
         {
+          "title": "美股半导体板块普跌，纳微半导体(NVTS.O)跌1.7%、美光科技(MU.O)跌2.5%、台积电(TSM.N)跌1.5%。",
+          "url": "https://flash.jin10.com/detail/20251118223207687800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "Citi将隆基绿能评级上调至买进，目标价26元人民币。",
           "url": "https://wallstreetcn.com/livenews/3005971",
           "source": "华尔街见闻-快讯",
@@ -713,17 +772,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时16分"
-        },
-        {
-          "title": "Plain Jane Remix编舞跳起来",
-          "url": "https://www.douyin.com/hot/2310465",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时31分"
         },
         {
           "title": "戴尔科技跌7.7%，惠普（HPQ）跌4.2%，摩根士丹利下调评级。",
@@ -792,6 +840,17 @@
           "time_info": "00时19分"
         },
         {
+          "title": "卢伟冰表示，行业每隔几年就会进入内存涨跌周期，本轮周期主要是由AI带动HPC需求暴增引发的变化。今年一二季度内存价格突然上涨，三季度价格猛涨，预估四季度涨幅将更大。（一财）",
+          "url": "https://wallstreetcn.com/livenews/3006574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "蚂蚁推出全模态通用AI助手“灵光”",
           "url": "https://wallstreetcn.com/livenews/3006157",
           "source": "华尔街见闻-快讯",
@@ -823,12 +882,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "Intuit将斥资超过1亿美元与OpenAI签订一份多年期合同，旨在将这家ChatGPT开发商的人工智能模型进一步整合到TurboTax等金融应用程序中。",
+          "url": "https://flash.jin10.com/detail/20251118222128333800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         }
       ]
     },
     {
       "keyword_group": "军事",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "韩国提议举行朝韩军事会谈",
@@ -888,6 +958,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时13分 ~ 06时14分]"
+        },
+        {
+          "title": "谈及特朗普关于美国可能军事干预墨西哥的言论，墨西哥总统辛鲍姆重申“这不会发生”",
+          "url": "https://flash.jin10.com/detail/20251118224142428800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         }
       ]
     },
@@ -909,8 +990,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时14分 ~ 20时31分]"
+          "appearance_count": 12,
+          "time_info": "[13时14分 ~ 23时17分]"
         },
         {
           "title": "扇耳光比赛是暴力娱乐吗",
@@ -919,11 +1000,12 @@
           "ranks": [
             3,
             10,
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 20时31分]"
+          "appearance_count": 5,
+          "time_info": "[18时17分 ~ 23时17分]"
         }
       ]
     }
