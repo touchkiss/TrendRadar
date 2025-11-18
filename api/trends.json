@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-18T13:15:08.492154+08:00",
-  "total_titles_processed": 1188,
+  "generated_at": "2025-11-18T14:21:36.288782+08:00",
+  "total_titles_processed": 1255,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI openai IT 科技 gpt",
-      "match_count": 42,
+      "match_count": 45,
       "titles": [
         {
           "title": "千问APP正式上线，阿里要打造AI超级入口！",
@@ -38,8 +38,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时44分 ~ 13时15分]"
+          "appearance_count": 7,
+          "time_info": "[10时44分 ~ 14时21分]"
+        },
+        {
+          "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
+          "url": "https://wallstreetcn.com/articles/3759576",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时44分 ~ 14时21分]"
         },
         {
           "title": "网传江苏科技大学首席科学家仅高中学历，伪造履历拼凑成果堆叠头衔欺诈科研经费，已被带走调查，是真的吗？",
@@ -72,17 +83,6 @@
           "time_info": "[01时14分 ~ 12时18分]"
         },
         {
-          "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
-          "url": "https://wallstreetcn.com/articles/3759576",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时44分 ~ 13时15分]"
-        },
-        {
           "title": "白宫经济顾问哈塞特：AI提升生产率或致就业市场“平静期”，美联储是时候真正“以数据为驱动”",
           "url": "https://wallstreetcn.com/articles/3759559",
           "source": "华尔街见闻",
@@ -92,8 +92,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时13分 ~ 13时15分]"
+          "appearance_count": 10,
+          "time_info": "[07时13分 ~ 14时21分]"
         },
         {
           "title": "成龙去世照片系AI生成",
@@ -106,6 +106,31 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时19分 ~ 07时13分]"
+        },
+        {
+          "title": "科技融汇十五运 可感智慧与温情",
+          "url": "https://www.toutiao.com/trending/7573280046891515958/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时18分 ~ 14时21分]"
+        },
+        {
+          "title": "美债务危机愈演愈烈？马斯克：不想破产，就只能发展AI和机器人！",
+          "url": "https://www.cls.cn/detail/2203227",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时44分 ~ 14时21分]"
         },
         {
           "title": "抄自家私募作业，核心IT老鼠仓获利近9000万",
@@ -121,17 +146,6 @@
           "time_info": "[00时19分 ~ 06时14分]"
         },
         {
-          "title": "科技融汇十五运 可感智慧与温情",
-          "url": "https://www.toutiao.com/trending/7573280046891515958/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时18分 ~ 13时15分]"
-        },
-        {
           "title": "如何看待谷歌用 AI 找 FFmpeg 的 bug 并逼维护者修复，遭怒怼「有本事自己修」？",
           "url": "https://www.zhihu.com/question/1970226468920471782",
           "source": "知乎",
@@ -139,25 +153,12 @@
             12,
             5,
             6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时44分 ~ 13时15分]"
-        },
-        {
-          "title": "美债务危机愈演愈烈？马斯克：不想破产，就只能发展AI和机器人！",
-          "url": "https://www.cls.cn/detail/2203227",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
             8,
-            5
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时44分 ~ 13时15分]"
+          "appearance_count": 7,
+          "time_info": "[10时44分 ~ 14时21分]"
         },
         {
           "title": "网传江苏科技大学首席科学家仅高中学历，伪造履历欺诈科研经费，学校称其已被警方带走调查，暴露了哪些问题？",
@@ -180,8 +181,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时44分 ~ 13时15分]"
+          "appearance_count": 7,
+          "time_info": "[10时44分 ~ 14时21分]"
         },
         {
           "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
@@ -194,6 +195,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时19分 ~ 04时16分]"
+        },
+        {
+          "title": "为什么说千问能硬刚 ChatGPT？",
+          "url": "https://www.zhihu.com/question/1973891012469465744",
+          "source": "知乎",
+          "ranks": [
+            17,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时42分 ~ 14时21分]"
         },
         {
           "title": "比特币下跌0.83%，报92668.86美元，创2024年4月份以来新低。 加密货币概念股走低，Coinbase跌7%，Bitfarms跌0.5%，Strategy跌2.9%，Riot Platforms跌1.2%，MARA Holdings跌4.1%。 ProShares比特币策略ETF跌1.6%，iShares比特币信托跌1.7%。",
@@ -232,19 +246,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时16分 ~ 05时13分]"
-        },
-        {
-          "title": "为什么说千问能硬刚 ChatGPT？",
-          "url": "https://www.zhihu.com/question/1973891012469465744",
-          "source": "知乎",
-          "ranks": [
-            17,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 13时15分]"
         },
         {
           "title": "11月18日午间收评：北证50指数半日跌超2%，AI应用方向逆势大涨",
@@ -337,6 +338,17 @@
           "time_info": "07时13分"
         },
         {
+          "title": "英伟达周四清晨再临“大考”：面对AI泡沫担忧情绪 黄仁勋能否交出满分答卷？",
+          "url": "https://www.cls.cn/detail/2203555",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
           "title": "金十图示：2025年11月18日（周二）中国科技互联网公司市值排名TOP 50一览",
           "url": "https://flash.jin10.com/detail/20251118105113591800",
           "source": "金十数据",
@@ -357,6 +369,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "恒生科技指数跌2%，恒生指数跌1.72%。小鹏汽车跌约10%，赣锋锂业跌约8%，天齐锂业跌约7%。",
+          "url": "https://wallstreetcn.com/livenews/3006268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "A股储能概念持续调整，海博思创跌超10%，阿特斯、鹏辉能源、永福股份、奥特迅、派能科技等多股跌逾5%。",
+          "url": "https://wallstreetcn.com/livenews/3006267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "美国总统特朗普考虑将联邦应急管理局（FEMA）总部迁移到得州。（Politico）",
@@ -568,8 +602,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 13时15分]"
+          "appearance_count": 3,
+          "time_info": "[13时14分 ~ 14时21分]"
         }
       ]
     }
