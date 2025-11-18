@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T04:17:25.200504+08:00",
-  "total_titles_processed": 534,
+  "generated_at": "2025-11-19T06:14:09.605839+08:00",
+  "total_titles_processed": 605,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI openai IT 科技 gpt",
-      "match_count": 37,
+      "match_count": 41,
       "titles": [
         {
           "title": "一图看懂 | AI产业迎密集事件催化 应用概念股全景图来了",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 04时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 06时14分]"
         },
         {
           "title": "新质观察｜谁来喂饱中国的AI？公共数据开放的关键一跃",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 04时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 06时14分]"
         },
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -39,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 04时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 06时14分]"
         },
         {
           "title": "外资密集唱多！小摩：中国是亚洲市场最大驱动力 科技股涨势才刚起步",
@@ -51,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 04时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 06时14分]"
         },
         {
           "title": "【数据看盘】机构连续两日减持锂电产业链 多路资金激烈博弈AI应用股",
@@ -62,8 +62,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 04时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 06时14分]"
         },
         {
           "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
@@ -72,11 +72,12 @@
           "ranks": [
             5,
             3,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 04时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 06时14分]"
         },
         {
           "title": "美股三大期指盘前集体走低 AI怀疑论打压风险偏好 | 今夜看点",
@@ -86,8 +87,36 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 04时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 06时14分]"
+        },
+        {
+          "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
+          "url": "https://www.cls.cn/detail/2204017",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 06时14分]"
+        },
+        {
+          "title": "Plain Jane Remix编舞跳起来",
+          "url": "https://www.douyin.com/hot/2310465",
+          "source": "抖音",
+          "ranks": [
+            21,
+            26,
+            19,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 06时14分]"
         },
         {
           "title": "【每日收评】创业板指震荡走低跌超1%，锂电股全线退潮，AI应用方向逆势活跃",
@@ -112,33 +141,6 @@
           "time_info": "[00时18分 ~ 04时17分]"
         },
         {
-          "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
-          "url": "https://www.cls.cn/detail/2204017",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 04时17分]"
-        },
-        {
-          "title": "Plain Jane Remix编舞跳起来",
-          "url": "https://www.douyin.com/hot/2310465",
-          "source": "抖音",
-          "ranks": [
-            21,
-            26,
-            19,
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 04时17分]"
-        },
-        {
           "title": "你认为该图片是真实拍摄的还是由AI生成的？",
           "url": "https://www.zhihu.com/question/1971246965376389265",
           "source": "知乎",
@@ -156,7 +158,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
         },
@@ -167,7 +169,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
         },
@@ -178,7 +180,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
         },
@@ -233,13 +235,24 @@
           "time_info": "[00时18分 ~ 01时15分]"
         },
         {
+          "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3759633",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 06时14分]"
+        },
+        {
           "title": "美国金融监管部门FDIC反诉Capital One，指控其少付近1亿美元银行救助金",
           "url": "https://wallstreetcn.com/livenews/3006698",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
         },
@@ -277,13 +290,24 @@
           "time_info": "01时15分"
         },
         {
+          "title": "芯片初创公司TenStorrent洽谈融资至少8亿美元，由富达Fidelity牵头讨论。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3006736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
           "title": "市场消息：美国计划批准向沙特阿拉伯人工智能企业Humain出售芯片。",
           "url": "https://flash.jin10.com/detail/20251119034535713800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
         },
@@ -341,6 +365,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "美国股市连跌四天，半导体板块较历史峰值回撤超11%，纳指科技指数较收盘历史峰值回调超8%",
+          "url": "https://wallstreetcn.com/livenews/3006729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.42%，报7793.00点。 热门中概股里，大全新能源初步收跌6.7%，阿特斯太阳能跌6.7%，晶科能源跌6.1%，亚朵跌2.9%，再鼎医药跌2.2%，蔚来跌1.5%，百胜中国、新东方涨超2.6%。 ETF中，XtrackersHarvest中证50（ASHS）收跌0.41%，德银嘉实沪深300指数ETF（ASHR）收跌0.06%。 中国ETF-iShares MSCI（MCHI）收跌0.57%，中概互联网指数ETF（KWEB）收跌0.24%，中国科技指数ETF（CQQQ）收跌0.13%。",
+          "url": "https://wallstreetcn.com/livenews/3006727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
         },
         {
           "title": "法国总统马克龙：德国和法国支持推后一年再出台高风险AI制度。",
@@ -494,11 +540,12 @@
             16,
             10,
             28,
-            24
+            24,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 04时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 06时14分]"
         },
         {
           "title": "扇耳光比赛是暴力娱乐吗",
@@ -508,11 +555,12 @@
             28,
             27,
             24,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 04时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 06时14分]"
         },
         {
           "title": "华纳兄弟探索公司(WBD.O)涨5.4%，此前派拉蒙天空舞娱乐公司正与三家阿拉伯主权财富基金联手，准备以710亿美元竞购该公司。",
