@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-18T17:16:39.627381+08:00",
-  "total_titles_processed": 1553,
+  "generated_at": "2025-11-18T18:17:28.604628+08:00",
+  "total_titles_processed": 1649,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI openai IT 科技 gpt",
-      "match_count": 57,
+      "match_count": 61,
       "titles": [
         {
           "title": "网传江苏科技大学首席科学家仅高中学历，伪造履历欺诈科研经费，知情人称其已被带走调查，暴露了哪些问题？",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时44分 ~ 17时16分]"
+          "appearance_count": 12,
+          "time_info": "[10时44分 ~ 18时17分]"
         },
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -24,11 +24,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时44分 ~ 17时16分]"
+          "appearance_count": 12,
+          "time_info": "[10时44分 ~ 18时17分]"
         },
         {
           "title": "千问APP正式上线，阿里要打造AI超级入口！",
@@ -119,8 +120,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时13分 ~ 17时16分]"
+          "appearance_count": 15,
+          "time_info": "[07时13分 ~ 18时17分]"
         },
         {
           "title": "新质观察｜谁来喂饱中国的AI？公共数据开放的关键一跃",
@@ -131,11 +132,12 @@
             14,
             12,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时44分 ~ 17时16分]"
+          "appearance_count": 12,
+          "time_info": "[10时44分 ~ 18时17分]"
         },
         {
           "title": "成龙去世照片系AI生成",
@@ -148,6 +150,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时19分 ~ 07时13分]"
+        },
+        {
+          "title": "英伟达周四清晨再临“大考”：面对AI泡沫担忧情绪 黄仁勋能否交出满分答卷？",
+          "url": "https://www.cls.cn/detail/2203555",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时21分 ~ 18时17分]"
         },
         {
           "title": "抄自家私募作业，核心IT老鼠仓获利近9000万",
@@ -176,20 +192,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时44分 ~ 14时21分]"
-        },
-        {
-          "title": "英伟达周四清晨再临“大考”：面对AI泡沫担忧情绪 黄仁勋能否交出满分答卷？",
-          "url": "https://www.cls.cn/detail/2203555",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时21分 ~ 17时16分]"
         },
         {
           "title": "网传江苏科技大学首席科学家仅高中学历，伪造履历欺诈科研经费，学校称其已被警方带走调查，暴露了哪些问题？",
@@ -227,26 +229,16 @@
           "time_info": "15时15分"
         },
         {
-          "title": "百度发布Q3财报：AI业务收入增速超50%，AI云同比增33%",
-          "url": "https://wallstreetcn.com/livenews/3006401",
-          "source": "华尔街见闻-快讯",
+          "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
+          "url": "https://www.zhihu.com/question/1971246965376389265",
+          "source": "知乎",
           "ranks": [
-            2
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时16分"
-        },
-        {
-          "title": "百度集团第三季度营收311.7亿元人民币，同比下降7.1%，预估308.7亿元人民币。 第三季度百度核心收入247亿元人民币，同比下降6.9%，预估242.9亿元人民币。 第三季度爱奇艺收入67亿元人民币，预估67.2亿元人民币。 第三季度调整后EBITDA 44.3亿元人民币，同比下降49%，预估41.6亿元人民币。 第三季度调整后营业利润22.1亿元人民币，同比下降69%，预估21.2亿元人民币。 百度盘前涨超2.5%。",
-          "url": "https://wallstreetcn.com/livenews/3006398",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时16分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时19分 ~ 18时17分]"
         },
         {
           "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
@@ -298,6 +290,18 @@
           "time_info": "[03时11分 ~ 05时13分]"
         },
         {
+          "title": "百度发布Q3财报：AI业务收入增速超50%，AI云同比增33%",
+          "url": "https://wallstreetcn.com/livenews/3006401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 18时17分]"
+        },
+        {
           "title": "美国住房营建商跌幅扩大，抵押贷款申请量缩水。 Lennar跌4.6%，PulteGroup跌3.5%，Meritage Homes跌2.2%，房利美一度跌3%，房地美一度跌4.5%。",
           "url": "https://wallstreetcn.com/livenews/3006032",
           "source": "华尔街见闻-快讯",
@@ -310,15 +314,16 @@
           "time_info": "[04时16分 ~ 05时13分]"
         },
         {
-          "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
-          "url": "https://www.zhihu.com/question/1971246965376389265",
-          "source": "知乎",
+          "title": "百度集团第三季度营收311.7亿元人民币，同比下降7.1%，预估308.7亿元人民币。 第三季度百度核心收入247亿元人民币，同比下降6.9%，预估242.9亿元人民币。 第三季度爱奇艺收入67亿元人民币，预估67.2亿元人民币。 第三季度调整后EBITDA 44.3亿元人民币，同比下降49%，预估41.6亿元人民币。 第三季度调整后营业利润22.1亿元人民币，同比下降69%，预估21.2亿元人民币。 百度盘前涨超2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3006398",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            4,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时19分 ~ 17时16分]"
+          "time_info": "[17时16分 ~ 18时17分]"
         },
         {
           "title": "11月18日午间收评：北证50指数半日跌超2%，AI应用方向逆势大涨",
@@ -345,6 +350,18 @@
           "time_info": "[04时16分 ~ 05时13分]"
         },
         {
+          "title": "洁美科技：控股子公司柔震科技与宁德新能源科技有限公司签署《合作开发框架协议》，双方就“锂电池复合集流体”的联合设计开发、技术成果交付及后续产能保障等事宜达成合作，柔震科技将依据ATL需求完成定制化开发、样品交付及量产供应，双方共同推进复合集流体在锂电池领域的产业化应用。",
+          "url": "https://wallstreetcn.com/livenews/3006388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 18时17分]"
+        },
+        {
           "title": "恒生科技指数跌2%，恒生指数跌1.72%。小鹏汽车跌约10%，赣锋锂业跌约8%，天齐锂业跌约7%。",
           "url": "https://wallstreetcn.com/livenews/3006268",
           "source": "华尔街见闻-快讯",
@@ -367,6 +384,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时21分 ~ 15时15分]"
+        },
+        {
+          "title": "教育部党组书记怀进鹏：加快推进拔尖创新人才自主培养，推动科技创新与产业创新深度融合发展",
+          "url": "https://wallstreetcn.com/livenews/3006385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 18时17分]"
         },
         {
           "title": "美股收跌 英伟达及科技股普跌",
@@ -413,6 +442,28 @@
           "time_info": "07时13分"
         },
         {
+          "title": "小米集团：2025年第三季度手机×AIoT分部收入同比增长1.6%",
+          "url": "https://wallstreetcn.com/livenews/3006420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
+          "title": "蚂蚁下场抢夺AI超级入口：全模态通用AI助手“灵光”正式上线，30秒即可生成应用",
+          "url": "https://wallstreetcn.com/articles/3759594",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
           "title": "金十图示：2025年11月18日（周二）全球主要科技与互联网公司市值变化",
           "url": "https://flash.jin10.com/detail/20251118105536081800",
           "source": "金十数据",
@@ -435,15 +486,15 @@
           "time_info": "07时13分"
         },
         {
-          "title": "洁美科技：控股子公司柔震科技与宁德新能源科技有限公司签署《合作开发框架协议》，双方就“锂电池复合集流体”的联合设计开发、技术成果交付及后续产能保障等事宜达成合作，柔震科技将依据ATL需求完成定制化开发、样品交付及量产供应，双方共同推进复合集流体在锂电池领域的产业化应用。",
-          "url": "https://wallstreetcn.com/livenews/3006388",
+          "title": "小米集团：2025年Q3智能电动汽车及AI等创新业务分部首次实现单季度经营盈利",
+          "url": "https://wallstreetcn.com/livenews/3006418",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时16分"
+          "time_info": "18时17分"
         },
         {
           "title": "金十图示：2025年11月18日（周二）中国科技互联网公司市值排名TOP 50一览",
@@ -468,15 +519,15 @@
           "time_info": "09时01分"
         },
         {
-          "title": "教育部党组书记怀进鹏：加快推进拔尖创新人才自主培养，推动科技创新与产业创新深度融合发展",
-          "url": "https://wallstreetcn.com/livenews/3006385",
-          "source": "华尔街见闻-快讯",
+          "title": "【每日收评】创业板指震荡走低跌超1%，锂电股全线退潮，AI应用方向逆势活跃",
+          "url": "https://www.cls.cn/detail/2203836",
+          "source": "财联社热门",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时16分"
+          "time_info": "18时17分"
         },
         {
           "title": "美国总统特朗普考虑将联邦应急管理局（FEMA）总部迁移到得州。（Politico）",
@@ -551,7 +602,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时16分"
         },
@@ -573,7 +624,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时16分"
         },
@@ -606,7 +657,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时16分"
         },
@@ -700,9 +751,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 18时17分]"
         },
         {
           "title": "特朗普暗示采取军事打击行动 施压墨西哥等拉美国家",
@@ -744,7 +795,7 @@
     },
     {
       "keyword_group": "娱乐",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "娱乐圈年度最混乱瓜田",
@@ -754,11 +805,23 @@
             10,
             14,
             16,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时14分 ~ 17时16分]"
+          "appearance_count": 8,
+          "time_info": "[13时14分 ~ 18时17分]"
+        },
+        {
+          "title": "扇耳光比赛是暴力娱乐吗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%89%87%E8%80%B3%E5%85%89%E6%AF%94%E8%B5%9B%E6%98%AF%E6%9A%B4%E5%8A%9B%E5%A8%B1%E4%B9%90%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         }
       ]
     }
