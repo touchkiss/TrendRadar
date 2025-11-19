@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T00:19:03.440190+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-20T01:14:25.757413+08:00",
+  "total_titles_processed": 374,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI openai IT 科技 gpt",
-      "match_count": 11,
+      "match_count": 17,
       "titles": [
         {
           "title": "英伟达财报前市场情绪谨慎，标普连跌四日，科技股重挫，比特币、现货黄金反弹",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 01时14分]"
         },
         {
           "title": "欧莱雅中国x阿里云：以AI共启美妆行业数智化新篇章",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 01时14分]"
         },
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -37,19 +37,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 01时14分]"
         },
         {
-          "title": "马斯克：xAI和沙特正在与英伟达(NVDA.O)合作进行一个500兆瓦的项目。",
-          "url": "https://flash.jin10.com/detail/20251120000958341800",
-          "source": "金十数据",
+          "title": "Gemini3是目前最强AI吗",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI%E5%90%97",
+          "source": "bilibili 热搜",
           "ranks": [
-            1
+            6,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 01时14分]"
         },
         {
           "title": "马斯克：xAI与沙特在做一个500 Megawatt的项目，英伟达有参与。",
@@ -58,20 +59,32 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
         },
         {
-          "title": "Gemini3是目前最强AI吗",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI%E5%90%97",
-          "source": "bilibili 热搜",
+          "title": "摩根大通分析师：不认为投资者会盲目追逐与AI主题相关的低质量或无盈利公司",
+          "url": "https://wallstreetcn.com/livenews/3007334",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "马斯克：xAI和沙特正在与英伟达(NVDA.O)合作进行一个500兆瓦的项目。",
+          "url": "https://flash.jin10.com/detail/20251120000958341800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "time_info": "[00时19分 ~ 01时14分]"
         },
         {
           "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
@@ -81,8 +94,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 01时14分]"
         },
         {
           "title": "财晓得｜AI正在如何改写教育类APP版图？",
@@ -92,19 +105,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 01时14分]"
         },
         {
           "title": "爆冲榜首!豆包反超AI老大哥登顶",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347260&amp;topic_name=%E7%88%86%E5%86%B2%E6%A6%9C%E9%A6%96%21%E8%B1%86%E5%8C%85%E5%8F%8D%E8%B6%85AI%E8%80%81%E5%A4%A7%E5%93%A5%E7%99%BB%E9%A1%B6",
           "source": "贴吧",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 01时14分]"
         },
         {
           "title": "江苏科技大学造假者郭某商业版图曝光，经营多家材料企业",
@@ -114,8 +128,63 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 01时14分]"
+        },
+        {
+          "title": "Lithium Americas的CEO Jonathan Evans告诉美国国会山一个委员会：华盛顿应当支持锂“暂时性的低价”。",
+          "url": "https://wallstreetcn.com/livenews/3007326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "AMD、思科成立合资公司，得到沙特Humain的支持，将修建总体100 MW的数据中心。",
+          "url": "https://wallstreetcn.com/livenews/3007325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "马斯克：xAI与沙特在做一个500 Megawatt的项目，英伟达有参与。 xAI将在沙特开发一个500 MW的数据中心。 沙特AI公司Humain和英伟达都将参与xAI在沙特的数据中心项目。",
+          "url": "https://wallstreetcn.com/livenews/3007319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "AMD、思科联手沙特Humain成立AI数据中心合资企业",
+          "url": "https://flash.jin10.com/detail/20251120002125058800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "报道：xAI与沙特Humain联手建500兆瓦AI数据中心",
+          "url": "https://flash.jin10.com/detail/20251120001716224800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时14分"
         },
         {
           "title": "美国银行：科技股连续第五周遭遇资金流出",
@@ -124,7 +193,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
         }
@@ -141,7 +210,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
         }
@@ -158,7 +227,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
         }
