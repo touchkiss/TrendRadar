@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T18:16:01.091768+08:00",
-  "total_titles_processed": 1429,
+  "generated_at": "2025-11-19T19:13:46.072806+08:00",
+  "total_titles_processed": 1517,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI openai IT 科技 gpt",
-      "match_count": 94,
+      "match_count": 96,
       "titles": [
         {
           "title": "英伟达财报前市场情绪谨慎，标普连跌四日，科技股重挫，比特币、现货黄金反弹",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时01分 ~ 18时16分]"
+          "appearance_count": 16,
+          "time_info": "[09时01分 ~ 19时13分]"
         },
         {
           "title": "一图看懂 | AI产业迎密集事件催化 应用概念股全景图来了",
@@ -77,6 +77,20 @@
           "time_info": "[00时18分 ~ 07时13分]"
         },
         {
+          "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
+          "url": "https://wallstreetcn.com/articles/3759657",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[09时01分 ~ 19时13分]"
+        },
+        {
           "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
           "url": "https://www.cls.cn/detail/2204501",
           "source": "财联社热门",
@@ -100,24 +114,27 @@
             5,
             7,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时42分 ~ 18时16分]"
+          "appearance_count": 13,
+          "time_info": "[11时42分 ~ 19时13分]"
         },
         {
-          "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
-          "url": "https://wallstreetcn.com/articles/3759657",
+          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
+          "url": "https://wallstreetcn.com/articles/3759673",
           "source": "华尔街见闻",
           "ranks": [
+            10,
+            9,
             7,
-            6,
+            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时01分 ~ 18时16分]"
+          "appearance_count": 14,
+          "time_info": "[10时45分 ~ 19时13分]"
         },
         {
           "title": "美股三大期指盘前集体走低 AI怀疑论打压风险偏好 | 今夜看点",
@@ -160,20 +177,6 @@
           "time_info": "[00时18分 ~ 09时01分]"
         },
         {
-          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
-          "url": "https://wallstreetcn.com/articles/3759673",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时45分 ~ 18时16分]"
-        },
-        {
           "title": "Gemini3为何是目前最强AI",
           "url": "https://search.bilibili.com/all?keyword=Gemini3%E4%B8%BA%E4%BD%95%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI",
           "source": "bilibili 热搜",
@@ -186,11 +189,12 @@
             7,
             19,
             20,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时44分 ~ 18时16分]"
+          "appearance_count": 15,
+          "time_info": "[10时44分 ~ 19时13分]"
         },
         {
           "title": "江苏科技大学通报郭某学术造假事件，已解聘并报案，此事还有哪些疑点？校方在引进审核中是否存在失职责任？",
@@ -198,11 +202,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时42分 ~ 18时16分]"
+          "appearance_count": 13,
+          "time_info": "[11时42分 ~ 19时13分]"
         },
         {
           "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
@@ -225,11 +230,26 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时44分 ~ 18时16分]"
+          "appearance_count": 13,
+          "time_info": "[10时44分 ~ 19时13分]"
+        },
+        {
+          "title": "财晓得｜AI正在如何改写教育类APP版图？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31941227",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时15分 ~ 19时13分]"
         },
         {
           "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
@@ -278,18 +298,31 @@
           "time_info": "[10时44分 ~ 15时15分]"
         },
         {
-          "title": "财晓得｜AI正在如何改写教育类APP版图？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31941227",
-          "source": "澎湃新闻",
+          "title": "王自如深度体验谷歌AI",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
+          "source": "bilibili 热搜",
           "ranks": [
-            19,
-            15,
-            13,
-            9
+            9,
+            18,
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时15分 ~ 18时16分]"
+          "appearance_count": 8,
+          "time_info": "[15时14分 ~ 19时13分]"
+        },
+        {
+          "title": "欧莱雅中国x阿里云：以AI共启美妆行业数智化新篇章",
+          "url": "https://www.cls.cn/detail/2198644",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 19时13分]"
         },
         {
           "title": "【每日收评】创业板指震荡走低跌超1%，锂电股全线退潮，AI应用方向逆势活跃",
@@ -301,19 +334,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时18分 ~ 04时17分]"
-        },
-        {
-          "title": "王自如深度体验谷歌AI",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时14分 ~ 18时16分]"
         },
         {
           "title": "白宫经济顾问哈塞特：AI提升生产率或致就业市场“平静期”，美联储是时候真正“以数据为驱动”",
@@ -364,6 +384,19 @@
           "time_info": "[11时42分 ~ 13时15分]"
         },
         {
+          "title": "江苏科技大学博导郭某涉嫌学术造假被带走调查：学校回应已离职，简历多处与事实不符",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31991091",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时18分 ~ 19时13分]"
+        },
+        {
           "title": "英伟达(NVDA.O)：通过在微软(MSFT.O)全新Fairwater人工智能超级工厂中采用英伟达Spectrum-X以太网交换机，扩大与微软的合作范围。",
           "url": "https://flash.jin10.com/detail/20251119040743481800",
           "source": "金十数据",
@@ -373,6 +406,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
+        },
+        {
+          "title": "一个名为“人工智能基础设施联盟”的科技友好型组织将于周三晚在美国白宫附近举行招待会，正式启动。",
+          "url": "https://flash.jin10.com/detail/20251119191139085800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "知情人士：沙特获准采购大量美国AI芯片",
@@ -397,18 +441,6 @@
           "time_info": "07时13分"
         },
         {
-          "title": "欧莱雅中国x阿里云：以AI共启美妆行业数智化新篇章",
-          "url": "https://www.cls.cn/detail/2198644",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时16分 ~ 18时16分]"
-        },
-        {
           "title": "恒生指数主连夜盘收涨0.46%，报26033点。 恒生科技指数主连夜盘收涨0.89%，报5689点。",
           "url": "https://wallstreetcn.com/livenews/3006699",
           "source": "华尔街见闻-快讯",
@@ -429,19 +461,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
-        },
-        {
-          "title": "江苏科技大学博导郭某涉嫌学术造假被带走调查：学校回应已离职，简历多处与事实不符",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31991091",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时18分 ~ 18时16分]"
         },
         {
           "title": "港交所：将推出恒生生物科技指数期货",
@@ -505,6 +524,19 @@
           "time_info": "[16时19分 ~ 17时16分]"
         },
         {
+          "title": "美股AI牛市年末何去何从？黄仁勋和鲍威尔成“关键先生”……",
+          "url": "https://www.cls.cn/detail/2204885",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 19时13分]"
+        },
+        {
           "title": "AI泡沫担忧加剧之际 微软、英伟达与Anthropic宣布达成合作",
           "url": "https://www.cls.cn/detail/2204353",
           "source": "财联社热门",
@@ -543,18 +575,6 @@
           "time_info": "[10时45分 ~ 12时18分]"
         },
         {
-          "title": "美股AI牛市年末何去何从？黄仁勋和鲍威尔成“关键先生”……",
-          "url": "https://www.cls.cn/detail/2204885",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时16分 ~ 18时16分]"
-        },
-        {
           "title": "特朗普称沙特将获得F-35战机 谷歌推出新一代AI模型Gemini 3 | 环球市场",
           "url": "https://www.cls.cn/detail/2204388",
           "source": "财联社热门",
@@ -565,6 +585,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时01分 ~ 15时15分]"
+        },
+        {
+          "title": "对科研没兴趣，有必要为了 title 读博吗？",
+          "url": "https://www.zhihu.com/question/661562503",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时15分 ~ 19时13分]"
         },
         {
           "title": "Meta旗下Vibes AI至11月9日的日活用户数Wie200万。（Business Insider）",
@@ -723,17 +754,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时21分 ~ 15时15分]"
-        },
-        {
-          "title": "对科研没兴趣，有必要为了 title 读博吗？",
-          "url": "https://www.zhihu.com/question/661562503",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
         },
         {
           "title": "据美国政治新闻网站Politico：美国陆军部长丹·德里斯科尔和参谋长兰迪·乔治将军本周未宣布行程便抵达乌克兰。",
@@ -960,6 +980,17 @@
           "time_info": "06时14分"
         },
         {
+          "title": "美国内存芯片制造商的股票盘前上涨。西部数据上涨1%，希捷科技上涨0.75%；闪迪上涨1.6%，美光科技上涨2.2%。",
+          "url": "https://flash.jin10.com/detail/20251119183932817800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨0.42%，报7793.00点。 热门中概股里，大全新能源初步收跌6.7%，阿特斯太阳能跌6.7%，晶科能源跌6.1%，亚朵跌2.9%，再鼎医药跌2.2%，蔚来跌1.5%，百胜中国、新东方涨超2.6%。 ETF中，XtrackersHarvest中证50（ASHS）收跌0.41%，德银嘉实沪深300指数ETF（ASHR）收跌0.06%。 中国ETF-iShares MSCI（MCHI）收跌0.57%，中概互联网指数ETF（KWEB）收跌0.24%，中国科技指数ETF（CQQQ）收跌0.13%。",
           "url": "https://wallstreetcn.com/livenews/3006727",
           "source": "华尔街见闻-快讯",
@@ -1139,7 +1170,7 @@
     },
     {
       "keyword_group": "军事",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "墨西哥重申绝不容许美对墨军事干预",
@@ -1184,6 +1215,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
+        },
+        {
+          "title": "英国国防大臣希利：如果俄罗斯“扬塔尔”号船只改变航向，我们已准备好军事选项。",
+          "url": "https://flash.jin10.com/detail/20251119182713249800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "乌克兰军方：使用ATACMS导弹袭击了俄罗斯境内的军事目标。",
