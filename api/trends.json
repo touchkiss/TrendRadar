@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T07:14:22.780056+08:00",
-  "total_titles_processed": 670,
+  "generated_at": "2025-11-20T09:00:02.823553+08:00",
+  "total_titles_processed": 816,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI openai IT 科技 gpt",
-      "match_count": 56,
+      "match_count": 67,
       "titles": [
         {
           "title": "欧莱雅中国x阿里云：以AI共启美妆行业数智化新篇章",
@@ -50,11 +50,24 @@
             6,
             4,
             5,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 07时14分]"
+          "appearance_count": 14,
+          "time_info": "[00时18分 ~ 09时00分]"
+        },
+        {
+          "title": "财晓得｜AI正在如何改写教育类APP版图？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31941227",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时18分 ~ 09时00分]"
         },
         {
           "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
@@ -69,16 +82,30 @@
           "time_info": "[00时18分 ~ 07时14分]"
         },
         {
-          "title": "财晓得｜AI正在如何改写教育类APP版图？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31941227",
-          "source": "澎湃新闻",
+          "title": "AI应用关键一环！工信部助推这一行业发展 提出三个“下功夫”",
+          "url": "https://www.cls.cn/detail/2205150",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            7
+            13,
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 07时14分]"
+          "appearance_count": 10,
+          "time_info": "[02时20分 ~ 09时00分]"
+        },
+        {
+          "title": "江苏科技大学造假者郭某商业版图曝光，经营多家材料企业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31998987",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时18分 ~ 09时00分]"
         },
         {
           "title": "爆冲榜首!豆包反超AI老大哥登顶",
@@ -89,43 +116,31 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 07时14分]"
-        },
-        {
-          "title": "江苏科技大学造假者郭某商业版图曝光，经营多家材料企业",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31998987",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 07时14分]"
-        },
-        {
-          "title": "AI应用关键一环！工信部助推这一行业发展 提出三个“下功夫”",
-          "url": "https://www.cls.cn/detail/2205150",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时20分 ~ 07时14分]"
+          "appearance_count": 14,
+          "time_info": "[00时18分 ~ 09时00分]"
         },
         {
           "title": "AI泡沫的“核心争议”：GPU真的能“用”6年吗？",
           "url": "https://wallstreetcn.com/articles/3759684",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时14分 ~ 07时14分]"
+          "appearance_count": 8,
+          "time_info": "[04时14分 ~ 09时00分]"
+        },
+        {
+          "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
+          "url": "https://wallstreetcn.com/articles/3759700",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 09时00分]"
         },
         {
           "title": "美国商务部：已批准向位于阿联酋的G42公司和位于沙特的Humain公司出口先进的美国半导体产品。",
@@ -134,7 +149,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -167,7 +182,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -189,7 +204,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -200,7 +215,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -214,6 +229,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
+        },
+        {
+          "title": "江苏科技大学首席科学家被曝仅高中学历，他的科研成果是真实的吗？ 之前发表的论文有哪些漏洞？",
+          "url": "https://www.zhihu.com/question/1974197993361072520",
+          "source": "知乎",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 09时00分]"
         },
         {
           "title": "OpenAI：面向教师群体推出ChatGPT，他们可在2027年月份之前免费享用。 在那之后，可能会调整价格，但目标是让教师在ChatGPT使用上成为可以负担的教育工作者。",
@@ -352,6 +379,17 @@
           "time_info": "[05时11分 ~ 07时14分]"
         },
         {
+          "title": "黄仁勋抨击“AI泡沫论”：英伟达产品需求爆棚 AI正给客户带来回报",
+          "url": "https://www.cls.cn/detail/2205653",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 09时00分]"
+        },
+        {
           "title": "恒生指数主连夜盘收跌0.01%，报25820点。 恒生科技指数主连夜盘收跌0.55%，报5584点。",
           "url": "https://wallstreetcn.com/livenews/3007387",
           "source": "华尔街见闻-快讯",
@@ -362,6 +400,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时15分 ~ 05时11分]"
+        },
+        {
+          "title": "李彦宏人民日报撰文：内化AI能力，加快形成新质生产力",
+          "url": "https://www.cls.cn/detail/2205637",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 09时00分]"
+        },
+        {
+          "title": "有哪些物种看起来像 AI 生成的，但在自然界真实存在？",
+          "url": "https://www.zhihu.com/question/1971586666897563752",
+          "source": "知乎",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 09时00分]"
         },
         {
           "title": "沙特人工智能初创公司Humain：与Global AI建立合作伙伴关系，利用最新的英伟达AI基础设施，在美国和全球建设大规模AI数据中心和计算能力。",
@@ -424,13 +485,24 @@
           "time_info": "[02时20分 ~ 03时12分]"
         },
         {
+          "title": "闻泰科技：对安世的控制权仍受限",
+          "url": "https://www.toutiao.com/trending/7574052258440249386/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 09时00分]"
+        },
+        {
           "title": "英伟达CEO黄仁勋：客户的财务问题是他们自己的事。 每个国家将为自己的（AI）基础设施提供融资。",
           "url": "https://wallstreetcn.com/livenews/3007458",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -444,6 +516,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "英伟达财报为科技板块带来宽慰 日经指数强劲反弹",
+          "url": "https://flash.jin10.com/detail/20251120083014168800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时00分"
         },
         {
           "title": "Lithium Americas的CEO Jonathan Evans告诉美国国会山一个委员会：华盛顿应当支持锂“暂时性的低价”。",
@@ -463,9 +546,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "与爱泼斯坦关系密切，美前财长萨默斯辞去OpenAI董事等职务",
+          "url": "https://flash.jin10.com/detail/20251120082746009800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时00分"
         },
         {
           "title": "AMD、思科成立合资公司，得到沙特Humain的支持，将修建总体100 MW的数据中心。",
@@ -485,9 +579,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：对投资OpenAI 采取审慎态度。",
+          "url": "https://wallstreetcn.com/livenews/3007502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时00分"
         },
         {
           "title": "OpenAI：隆重推出GPT‑5.1-CODEX-MAX，今日已在CODEX上架。",
@@ -507,7 +612,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -545,6 +650,17 @@
           "time_info": "04时15分"
         },
         {
+          "title": "日经指数上涨逾3% 科技股受英伟达财报提振而上涨",
+          "url": "https://flash.jin10.com/detail/20251120081634973800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时00分"
+        },
+        {
           "title": "标普500指数收涨24.84点，涨幅0.38%，结束之前连续四个交易日下跌的趋势，报6642.16点。 道琼斯工业平均指数收涨47.03点，涨幅0.10%，报46138.77点。 纳斯达克综合指数（纳指）收涨131.383点，涨幅0.59%，报22564.229点。 纳斯达克100指数收涨137.419点，涨幅0.56%，报24640.515点。 纳斯达克生物科技指数收跌0.92%，报5558.33点。 费城半导体指数收涨1.82%，报6670.03点。 费城证交所KBW银行指数收涨1.00%，报147.64点。 道琼斯KBW地区银行指数收涨1.17%，报115.06点。",
           "url": "https://wallstreetcn.com/livenews/3007413",
           "source": "华尔街见闻-快讯",
@@ -562,7 +678,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -584,7 +700,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -595,7 +711,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -617,7 +733,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -639,7 +755,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -653,6 +769,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "特朗普考虑最早周五签署有关AI的行政令。（The Verge）",
+          "url": "https://wallstreetcn.com/livenews/3007479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时00分"
         }
       ]
     },
